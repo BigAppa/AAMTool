@@ -1,0 +1,4 @@
+[O]=[C]([OH])[CH2][CH]([O][C](=[O])[CH2][CH]([OH])[CH3])[CH3].[H][OH]>>[H][O][C](=[O])[CH2][CH]([OH])[CH3].[O]=[C]([OH])[CH2][CH]([OH])[CH3]
+[H]C1=CC(OC(=C)C(O)=O)C(O)C(=C1)C(O)=O>>[H]C1=CC(=CC(OC(=C)C(O)=O)C1O)C(O)=O
+[H]C(N)(Cc1c[nH]c2ccccc12)C(O)=O.OC(=O)C(=O)Cc1ccccc1>>OC(=O)C(=O)Cc1c[nH]c2ccccc12.[H]C(N)(Cc1ccccc1)C(O)=O
+[H]C(N)(CCSC)C(O)=O.OC(=O)C=O>>CSCCC(=O)C(O)=O.[H]C(N)C(O)=O
