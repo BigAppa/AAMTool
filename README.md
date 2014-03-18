@@ -1,8 +1,6 @@
 AAMTool
 =======
-Perform Atom Atom Mapping (AAM) on a balanced biochemical reaction (supported I/O formats are SMILES/RXN) catalysed by enzymes. This tool is also used in generation AAM for EC-BLAST. 
-
-The knowledge of AAM is used to reconstruct metabolic pathways, understand bond changes in a reaction and compare reactions etc.
+Perform Atom Atom Mapping (AAM) on a balanced biochemical reaction (supported I/O formats are SMILES/RXN) catalysed by enzymes. This tool is also used in generation AAM for EC-BLAST. The knowledge of AAM is used to reconstruct metabolic pathways, understand bond changes in a reaction and compare reactions etc.
 
 Please cite: 
 
@@ -11,6 +9,7 @@ Automatically Search and Compare Enzyme Reactions, Nature Methods.
 
 ------------------------------------------------------------------
 Note: This code is compatible to JVM 7.0+
+------------------------------------------------------------------
 
 Command line options for AAM with a Reaction SMILES:
 
