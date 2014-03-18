@@ -2,7 +2,7 @@
 =======
 Perform Atom Atom Mapping (AAM) on a balanced biochemical reaction (supported I/O formats are SMILES/RXN) catalysed by enzymes. This tool is also used in generation AAM for EC-BLAST. The knowledge of AAM is used to reconstruct metabolic pathways, understand bond changes in a reaction and compare reactions etc.
 
-##Please cite: 
+###Please cite: 
 
 Rahman, S.A. et.al.(2014) EC-BLAST: A Tool to
 Automatically Search and Compare Enzyme Reactions, Nature Methods.
