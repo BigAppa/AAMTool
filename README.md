@@ -7,7 +7,7 @@ Perform Atom Atom Mapping (AAM) on a balanced biochemical reaction (supported I/
 Rahman, S.A. et.al.(2014) EC-BLAST: A Tool to
 Automatically Search and Compare Enzyme Reactions, Nature Methods.
 
-###Command line options for AAM 
+###How To Run?
 
 ##### using a reaction SMILES as an input:
 
