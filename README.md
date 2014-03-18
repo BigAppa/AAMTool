@@ -9,11 +9,11 @@ Automatically Search and Compare Enzyme Reactions, Nature Methods.
 
 ###Command line options for AAM 
 
-#### using a reaction SMILES as an input:
+##### using a reaction SMILES as an input:
 
 java -jar AAMTool.jar -Q SMI -q "[O]=[C]([OH])[CH2][CH]([O][C](=[O])[CH2][CH]([OH])[CH3])[CH3].[H][OH]>>[H][O][C](=[O])[CH2][CH]([OH])[CH3].[O]=[C]([OH])[CH2][CH]([OH])[CH3]" -g -j aam -f BOTH -m
 
-#### using a reaction RXN file as an input:
+##### using a reaction RXN file as an input:
 
 java -jar AAMTool.jar -Q RXN -q example.rxn -g -j aam -f BOTH -m
 
