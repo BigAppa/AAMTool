@@ -38,6 +38,6 @@ The AAMTool is licensed under Creative Commons (CC) license.
 
 ### JAR
 
-Downalod the jar from https://sourceforge.net/projects/aamtool/
+Download the jar from https://sourceforge.net/projects/aamtool/
 
 
