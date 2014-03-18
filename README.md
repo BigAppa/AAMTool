@@ -17,4 +17,5 @@ Command line options for AAM with a Reaction RXN file:
 java -jar AAMTool.jar -Q RXN -q example.rxn -g -j aam -f BOTH -m
 
 Note: This code is compatible to JVM 7.0+
+
 ------------------------------------------------------------------
