@@ -1,5 +1,5 @@
 #AAMTool
-=======
+
 Perform Atom Atom Mapping (AAM) on a balanced biochemical reaction (supported I/O formats are SMILES/RXN) catalysed by enzymes. This tool is also used in generation AAM for EC-BLAST. The knowledge of AAM is used to reconstruct metabolic pathways, understand bond changes in a reaction and compare reactions etc.
 
 ###Please cite: 
@@ -7,7 +7,6 @@ Perform Atom Atom Mapping (AAM) on a balanced biochemical reaction (supported I/
 Rahman, S.A. et.al.(2014) EC-BLAST: A Tool to
 Automatically Search and Compare Enzyme Reactions, Nature Methods.
 
-------------------------------------------------------------------
 ###Command line options for AAM 
 
 #### using a reaction SMILES as an input:
@@ -18,9 +17,8 @@ java -jar AAMTool.jar -Q SMI -q "[O]=[C]([OH])[CH2][CH]([O][C](=[O])[CH2][CH]([O
 
 java -jar AAMTool.jar -Q RXN -q example.rxn -g -j aam -f BOTH -m
 
-Note: This code is compatible to JVM 7.0+
+######Note: This code is compatible to JVM 7.0+
 
-------------------------------------------------------------------
 
 ###Key Features
 
