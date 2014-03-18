@@ -1,4 +1,4 @@
-AAMTool
+#AAMTool
 =======
 Perform Atom Atom Mapping (AAM) on a balanced biochemical reaction (supported I/O formats are SMILES/RXN) catalysed by enzymes. This tool is also used in generation AAM for EC-BLAST. The knowledge of AAM is used to reconstruct metabolic pathways, understand bond changes in a reaction and compare reactions etc.
 
@@ -35,5 +35,9 @@ Generate reaction fingerprints.
 ###License
 
 The AAMTool is licensed under Creative Commons (CC) license.
+
+### JAR
+
+Downalod the jar from https://sourceforge.net/projects/aamtool/
 
 
