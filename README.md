@@ -28,7 +28,7 @@ SMILES/RXN files supported for I/O.
 
 Generate image of the mapped reaction.
 
-Generate reaction fingerprints.
+Generate reaction patterns and bond change fingerprints.
 
 ###License
 
