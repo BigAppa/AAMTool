@@ -31,6 +31,6 @@ Generate reaction fingerprints.
 
 ###License
 
-The AAMTool is licensed under Lesser General Public License 3.0.
+The AAMTool is licensed under Creative Commons (CC) license.
 
 
