@@ -14,7 +14,7 @@ Automatically Search and Compare Enzyme Reactions, Nature Methods.
 
 java -jar AAMTool.jar -Q SMI -q "[O]=[C]([OH])[CH2][CH]([O][C](=[O])[CH2][CH]([OH])[CH3])[CH3].[H][OH]>>[H][O][C](=[O])[CH2][CH]([OH])[CH3].[O]=[C]([OH])[CH2][CH]([OH])[CH3]" -g -j aam -f BOTH -m
 
-#### using a reaction RXN file as an input::
+#### using a reaction RXN file as an input:
 
 java -jar AAMTool.jar -Q RXN -q example.rxn -g -j aam -f BOTH -m
 
@@ -25,8 +25,11 @@ Note: This code is compatible to JVM 7.0+
 ###Key Features
 
 Atom Atom Mapping (AAM) on a balanced biochemical reaction.
+
 SMILES/RXN files supported for I/O.
+
 Generate image of the mapped reaction.
+
 Generate reaction fingerprints.
 
 ###License
