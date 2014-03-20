@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <FINGERPRINTS BC="1">
+      <FORMED_CLEAVED>[H-O:2.0, O-O:1.0]</FORMED_CLEAVED>
+    </FINGERPRINTS>
+    <FINGERPRINTS RC="2">
+      <CENTRE>[O:4.0, OO:2.0, OO&gt;&gt;O:4.0, O[O]:1.0, O[O]&gt;&gt;O:1.0, [Mn+2]:6.0, [Mn+2]&gt;&gt;[Mn+3]:6.0, [Mn+3]:6.0, [O]:4.0, [O]O:1.0, [O]O&gt;&gt;O:1.0]</CENTRE>
+    </FINGERPRINTS>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[OH:2][OH:3].[Mn+2:1].[Mn+2:4].[H+:8].[H+:7]&gt;&gt;[H:8][OH:2].[H:7][OH:3].[Mn+3:1].[Mn+3:4]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[OH:2][OH:3].[Mn+2:1].[Mn+2:4].[H+:8].[H+:7]&gt;&gt;[H:8][OH:2].[H:7][OH:3].[Mn+3:1].[Mn+3:4]</AAM>
+      <SCORE>3</SCORE>
+      <CHAOS>0 &lt;=&gt; 4</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>1.4E02</ENERGY>
+      <DELTA>11E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[OH:1][OH:2].[Mn+2:4].[Mn+2:3].[H+:8].[H+:5]&gt;&gt;[H:8][OH:1].[H:5][OH:2].[Mn+3:4].[Mn+3:3]</AAM>
+      <SCORE>3</SCORE>
+      <CHAOS>0 &lt;=&gt; 4</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>1.4E02</ENERGY>
+      <DELTA>11E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[OH:2][OH:3].[Mn+2:1].[Mn+2:4].[H+:7].[H+:8]&gt;&gt;[H:7][OH:2].[H:8][OH:3].[Mn+3:1].[Mn+3:4]</AAM>
+      <SCORE>3</SCORE>
+      <CHAOS>0 &lt;=&gt; 4</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>1.4E02</ENERGY>
+      <DELTA>11E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[OH:2][OH:3].[Mn+2:1].[Mn+2:4].[H+:5].[H+:8]&gt;&gt;[H:5][OH:2].[H:8][OH:3].[Mn+3:1].[Mn+3:4]</AAM>
+      <SCORE>3</SCORE>
+      <CHAOS>0 &lt;=&gt; 4</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>1.4E02</ENERGY>
+      <DELTA>11E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

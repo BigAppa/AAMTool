@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <FINGERPRINTS BC="1">
+      <FORMED_CLEAVED>[C%O:1.0, C-H:2.0, C-N:1.0, C=O:2.0, C@C:1.0, H-O:1.0, O=O:1.0]</FORMED_CLEAVED>
+      <ORDER_CHANGED>[C-C*C@C:1.0]</ORDER_CHANGED>
+    </FINGERPRINTS>
+    <FINGERPRINTS RC="2">
+      <CENTRE>[C(=[C])[C]:1.0, C1=C[C]OC1=O:1.0, O=N[O-]:2.0, O=O:4.0, O=O&gt;&gt;[C]=CC(=O)C(=O)[O-]:1.0, O=O&gt;&gt;[C]=O:2.0, O=O&gt;&gt;[C]C(=O)C(=O)[O-]:1.0, O=O&gt;&gt;[C]C(=O)[C]:1.0, O=O&gt;&gt;[C]C(=O)[O-]:1.0, OC(=C[C])C(=[C])[C]:1.0, OC(=C[C])C(=[C])[C]&gt;&gt;[C]C(=O)C(=O)[O-]:2.0, OC(=[C])[C]:1.0, OC(=[C])[C]&gt;&gt;[C]C(=O)[O-]:1.0, O[C]:1.0, O[C]&gt;&gt;[C][O-]:1.0, Oc1c[c]c(cc1C(=O)[O-])[N+]&gt;&gt;C1=CC(OC1=O)=[C]:1.0, Oc1cc[c]cc1C(=O)[O-]&gt;&gt;[C]=CC(=O)C(=O)[O-]:1.0, Oc1ccc([c]c1[C])[N+]&gt;&gt;[C]C([O])=CC(=O)C(=O)[O-]:1.0, [C]:8.0, [C]1=CC(O[C]1)=C[C]:1.0, [C]1=[C]C(OC1=O)=[C]:1.0, [C]=C([C])[N+]:1.0, [C]=C([C])[N+](=O)[O-]:1.0, [C]=C([C])[N+](=O)[O-]&gt;&gt;O=N[O-]:1.0, [C]=C([C])[N+]&gt;&gt;[C]C([O])=[C]:1.0, [C]=CC(=O)C(=O)[O-]:1.0, [C]=C[C]:1.0, [C]=C[C]&gt;&gt;[C]C(=O)[C]:1.0, [C]=O:2.0, [C]C(=O)C(=O)[O-]:1.0, [C]C(=O)[C]:2.0, [C]C(=O)[O-]:4.0, [C]C(=O)[O-]&gt;&gt;[C]1=[C]C(OC1=O)=[C]:1.0, [C]C(=[C])C(=O)[O-]&gt;&gt;C1=CC(OC1=O)=C[C]:1.0, [C]C(=[C])[C]:1.0, [C]C(=[C])[C]&gt;&gt;C(=[C])[C]:1.0, [C]C([O])=[C]:1.0, [C]C=C(C=[C])[N+](=O)[O-]:1.0, [C]C=C(C=[C])[N+](=O)[O-]&gt;&gt;O=N[O-]:1.0, [C]C=C(C=[C])[N+](=O)[O-]&gt;&gt;[C]1=CC(O[C]1)=C[C]:1.0, [C]O[C]:1.0, [C][N+](=O)[O-]:1.0, [C][N+](=O)[O-]&gt;&gt;O=N[O-]:1.0, [C][O-]:2.0, [C][O-]&gt;&gt;[C]O[C]:1.0, [N+]:1.0, [N]:1.0, [O-]:2.0, [O]:6.0, [O]C(=CC=[C])[C]:1.0, [O]C(=CC=[C])[C]&gt;&gt;[C]=CC(=O)C(=O)[O-]:1.0, [O]C(=[C])C(=C[C])C(=O)[O-]:1.0, [O]C(=[C])C(=C[C])C(=O)[O-]&gt;&gt;C1=C[C]OC1=O:1.0, [O]C(=[C])[C]:1.0, [O]C(=[C])[C]&gt;&gt;[C]C(=O)[O-]:1.0, [c]1ccc(cc1[C])[N+](=O)[O-]&gt;&gt;C1=CC(OC1=O)=CC(=O)[C]:1.0]</CENTRE>
+    </FINGERPRINTS>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[H:18][O:9][c:8]1[c:7]([H:16])[cH:6][c:13]([cH:12][c:3]1[C:4](=[O:5])[O-:2])[N+:1](=[O:11])[O-:10].[O:14]=[O:15]&gt;&gt;[H:18][C:3]1=[CH:12][C:13]([O:2][C:4]1=[O:5])=[CH:6][C:7](=[O:14])[C:8](=[O:15])[O-:9].[O:11]=[N:1][O-:10].[H+:16]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[H:18][O:9][c:8]1[c:7]([H:16])[cH:6][c:13]([c:12]([H:17])[c:3]1[C:4](=[O:5])[O-:2])[N+:1](=[O:11])[O-:10].[O:14]=[O:15]&gt;&gt;[H:18][C:13]1=[CH:6][C:7]([O:9][C:12]1=[O:14])=[C:8]([H:16])[C:3](=[O:15])[C:4](=[O:5])[O-:2].[O:11]=[N:1][O-:10].[H+:17]</AAM>
+      <SCORE>13</SCORE>
+      <CHAOS>0 &lt;=&gt; 60</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>38E02</ENERGY>
+      <DELTA>62E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[H:18][O:9][c:8]1[c:7]([H:16])[cH:6][c:13]([c:12]([H:17])[c:3]1[C:4](=[O:5])[O-:2])[N+:1](=[O:11])[O-:10].[O:14]=[O:15]&gt;&gt;[H:18][C:13]1=[CH:6][C:7]([O:9][C:12]1=[O:14])=[C:8]([H:16])[C:3](=[O:15])[C:4](=[O:5])[O-:2].[O:11]=[N:1][O-:10].[H+:17]</AAM>
+      <SCORE>13</SCORE>
+      <CHAOS>0 &lt;=&gt; 60</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>38E02</ENERGY>
+      <DELTA>62E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[H:18][O:9][c:8]1[c:7]([H:16])[cH:6][c:13]([cH:12][c:3]1[C:4](=[O:5])[O-:2])[N+:1](=[O:11])[O-:10].[O:14]=[O:15]&gt;&gt;[H:18][C:3]1=[CH:12][C:13]([O:2][C:4]1=[O:5])=[CH:6][C:7](=[O:14])[C:8](=[O:15])[O-:9].[O:11]=[N:1][O-:10].[H+:16]</AAM>
+      <SCORE>10</SCORE>
+      <CHAOS>0 &lt;=&gt; 41</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>31E02</ENERGY>
+      <DELTA>44E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[H:18][O:11][c:10]1[c:9]([H:16])[cH:8][c:15]([cH:14][c:5]1[C:6](=[O:7])[O-:4])[N+:3](=[O:13])[O-:12].[O:1]=[O:2]&gt;&gt;[H:18][C:5]1=[CH:14][C:15]([O:1][C:10]1=[O:11])=[CH:8][C:9](=[O:2])[C:6](=[O:7])[O-:4].[O:13]=[N:3][O-:12].[H+:16]</AAM>
+      <SCORE>14</SCORE>
+      <CHAOS>2 &lt;=&gt; 61</CHAOS>
+      <SIGMA>3</SIGMA>
+      <ENERGY>33E02</ENERGY>
+      <DELTA>49E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <FINGERPRINTS BC="1">
+      <FORMED_CLEAVED>[C-N:1.0, C=O:1.0, H-N:2.0, H-O:2.0]</FORMED_CLEAVED>
+      <ORDER_CHANGED>[C-N*C=N:1.0]</ORDER_CHANGED>
+    </FINGERPRINTS>
+    <FINGERPRINTS RC="2">
+      <CENTRE>[C[NH3+]:1.0, NC(=O)N:1.0, NC(=O)[N]:1.0, NC(=[NH2+])NC&gt;&gt;C[NH3+]:1.0, NC(=[NH2+])NC&gt;&gt;NC(=O)N:1.0, NC(=[NH2+])N[C]:1.0, NC(=[NH2+])N[C]&gt;&gt;NC(=O)N:2.0, N[C]:1.0, O:2.0, O&gt;&gt;NC(=O)N:1.0, O&gt;&gt;[C]=O:1.0, O&gt;&gt;[N]C(=O)[N]:1.0, [C]:2.0, [C]=O:1.0, [C]=[NH2+]:1.0, [C]=[NH2+]&gt;&gt;N[C]:1.0, [C]N[C]:1.0, [C]N[C]&gt;&gt;[C][NH3+]:1.0, [C][NH3+]:1.0, [N+]:2.0, [N]:2.0, [N]C(=O)[N]:2.0, [N]C(=[N+])NC:1.0, [N]C(=[N+])NC&gt;&gt;C[NH3+]:1.0, [N]C(=[N+])[N]:1.0, [N]C(=[N+])[N]&gt;&gt;[N]C(=O)[N]:1.0, [N]C(=[NH2+])[N]:1.0, [N]C(=[NH2+])[N]&gt;&gt;NC(=O)[N]:1.0, [O]:2.0]</CENTRE>
+    </FINGERPRINTS>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[NH2:5][C:6](=[NH2+:4])[NH:2][CH3:3].[H:7][O:1][H:8]&gt;&gt;[O:1]=[C:6]([NH2:4])[NH2:5].[H:7][NH+:2]([H:8])[CH3:3]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[NH2:5][C:6](=[NH2+:4])[NH:2][CH3:3].[H:7][O:1][H:8]&gt;&gt;[O:1]=[C:6]([NH2:5])[NH2:4].[H:7][NH+:2]([H:8])[CH3:3]</AAM>
+      <SCORE>8</SCORE>
+      <CHAOS>1 &lt;=&gt; 11</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>11E02</ENERGY>
+      <DELTA>28E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[NH2:4][C:5](=[NH2+:3])[NH:1][CH3:2].[H:15][O:6][H:16]&gt;&gt;[O:6]=[C:5]([NH2:4])[NH2:3].[H:15][NH+:1]([H:16])[CH3:2]</AAM>
+      <SCORE>8</SCORE>
+      <CHAOS>1 &lt;=&gt; 11</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>11E02</ENERGY>
+      <DELTA>28E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[NH2:5][C:6](=[NH2+:4])[NH:2][CH3:3].[H:7][O:1][H:8]&gt;&gt;[O:1]=[C:6]([NH2:4])[NH2:5].[H:7][NH+:2]([H:8])[CH3:3]</AAM>
+      <SCORE>7</SCORE>
+      <CHAOS>0 &lt;=&gt; 11</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>11E02</ENERGY>
+      <DELTA>28E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[NH2:4][C:5](=[NH2+:3])[NH:1][CH3:2].[H:15][O:6][H:16]&gt;&gt;[O:6]=[C:5]([NH2:3])[NH2:4].[H:15][NH+:1]([H:16])[CH3:2]</AAM>
+      <SCORE>7</SCORE>
+      <CHAOS>0 &lt;=&gt; 11</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>11E02</ENERGY>
+      <DELTA>28E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

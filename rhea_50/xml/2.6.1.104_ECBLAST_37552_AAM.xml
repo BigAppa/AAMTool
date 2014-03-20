@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <FINGERPRINTS BC="1">
+      <FORMED_CLEAVED>[C-H:2.0, C-N:2.0, C=O:2.0]</FORMED_CLEAVED>
+    </FINGERPRINTS>
+    <FINGERPRINTS RC="2">
+      <CENTRE>[[C]:4.0, [C]=O:2.0, [C]=O&gt;&gt;[C]=O:1.0, [C]C(=O)[C]:4.0, [C]C(=O)[C]&gt;&gt;[C]C(=O)[C]:1.0, [C]C(=O)[C]&gt;&gt;[C]C([N+])[C]:1.0, [C]C(C(C([C])[O])=O)[O]:1.0, [C]C(C(C([C])[O])=O)[O]&gt;&gt;[C]C(C(C([C])[O])[NH3+])[O]:1.0, [C]C(C(C([C])[O])=O)[O]&gt;&gt;[C]CC(=O)C(=O)[O-]:1.0, [C]C(C(C([C])[O])[NH3+])[O]:1.0, [C]C([N+])[C]:1.0, [C]C([NH3+])[C]:1.0, [C]CC(=O)C(=O)[O-]:1.0, [C][NH3+]:1.0, [N+]:2.0, [N+]C([C])[C]:1.0, [N+]C([C])[C]&gt;&gt;[C]C(=O)[C]:1.0, [NH3+]C(C(=O)[O-])CC[C]&gt;&gt;C([C])CC(=O)C(=O)[O-]:1.0, [NH3+]C(C(=O)[O-])C[C]:1.0, [NH3+]C(C(=O)[O-])C[C]&gt;&gt;[C]C(C(C([C])[O])[NH3+])[O]:1.0, [NH3+]C(C(=O)[O-])C[C]&gt;&gt;[C]CC(=O)C(=O)[O-]:1.0, [NH3+]C([C])[C]:1.0, [NH3+]C([C])[C]&gt;&gt;[C]C([NH3+])[C]:1.0, [NH3+][C]:1.0, [NH3+][C]&gt;&gt;[C][NH3+]:1.0, [O]:2.0, [O]C1OC([C])C(O)C(=O)C1O&gt;&gt;[O]C1OC([C])C(O)C([NH3+])C1O:1.0]</CENTRE>
+    </FINGERPRINTS>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[O:1]=[C:2]1[CH:4]([OH:16])[CH:11]([OH:15])[O:6][CH:7]([CH2:8][O:10][P:9](=[O:5])([O-:12])[O-:13])[CH:14]1[OH:3].[H:43][C:25]([C:26](=[O:23])[O-:24])([NH3+:19])[CH2:22][CH2:17][C:18](=[O:21])[O-:20]&gt;&gt;[H:43][C:2]1([NH3+:19])[CH:4]([OH:16])[CH:11]([OH:15])[O:6][CH:7]([CH2:8][O:10][P:9](=[O:5])([O-:13])[O-:12])[CH:14]1[OH:3].[O:23]=[C:26]([O-:24])[C:25](=[O:1])[CH2:22][CH2:17][C:18](=[O:21])[O-:20]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[O:11]=[C:12]1[CH:14]([OH:26])[CH:21]([OH:25])[O:16][CH:17]([CH2:18][O:20][P:19](=[O:15])([O-:22])[O-:23])[CH:24]1[OH:13].[O:5]=[C:2]([O-:4])[CH2:1][CH2:6][CH:9]([C:10](=[O:7])[O-:8])[NH3+:3]&gt;&gt;[O:15]=[P:19]([O-:23])([O-:22])[O:20][CH2:18][CH:17]1[O:16][CH:21]([OH:25])[CH:14]([OH:26])[CH:9]([NH3+:3])[CH:24]1[OH:13].[O:11]=[C:12]([O-:8])[C:10](=[O:7])[CH2:6][CH2:1][C:2](=[O:5])[O-:4]</AAM>
+      <SCORE>12</SCORE>
+      <CHAOS>2 &lt;=&gt; 130</CHAOS>
+      <SIGMA>8</SIGMA>
+      <ENERGY>35E02</ENERGY>
+      <DELTA>35E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[O:1]=[C:2]1[CH:4]([OH:16])[CH:11]([OH:15])[O:6][CH:7]([CH2:8][O:10][P:9](=[O:5])([O-:12])[O-:13])[CH:14]1[OH:3].[O:21]=[C:18]([O-:20])[CH2:17][CH2:22][CH:25]([C:26](=[O:23])[O-:24])[NH3+:19]&gt;&gt;[O:5]=[P:9]([O-:13])([O-:12])[O:10][CH2:8][CH:7]1[O:6][CH:11]([OH:15])[CH:4]([OH:16])[CH:25]([NH3+:19])[CH:14]1[OH:3].[O:1]=[C:2]([O-:24])[C:26](=[O:23])[CH2:22][CH2:17][C:18](=[O:21])[O-:20]</AAM>
+      <SCORE>12</SCORE>
+      <CHAOS>2 &lt;=&gt; 130</CHAOS>
+      <SIGMA>8</SIGMA>
+      <ENERGY>35E02</ENERGY>
+      <DELTA>35E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[O:1]=[C:2]1[CH:4]([OH:16])[CH:11]([OH:15])[O:6][CH:7]([CH2:8][O:10][P:9](=[O:5])([O-:12])[O-:13])[CH:14]1[OH:3].[H:43][C:25]([C:26](=[O:23])[O-:24])([NH3+:19])[CH2:22][CH2:17][C:18](=[O:21])[O-:20]&gt;&gt;[H:43][C:2]1([NH3+:19])[CH:4]([OH:16])[CH:11]([OH:15])[O:6][CH:7]([CH2:8][O:10][P:9](=[O:5])([O-:13])[O-:12])[CH:14]1[OH:3].[O:23]=[C:26]([O-:24])[C:25](=[O:1])[CH2:22][CH2:17][C:18](=[O:21])[O-:20]</AAM>
+      <SCORE>6</SCORE>
+      <CHAOS>0 &lt;=&gt; 12</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>22E02</ENERGY>
+      <DELTA>30E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[O:11]=[C:12]1[CH:14]([OH:26])[CH:21]([OH:25])[O:16][CH:17]([CH2:18][O:20][P:19](=[O:15])([O-:22])[O-:23])[CH:24]1[OH:13].[H:34][C:9]([C:10](=[O:7])[O-:8])([NH3+:3])[CH2:6][CH2:1][C:2](=[O:5])[O-:4]&gt;&gt;[H:34][C:12]1([NH3+:3])[CH:14]([OH:26])[CH:21]([OH:25])[O:16][CH:17]([CH2:18][O:20][P:19](=[O:15])([O-:23])[O-:22])[CH:24]1[OH:13].[O:7]=[C:10]([O-:8])[C:9](=[O:5])[CH2:6][CH2:1][C:2](=[O:11])[O-:4]</AAM>
+      <SCORE>8</SCORE>
+      <CHAOS>0 &lt;=&gt; 14</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>38E02</ENERGY>
+      <DELTA>46E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

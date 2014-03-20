@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <FINGERPRINTS BC="1"/>
+    <FINGERPRINTS RC="2">
+      <CENTRE>[]</CENTRE>
+    </FINGERPRINTS>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[OH:9][CH2:6][CH:5]1[O:7][CH:8]([OH:10])[CH:11]([OH:2])[CH:3]([OH:1])[CH:4]1[OH:12]&gt;&gt;[OH:9][CH2:6][CH:5]1[O:7][CH:8]([OH:10])[CH:11]([OH:2])[CH:3]([OH:1])[CH:4]1[OH:12]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[OH:9][CH2:6][CH:5]1[O:7][CH:8]([OH:10])[CH:11]([OH:2])[CH:3]([OH:1])[CH:4]1[OH:12]&gt;&gt;[OH:9][CH2:6][CH:5]1[O:7][CH:8]([OH:10])[CH:11]([OH:2])[CH:3]([OH:1])[CH:4]1[OH:12]</AAM>
+      <SCORE>0</SCORE>
+      <CHAOS>0 &lt;=&gt; 0</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>0E00</ENERGY>
+      <DELTA>0E00</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[OH:9][CH2:6][CH:5]1[O:7][CH:8]([OH:10])[CH:11]([OH:2])[CH:3]([OH:1])[CH:4]1[OH:12]&gt;&gt;[OH:9][CH2:6][CH:5]1[O:7][CH:8]([OH:10])[CH:11]([OH:2])[CH:3]([OH:1])[CH:4]1[OH:12]</AAM>
+      <SCORE>0</SCORE>
+      <CHAOS>0 &lt;=&gt; 0</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>0E00</ENERGY>
+      <DELTA>0E00</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[OH:9][CH2:6][CH:5]1[O:7][CH:8]([OH:10])[CH:11]([OH:2])[CH:3]([OH:1])[CH:4]1[OH:12]&gt;&gt;[OH:9][CH2:6][CH:5]1[O:7][CH:8]([OH:10])[CH:11]([OH:2])[CH:3]([OH:1])[CH:4]1[OH:12]</AAM>
+      <SCORE>0</SCORE>
+      <CHAOS>0 &lt;=&gt; 0</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>0E00</ENERGY>
+      <DELTA>0E00</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[OH:9][CH2:6][CH:5]1[O:7][CH:8]([OH:10])[CH:11]([OH:2])[CH:3]([OH:1])[CH:4]1[OH:12]&gt;&gt;[OH:9][CH2:6][CH:5]1[O:7][CH:8]([OH:10])[CH:11]([OH:2])[CH:3]([OH:1])[CH:4]1[OH:12]</AAM>
+      <SCORE>0</SCORE>
+      <CHAOS>0 &lt;=&gt; 0</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>0E00</ENERGY>
+      <DELTA>0E00</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

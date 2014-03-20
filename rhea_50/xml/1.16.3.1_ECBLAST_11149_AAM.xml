@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <FINGERPRINTS BC="1">
+      <FORMED_CLEAVED>[H-O:4.0, O=O:1.0]</FORMED_CLEAVED>
+    </FINGERPRINTS>
+    <FINGERPRINTS RC="2">
+      <CENTRE>[O:4.0, O=O:4.0, O=O&gt;&gt;O:6.0, [Fe+2]:12.0, [Fe+2]&gt;&gt;[Fe+3]:12.0, [Fe+3]:12.0, [O]:4.0]</CENTRE>
+    </FINGERPRINTS>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[O:5]=[O:6].[Fe+2:4].[Fe+2:3].[Fe+2:2].[Fe+2:1].[H+:8].[H+:10].[H+:9].[H+:7]&gt;&gt;[H:8][O:5][H:10].[H:9][O:6][H:7].[Fe+3:4].[Fe+3:3].[Fe+3:2].[Fe+3:1]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[O:5]=[O:6].[Fe+2:4].[Fe+2:3].[Fe+2:2].[Fe+2:1].[H+:8].[H+:10].[H+:9].[H+:7]&gt;&gt;[H:8][O:5][H:10].[H:9][O:6][H:7].[Fe+3:4].[Fe+3:3].[Fe+3:2].[Fe+3:1]</AAM>
+      <SCORE>5</SCORE>
+      <CHAOS>0 &lt;=&gt; 5</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>4.9E02</ENERGY>
+      <DELTA>23E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[O:4]=[O:5].[Fe+2:2].[Fe+2:3].[Fe+2:1].[Fe+2:6].[H+:10].[H+:9].[H+:7].[H+:8]&gt;&gt;[H:10][O:4][H:9].[H:7][O:5][H:8].[Fe+3:2].[Fe+3:3].[Fe+3:1].[Fe+3:6]</AAM>
+      <SCORE>5</SCORE>
+      <CHAOS>0 &lt;=&gt; 5</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>4.9E02</ENERGY>
+      <DELTA>23E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[O:5]=[O:6].[Fe+2:1].[Fe+2:2].[Fe+2:3].[Fe+2:4].[H+:8].[H+:7].[H+:9].[H+:10]&gt;&gt;[H:8][O:5][H:7].[H:9][O:6][H:10].[Fe+3:1].[Fe+3:2].[Fe+3:3].[Fe+3:4]</AAM>
+      <SCORE>5</SCORE>
+      <CHAOS>0 &lt;=&gt; 5</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>4.9E02</ENERGY>
+      <DELTA>23E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[O:3]=[O:4].[Fe+2:2].[Fe+2:6].[Fe+2:5].[Fe+2:1].[H+:9].[H+:8].[H+:7].[H+:10]&gt;&gt;[H:9][O:3][H:8].[H:7][O:4][H:10].[Fe+3:2].[Fe+3:6].[Fe+3:5].[Fe+3:1]</AAM>
+      <SCORE>5</SCORE>
+      <CHAOS>0 &lt;=&gt; 5</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>4.9E02</ENERGY>
+      <DELTA>23E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

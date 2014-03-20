@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <FINGERPRINTS BC="1">
+      <FORMED_CLEAVED>[H-N:2.0, N-P:1.0, O-P:1.0]</FORMED_CLEAVED>
+    </FINGERPRINTS>
+    <FINGERPRINTS RC="2">
+      <CENTRE>[O=S(=O)([O-])[O-]:1.0, [C]COP(=O)([O-])OS(=O)(=O)[O-]&gt;&gt;[C]COP(=O)([O-])N:1.0, [C]OP(=O)([O-])N:1.0, [C]OP(=O)([O-])OS(=O)(=O)[O-]&gt;&gt;O=S(=O)([O-])[O-]:1.0, [C]OP(=O)([O-])O[S]:1.0, [C]OP(=O)([O-])O[S]&gt;&gt;[C]OP(=O)([O-])N:1.0, [N+]:1.0, [NH4+]:2.0, [NH4+]&gt;&gt;[C]OP(=O)([O-])N:1.0, [NH4+]&gt;&gt;[O]P(=O)([O-])N:1.0, [NH4+]&gt;&gt;[P]N:1.0, [N]:1.0, [O-]:1.0, [O]:1.0, [O]P(=O)([O-])N:1.0, [O]P(=O)([O-])OS(=O)(=O)[O-]:1.0, [O]P(=O)([O-])OS(=O)(=O)[O-]&gt;&gt;O=S(=O)([O-])[O-]:1.0, [O]P(=O)([O-])[N]:1.0, [O]P(=O)([O-])[O]:1.0, [O]P(=O)([O-])[O]&gt;&gt;[O]P(=O)([O-])[N]:1.0, [P]:2.0, [P]N:1.0, [P]O[S]:1.0, [P]O[S]&gt;&gt;[S][O-]:1.0, [S][O-]:1.0]</CENTRE>
+    </FINGERPRINTS>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[O:22]=[P:23]([O-:24])([O:21][CH2:20][CH:2]1[O:8][CH:9]([n:10]2[cH:11][n:16][c:12]3[c:17]([n:18][cH:19][n:15][c:13]32)[NH2:14])[CH:4]([OH:3])[CH:5]1[OH:6])[O:25][S:28](=[O:26])(=[O:27])[O-:7].[H:31][NH2+:1][H:32]&gt;&gt;[O:22]=[P:23]([O-:24])([O:21][CH2:20][CH:2]1[O:8][CH:9]([n:10]2[cH:11][n:16][c:12]3[c:17]([n:18][cH:19][n:15][c:13]32)[NH2:14])[CH:4]([OH:3])[CH:5]1[OH:6])[NH2:1].[O:26]=[S:28](=[O:27])([O-:25])[O-:7].[H+:31].[H+:32]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[O:22]=[P:23]([O-:24])([O:21][CH2:20][CH:2]1[O:8][CH:9]([n:10]2[cH:11][n:16][c:12]3[c:17]([n:18][cH:19][n:15][c:13]32)[NH2:14])[CH:4]([OH:3])[CH:5]1[OH:6])[O:25][S:28](=[O:26])(=[O:27])[O-:7].[H:31][NH2+:1][H:32]&gt;&gt;[O:22]=[P:23]([O-:24])([O:21][CH2:20][CH:2]1[O:8][CH:9]([n:10]2[cH:11][n:16][c:12]3[c:17]([n:18][cH:19][n:15][c:13]32)[NH2:14])[CH:4]([OH:3])[CH:5]1[OH:6])[NH2:1].[O:26]=[S:28](=[O:27])([O-:25])[O-:7].[H+:31].[H+:32]</AAM>
+      <SCORE>4</SCORE>
+      <CHAOS>0 &lt;=&gt; 10</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>3.4E02</ENERGY>
+      <DELTA>11E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[O:22]=[P:23]([O-:24])([O:21][CH2:20][CH:2]1[O:8][CH:9]([n:10]2[cH:11][n:16][c:12]3[c:17]([n:18][cH:19][n:15][c:13]32)[NH2:14])[CH:4]([OH:3])[CH:5]1[OH:6])[O:25][S:28](=[O:26])(=[O:27])[O-:7].[H:31][NH2+:1][H:32]&gt;&gt;[O:22]=[P:23]([O-:24])([O:21][CH2:20][CH:2]1[O:8][CH:9]([n:10]2[cH:11][n:16][c:12]3[c:17]([n:18][cH:19][n:15][c:13]32)[NH2:14])[CH:4]([OH:3])[CH:5]1[OH:6])[NH2:1].[O:26]=[S:28](=[O:27])([O-:25])[O-:7].[H+:31].[H+:32]</AAM>
+      <SCORE>4</SCORE>
+      <CHAOS>0 &lt;=&gt; 10</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>3.4E02</ENERGY>
+      <DELTA>11E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[O:22]=[P:23]([O-:24])([O:21][CH2:20][CH:2]1[O:8][CH:9]([n:10]2[cH:11][n:16][c:12]3[c:17]([n:18][cH:19][n:15][c:13]32)[NH2:14])[CH:4]([OH:3])[CH:5]1[OH:6])[O:25][S:28](=[O:26])(=[O:27])[O-:7].[H:31][NH2+:1][H:32]&gt;&gt;[O:22]=[P:23]([O-:24])([O:21][CH2:20][CH:2]1[O:8][CH:9]([n:10]2[cH:11][n:16][c:12]3[c:17]([n:18][cH:19][n:15][c:13]32)[NH2:14])[CH:4]([OH:3])[CH:5]1[OH:6])[NH2:1].[O:26]=[S:28](=[O:27])([O-:25])[O-:7].[H+:31].[H+:32]</AAM>
+      <SCORE>4</SCORE>
+      <CHAOS>0 &lt;=&gt; 10</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>3.4E02</ENERGY>
+      <DELTA>11E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[O:22]=[P:23]([O-:24])([O:21][CH2:20][CH:2]1[O:8][CH:9]([n:10]2[cH:11][n:16][c:12]3[c:17]([n:18][cH:19][n:15][c:13]32)[NH2:14])[CH:4]([OH:3])[CH:5]1[OH:6])[O:25][S:28](=[O:26])(=[O:27])[O-:7].[H:31][NH2+:1][H:32]&gt;&gt;[O:22]=[P:23]([O-:24])([O:21][CH2:20][CH:2]1[O:8][CH:9]([n:10]2[cH:11][n:16][c:12]3[c:17]([n:18][cH:19][n:15][c:13]32)[NH2:14])[CH:4]([OH:3])[CH:5]1[OH:6])[NH2:1].[O:26]=[S:28](=[O:27])([O-:25])[O-:7].[H+:31].[H+:32]</AAM>
+      <SCORE>4</SCORE>
+      <CHAOS>0 &lt;=&gt; 10</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>3.4E02</ENERGY>
+      <DELTA>11E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

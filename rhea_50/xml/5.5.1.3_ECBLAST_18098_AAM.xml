@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <FINGERPRINTS BC="1">
+      <FORMED_CLEAVED>[C-O:2.0, C@N:2.0, H-N:3.0, H-O:4.0]</FORMED_CLEAVED>
+      <ORDER_CHANGED>[C-O*C=O:3.0]</ORDER_CHANGED>
+    </FINGERPRINTS>
+    <FINGERPRINTS RC="2">
+      <CENTRE>[N(C(=O)N[C])[C]:1.0, N(C(=O)[N])C([C])=O:1.0, N([C])C(C([N])=[C])=O:1.0, N([C])[C]:1.0, OC(=N[C])N=[C]:1.0, OC(=N[C])N=[C]&gt;&gt;N(C(=O)N[C])[C]:2.0, OC(=[N])[N]:1.0, OC(=[N])[N]&gt;&gt;[N]C(=O)[N]:1.0, O[C]:1.0, O[C]&gt;&gt;[C]=O:1.0, Oc1n[c]c([N])c(N=[C])n1&gt;&gt;N1C(=O)Nc2n[c]nc2[C]1:1.0, Oc1nc(O)c([N])[c]n1&gt;&gt;N1C(=O)N[C]=C([N])C1=O:1.0, Oc1nc([O])[c]c([N])n1&gt;&gt;N1C(=O)NC([N])=[C]C1=O:1.0, [C]:8.0, [C]1N=C(O)C(O)=NC1=[N]&gt;&gt;[N]c1nc([nH]c1[C])C(=O)[O-]:1.0, [C]=C(N=C([O])[C])[C]:1.0, [C]=C(N=C([O])[C])[C]&gt;&gt;[c]1nc([nH]c1[C])[C]:1.0, [C]=C1N=C(O)C(O)=N[C]1&gt;&gt;[c]1nc([nH][c]1)C(=O)[O-]:1.0, [C]=NC(O)=C([N])[C]:1.0, [C]=NC(O)=C([N])[C]&gt;&gt;N([C])C(C([N])=[C])=O:2.0, [C]=N[C]:1.0, [C]=N[C]&gt;&gt;N([C])[C]:1.0, [C]=O:3.0, [C]C(=O)[O-]:3.0, [C]C(O)=[N]:1.0, [C]C(O)=[N]&gt;&gt;[C]C(=O)[O-]:1.0, [C]C([O])=[N]:1.0, [C]C([O])=[N]&gt;&gt;[N]=C([N])[C]:1.0, [C]N=C(O)C([O])=[N]:1.0, [C]N=C(O)C([O])=[N]&gt;&gt;[N]=C([N])C(=O)[O-]:2.0, [C]N=[C]:2.0, [C]N=[C]&gt;&gt;[C]N[C]:2.0, [C]N[C]:2.0, [C]O:3.0, [C]O&gt;&gt;[C]=O:2.0, [C]O&gt;&gt;[C][O-]:1.0, [C][O-]:1.0, [N]:6.0, [N]=C(O)[C]:1.0, [N]=C(O)[C]&gt;&gt;[C]C(=O)[O-]:1.0, [N]=C([N])C(=O)[O-]:1.0, [N]=C([N])[C]:1.0, [N]=C([O])C(O)=N[C]:1.0, [N]=C([O])C(O)=N[C]&gt;&gt;[N]=C([N])C(=O)[O-]:1.0, [N]=C([O])C(O)=N[C]&gt;&gt;[c]1nc([nH][c]1)C(=O)[O-]:1.0, [N]=C([O])[C]:1.0, [N]=C([O])[C]&gt;&gt;[C]C(=O)[O-]:1.0, [N]C(=O)NC([N])=[C]:1.0, [N]C(=O)[N]:2.0, [N]C(O)=[C]:1.0, [N]C(O)=[C]&gt;&gt;[N]C([C])=O:1.0, [N]C([C])=O:2.0, [N]C([O])=C1N=C(O)C([O])=NC1=[N]&gt;&gt;[N]C(c1[nH]c(nc1[N])C(=O)[O-])=O:1.0, [N]C([O])=[C]:1.0, [N]C([O])=[C]&gt;&gt;[N]C([C])=O:1.0, [O-]:1.0, [O]:7.0, [O]C(=NC([O])=[C])[N]:1.0, [O]C(=NC([O])=[C])[N]&gt;&gt;N(C(=O)[N])C([C])=O:1.0, [O]C(=[N])N=C([N])[C]:1.0, [O]C(=[N])N=C([N])[C]&gt;&gt;[N]C(=O)NC([N])=[C]:1.0, [O]C(=[N])[N]:1.0, [O]C(=[N])[N]&gt;&gt;[N]C(=O)[N]:1.0, [O]c1nc(O)c(N=[C])c([N])n1&gt;&gt;N1C(=O)[N]c2n[c][nH]c2C1=O:1.0, [c]1nc([nH][c]1)C(=O)[O-]:1.0, [c]1nc([nH]c1[C])[C]:1.0]</CENTRE>
+    </FINGERPRINTS>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[H:18][O:7][c:4]1[n:3][c:5]([O:6][H:16])[c:8]2[n:9][c:10]([O:14][H:15])[c:2]([O:1][H:17])[n:11][c:12]2[n:13]1&gt;&gt;[H:18][n:3]1[c:4](=[O:7])[n:13]([H:16])[c:12]2[n:11][c:2]([n:9]([H:15])[c:8]2[c:5]1=[O:6])[C:10](=[O:14])[O-:1].[H+:17]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[H:18][O:7][c:4]1[n:3][c:5]([O:6][H:16])[c:8]2[n:9][c:10]([O:14][H:15])[c:2]([O:1][H:17])[n:11][c:12]2[n:13]1&gt;&gt;[H:18][n:3]1[c:4](=[O:7])[n:13]([H:16])[c:12]2[n:11][c:2]([n:9]([H:15])[c:8]2[c:5]1=[O:6])[C:10](=[O:14])[O-:1].[H+:17]</AAM>
+      <SCORE>14</SCORE>
+      <CHAOS>0 &lt;=&gt; 45</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>13E02</ENERGY>
+      <DELTA>46E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[H:18][O:7][c:4]1[n:3][c:5]([O:6][H:16])[c:8]2[n:9][c:10]([O:14][H:15])[c:2]([O:1][H:17])[n:11][c:12]2[n:13]1&gt;&gt;[H:18][n:3]1[c:4](=[O:7])[n:13]([H:16])[c:12]2[n:11][c:2]([n:9]([H:15])[c:8]2[c:5]1=[O:6])[C:10](=[O:14])[O-:1].[H+:17]</AAM>
+      <SCORE>14</SCORE>
+      <CHAOS>0 &lt;=&gt; 45</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>13E02</ENERGY>
+      <DELTA>46E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[H:18][O:7][c:4]1[n:3][c:5]([O:6][H:16])[c:8]2[n:9][c:10]([O:14][H:15])[c:2]([O:1][H:17])[n:11][c:12]2[n:13]1&gt;&gt;[H:18][n:3]1[c:4](=[O:7])[n:13]([H:16])[c:12]2[n:11][c:2]([n:9]([H:15])[c:8]2[c:5]1=[O:6])[C:10](=[O:1])[O-:14].[H+:17]</AAM>
+      <SCORE>13</SCORE>
+      <CHAOS>0 &lt;=&gt; 45</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>18E02</ENERGY>
+      <DELTA>51E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[H:18][O:7][c:4]1[n:3][c:5]([O:6][H:16])[c:8]2[n:9][c:10]([O:14][H:15])[c:2]([O:1][H:17])[n:11][c:12]2[n:13]1&gt;&gt;[H:18][n:3]1[c:4](=[O:7])[n:13]([H:16])[c:12]2[n:11][c:2]([n:9]([H:15])[c:8]2[c:5]1=[O:6])[C:10](=[O:1])[O-:14].[H+:17]</AAM>
+      <SCORE>13</SCORE>
+      <CHAOS>0 &lt;=&gt; 45</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>18E02</ENERGY>
+      <DELTA>51E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

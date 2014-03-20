@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <FINGERPRINTS BC="1">
+      <FORMED_CLEAVED>[H-O:4.0, O=S:1.0]</FORMED_CLEAVED>
+      <ORDER_CHANGED>[O-O*O=O:1.0]</ORDER_CHANGED>
+    </FINGERPRINTS>
+    <FINGERPRINTS RC="2">
+      <CENTRE>[O:2.0, O=O:4.0, O=O&gt;&gt;OO:4.0, O=O&gt;&gt;O[O]:1.0, O=O&gt;&gt;[O]O:1.0, O=S:1.0, O=S(=O)([O-])[O-]:3.0, O=S([O-])[O-]:2.0, O=S([O-])[O-]&gt;&gt;O=S(=O)([O-])[O-]:3.0, O&gt;&gt;O=S:1.0, O&gt;&gt;O=S(=O)([O-])[O-]:2.0, OO:2.0, O[O]:1.0, [O]:6.0, [O]O:1.0, [S]:2.0]</CENTRE>
+    </FINGERPRINTS>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[O:1]=[S:2]([O-:3])[O-:4].[H:8][O:7][H:9].[O:5]=[O:6]&gt;&gt;[O:7]=[S:2](=[O:1])([O-:3])[O-:4].[H:8][O:5][O:6][H:9]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[O:1]=[S:2]([O-:3])[O-:4].[H:8][O:7][H:9].[O:5]=[O:6]&gt;&gt;[O:7]=[S:2](=[O:1])([O-:3])[O-:4].[H:8][O:5][O:6][H:9]</AAM>
+      <SCORE>6</SCORE>
+      <CHAOS>0 &lt;=&gt; 5</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>5.2E02</ENERGY>
+      <DELTA>24E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[O:2]=[S:3]([O-:4])[O-:5].[H:8][O:1][H:9].[O:6]=[O:7]&gt;&gt;[O:1]=[S:3](=[O:2])([O-:4])[O-:5].[H:8][O:6][O:7][H:9]</AAM>
+      <SCORE>6</SCORE>
+      <CHAOS>0 &lt;=&gt; 5</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>5.2E02</ENERGY>
+      <DELTA>24E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[O:2]=[S:3]([O-:4])[O-:5].[H:8][O:1][H:9].[O:6]=[O:7]&gt;&gt;[O:1]=[S:3](=[O:2])([O-:4])[O-:5].[H:8][O:6][O:7][H:9]</AAM>
+      <SCORE>6</SCORE>
+      <CHAOS>0 &lt;=&gt; 5</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>5.2E02</ENERGY>
+      <DELTA>24E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[O:4]=[S:5]([O-:6])[O-:7].[H:8][O:1][H:9].[O:2]=[O:3]&gt;&gt;[O:1]=[S:5](=[O:4])([O-:6])[O-:7].[H:8][O:2][O:3][H:9]</AAM>
+      <SCORE>6</SCORE>
+      <CHAOS>0 &lt;=&gt; 5</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>5.2E02</ENERGY>
+      <DELTA>24E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

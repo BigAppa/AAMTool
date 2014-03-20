@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <FINGERPRINTS BC="1">
+      <FORMED_CLEAVED>[C-C:1.0, C-H:1.0]</FORMED_CLEAVED>
+      <ORDER_CHANGED>[C-O*C=O:1.0]</ORDER_CHANGED>
+    </FINGERPRINTS>
+    <FINGERPRINTS RC="2">
+      <CENTRE>[C(=O)([O-])C(=O)*:2.0, C(=O)([O-])C(=O)*&gt;&gt;C(=O)*:2.0, C(=O)([O-])C(=O)*&gt;&gt;O=C=O:3.0, C(=O)([O-])[C]:2.0, C(=O)([O-])[C]&gt;&gt;O=C=O:2.0, C(=O)*:2.0, O=C=O:3.0, O=[C]:1.0, [C]:4.0, [C]C(=O)*:1.0, [C]C(=O)*&gt;&gt;C(=O)*:1.0, [C][O-]:1.0, [C][O-]&gt;&gt;O=[C]:1.0, [O-]:1.0, [O]:1.0]</CENTRE>
+    </FINGERPRINTS>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[*:4][C:2](=[O:3])[C:1](=[O:6])[O-:5].[H+:7]&gt;&gt;[*:4][C:2]([H:7])=[O:3].[O:5]=[C:1]=[O:6]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[*:4][C:2](=[O:3])[C:1](=[O:6])[O-:5].[H+:7]&gt;&gt;[*:4][C:2]([H:7])=[O:3].[O:5]=[C:1]=[O:6]</AAM>
+      <SCORE>4</SCORE>
+      <CHAOS>1 &lt;=&gt; 4</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>3.5E02</ENERGY>
+      <DELTA>7.6E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[*:4][C:2](=[O:3])[C:1](=[O:6])[O-:5].[H+:7]&gt;&gt;[*:4][C:2]([H:7])=[O:3].[O:5]=[C:1]=[O:6]</AAM>
+      <SCORE>4</SCORE>
+      <CHAOS>1 &lt;=&gt; 4</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>3.5E02</ENERGY>
+      <DELTA>7.6E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[*:4][C:2](=[O:3])[C:1](=[O:6])[O-:5].[H+:7]&gt;&gt;[*:4][C:2]([H:7])=[O:3].[O:5]=[C:1]=[O:6]</AAM>
+      <SCORE>3</SCORE>
+      <CHAOS>0 &lt;=&gt; 4</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>3.5E02</ENERGY>
+      <DELTA>7.6E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[*:4][C:2](=[O:3])[C:1](=[O:6])[O-:5].[H+:7]&gt;&gt;[*:4][C:2]([H:7])=[O:3].[O:5]=[C:1]=[O:6]</AAM>
+      <SCORE>3</SCORE>
+      <CHAOS>0 &lt;=&gt; 4</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>3.5E02</ENERGY>
+      <DELTA>7.6E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

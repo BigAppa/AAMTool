@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <FINGERPRINTS BC="1">
+      <FORMED_CLEAVED>[C=O:2.0, C@C:1.0, H-O:2.0, O=O:1.0]</FORMED_CLEAVED>
+      <ORDER_CHANGED>[C-C*C@C:3.0, C=C*C@C:2.0]</ORDER_CHANGED>
+    </FINGERPRINTS>
+    <FINGERPRINTS RC="2">
+      <CENTRE>[O=O:4.0, O=O&gt;&gt;[C]=CC(=O)[O-]:2.0, O=O&gt;&gt;[C]=O:2.0, O=O&gt;&gt;[C]C(=O)[O-]:2.0, OC(=C[C])C(=[C])[O]:1.0, OC(=C[C])C(=[C])[O]&gt;&gt;[C]=CC(=O)[O-]:2.0, OC(=[C])[C]:1.0, OC(=[C])[C]&gt;&gt;[C]C(=O)[O-]:1.0, O[C]:1.0, O[C]&gt;&gt;[C][O-]:1.0, Oc1c[c]c([C])cc1O&gt;&gt;[C]C([C])=CC(=O)[O-]:1.0, Oc1cc[c]cc1O&gt;&gt;[C]C=CC(=O)[O-]:1.0, Oc1ccc([C])[c]c1[O]&gt;&gt;[C]C(C=CC(=O)[O-])=[C]:1.0, [C]:12.0, [C]=C([C])[C]:1.0, [C]=C([C])[C]&gt;&gt;[C]C([C])=[C]:1.0, [C]=CC(=O)[O-]:2.0, [C]=CC(C=[C])=C[C]:1.0, [C]=CC=C([C])[C]:1.0, [C]=CC=C([C])[C]&gt;&gt;[C]C(C=C[C])=[C]:1.0, [C]=C[C]:3.0, [C]=C[C]&gt;&gt;[C]=C[C]:1.0, [C]=O:2.0, [C]C(=CC(=[C])[C])[O]:1.0, [C]C(=CC(=[C])[C])[O]&gt;&gt;[C]C([C])=CC(=O)[O-]:1.0, [C]C(=O)[O-]:6.0, [C]C(=[C])O:1.0, [C]C(=[C])O&gt;&gt;[C]C(=O)[O-]:1.0, [C]C(=[C])[O]:1.0, [C]C(=[C])[O]&gt;&gt;[C]C(=O)[O-]:1.0, [C]C(C=C[C])=[C]:1.0, [C]C([C])=CC(=O)[O-]:1.0, [C]C([C])=[C]:1.0, [C]C=C(C=[C])C=[C]:1.0, [C]C=C(C=[C])C=[C]&gt;&gt;[C]=CC(C=[C])=C[C]:1.0, [C]C=CC(=O)[O-]:1.0, [C]C=[C]:3.0, [C]C=[C]&gt;&gt;[C]=C[C]:1.0, [C]C=[C]&gt;&gt;[C]C=[C]:1.0, [C]O:1.0, [C]O&gt;&gt;[C][O-]:1.0, [C][O-]:2.0, [O-]:2.0, [O]:6.0, [O]C(=CC=[C])[C]:1.0, [O]C(=CC=[C])[C]&gt;&gt;[C]C=CC(=O)[O-]:1.0, [O]C(=[C])C(=C[C])O:1.0, [O]C(=[C])C(=C[C])O&gt;&gt;[C]=CC(=O)[O-]:2.0, [O]C(=[C])[C]:1.0, [O]C(=[C])[C]&gt;&gt;[C]C(=O)[O-]:1.0, [O]c1[c]cc(C=[C])cc1O&gt;&gt;[C]=CC(C=[C])=CC(=O)[O-]:1.0, [O]c1ccc(C=[C])c[c]1&gt;&gt;[C]=CC(C=CC(=O)[O-])=C[C]:1.0, [c]1ccc(C=C[C])cc1[O]&gt;&gt;C(=CC(C=C[C])=CC(=O)[O-])[C]:1.0]</CENTRE>
+    </FINGERPRINTS>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[H:19][O:8][c:10]1[cH:11][cH:9][c:6]([CH:4]=[CH:3][C:5](=[O:7])[O-:12])[cH:14][c:15]1[O:13][H:20].[O:1]=[O:2]&gt;&gt;[O:1]=[C:10]([O-:8])[CH:11]=[CH:9][C:6]([CH:4]=[CH:3][C:5](=[O:7])[O-:12])=[CH:14][C:15](=[O:2])[O-:13].[H+:19].[H+:20]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[H:20][O:11][c:13]1[cH:12][c:4]([CH:2]=[CH:1][C:3](=[O:5])[O-:10])[cH:7][c:9]([H:21])[c:8]1[O:6][H:19].[O:14]=[O:15]&gt;&gt;[H:19][C:13](=[CH:12][C:4]([CH:2]=[CH:1][C:3](=[O:5])[O-:10])=[CH:7][C:9](=[O:14])[O-:15])[C:8](=[O:6])[O-:11].[H+:21].[H+:20]</AAM>
+      <SCORE>11</SCORE>
+      <CHAOS>0 &lt;=&gt; 30</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>27E02</ENERGY>
+      <DELTA>47E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[H:20][O:11][c:13]1[cH:12][c:4]([CH:2]=[CH:1][C:3](=[O:5])[O-:10])[cH:7][c:9]([H:21])[c:8]1[O:6][H:19].[O:14]=[O:15]&gt;&gt;[H:19][C:13](=[CH:12][C:4]([CH:2]=[CH:1][C:3](=[O:5])[O-:10])=[CH:7][C:9](=[O:14])[O-:15])[C:8](=[O:6])[O-:11].[H+:21].[H+:20]</AAM>
+      <SCORE>11</SCORE>
+      <CHAOS>0 &lt;=&gt; 30</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>27E02</ENERGY>
+      <DELTA>47E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[H:19][O:8][c:10]1[cH:11][cH:9][c:6]([CH:4]=[CH:3][C:5](=[O:7])[O-:12])[cH:14][c:15]1[O:13][H:20].[O:1]=[O:2]&gt;&gt;[O:1]=[C:10]([O-:8])[CH:11]=[CH:9][C:6]([CH:4]=[CH:3][C:5](=[O:7])[O-:12])=[CH:14][C:15](=[O:2])[O-:13].[H+:19].[H+:20]</AAM>
+      <SCORE>11</SCORE>
+      <CHAOS>0 &lt;=&gt; 25</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>24E02</ENERGY>
+      <DELTA>34E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[H:19][O:8][c:10]1[cH:11][cH:9][c:6]([CH:4]=[CH:3][C:5](=[O:7])[O-:12])[cH:14][c:15]1[O:13][H:20].[O:1]=[O:2]&gt;&gt;[O:1]=[C:10]([O-:8])[CH:11]=[CH:9][C:6]([CH:4]=[CH:3][C:5](=[O:7])[O-:12])=[CH:14][C:15](=[O:2])[O-:13].[H+:19].[H+:20]</AAM>
+      <SCORE>11</SCORE>
+      <CHAOS>0 &lt;=&gt; 25</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>24E02</ENERGY>
+      <DELTA>34E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

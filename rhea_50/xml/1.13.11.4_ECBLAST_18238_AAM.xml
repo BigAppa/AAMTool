@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <FINGERPRINTS BC="1">
+      <FORMED_CLEAVED>[C-H:3.0, C=O:2.0, C@C:1.0, H-O:2.0, O=O:1.0]</FORMED_CLEAVED>
+      <ORDER_CHANGED>[C-C*C@C:2.0, C-O*C=O:1.0]</ORDER_CHANGED>
+    </FINGERPRINTS>
+    <FINGERPRINTS RC="2">
+      <CENTRE>[C(=C[C])C(=O)[O-]:1.0, C(=[C])[C]:1.0, O=O:4.0, O=O&gt;&gt;[C]=O:2.0, O=O&gt;&gt;[C]C(=O)C(=O)[O-]:1.0, O=O&gt;&gt;[C]C(=O)[C]:1.0, O=O&gt;&gt;[C]C(=O)[O-]:1.0, O=O&gt;&gt;[C]CC(=O)C(=O)[O-]:1.0, OC(=C[C])C=[C]:1.0, OC(=C[C])C=[C]&gt;&gt;[C]=CC(=O)C[C]:2.0, OC(=[C])[C]:1.0, OC(=[C])[C]&gt;&gt;[C]C(=O)[C]:1.0, O[C]:1.0, O[C]&gt;&gt;[C]=O:1.0, Oc1cc[c]c(c1)[C]&gt;&gt;C(=CC(=O)CC(=O)[C])[C]:1.0, Oc1ccc([O])[c]c1&gt;&gt;[C]=CC(=O)CC(=O)C(=O)[O-]:1.0, [C]:10.0, [C]=C(O)[C]:1.0, [C]=C(O)[C]&gt;&gt;[C]C(=O)[O-]:1.0, [C]=C([O])[C]:1.0, [C]=C([O])[C]&gt;&gt;[C]C(=O)[O-]:1.0, [C]=CC(=O)C[C]:1.0, [C]=CC=C([O])[C]:1.0, [C]=CC=C([O])[C]&gt;&gt;[C]CC(=O)C(=O)[O-]:1.0, [C]=C[C]:1.0, [C]=C[C]&gt;&gt;[C]C[C]:1.0, [C]=O:3.0, [C]C(=O)C(=O)[O-]:1.0, [C]C(=O)CC(=O)[C]:1.0, [C]C(=O)[C]:4.0, [C]C(=O)[O-]:3.0, [C]C(=[C])[C]:1.0, [C]C(=[C])[C]&gt;&gt;C(=[C])[C]:1.0, [C]C=C(C(=[C])[O])C(=O)[O-]:1.0, [C]C=C(C(=[C])[O])C(=O)[O-]&gt;&gt;C(=C[C])C(=O)[O-]:1.0, [C]C=C(O)C(=[C])[C]:1.0, [C]C=C(O)C(=[C])[C]&gt;&gt;[C]C(=O)C(=O)[O-]:2.0, [C]C=[C]:1.0, [C]C=[C]&gt;&gt;[C]C(=O)[C]:1.0, [C]CC(=O)C(=O)[O-]:1.0, [C]C[C]:1.0, [C]O:1.0, [C]O&gt;&gt;[C][O-]:1.0, [C][O-]:1.0, [O-]:1.0, [O]:7.0, [O]C(=CC=[C])[C]:1.0, [O]C(=CC=[C])[C]&gt;&gt;[C]C(=O)CC(=O)[C]:1.0, [O]C(=[C])[C]:1.0, [O]C(=[C])[C]&gt;&gt;[C]C(=O)[C]:1.0, [O]c1[c]cc(O)c(c1)C(=O)[O-]&gt;&gt;C(=CC(=O)[C])C(=O)[O-]:1.0, [O]c1ccc(O)c([c]1)[C]&gt;&gt;[C]C(=O)CC(=O)C(=O)[O-]:1.0, [c]1ccc(O)c(c1)C(=O)[O-]&gt;&gt;[C]CC(=O)C(=O)[O-]:1.0]</CENTRE>
+    </FINGERPRINTS>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[H:18][O:9][c:10]1[cH:4][c:5]([H:14])[c:3]([O:11][H:16])[c:6]([cH:7]1)[C:8](=[O:13])[O-:12].[O:1]=[O:2]&gt;&gt;[H:18][C:6](=[CH:7][C:10](=[O:9])[CH:4]([H:14])[C:5](=[O:1])[C:3](=[O:2])[O-:11])[C:8](=[O:13])[O-:12].[H+:16]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[H:18][O:7][c:8]1[cH:5][c:4]([C:6](=[O:11])[O-:10])[c:1]([O:9][H:16])[c:3]([H:14])[c:2]1[H:15].[O:12]=[O:13]&gt;&gt;[H:18][C:4](=[CH:5][C:8](=[O:12])[C:1]([H:15])([H:14])[C:2](=[O:13])[C:3](=[O:7])[O-:9])[C:6](=[O:11])[O-:10].[H+:16]</AAM>
+      <SCORE>19</SCORE>
+      <CHAOS>0 &lt;=&gt; 77</CHAOS>
+      <SIGMA>5</SIGMA>
+      <ENERGY>57E02</ENERGY>
+      <DELTA>92E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[H:18][O:9][c:10]1[cH:7][c:6]([C:8](=[O:13])[O-:12])[c:3]([O:11][H:16])[c:5]([H:14])[c:4]1[H:15].[O:1]=[O:2]&gt;&gt;[H:18][C:6](=[CH:7][C:10](=[O:1])[C:3]([H:15])([H:14])[C:4](=[O:2])[C:5](=[O:9])[O-:11])[C:8](=[O:13])[O-:12].[H+:16]</AAM>
+      <SCORE>19</SCORE>
+      <CHAOS>0 &lt;=&gt; 77</CHAOS>
+      <SIGMA>5</SIGMA>
+      <ENERGY>57E02</ENERGY>
+      <DELTA>92E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[H:18][O:9][c:10]1[cH:4][c:5]([H:14])[c:3]([O:11][H:16])[c:6]([cH:7]1)[C:8](=[O:13])[O-:12].[O:1]=[O:2]&gt;&gt;[H:18][C:6](=[CH:7][C:10](=[O:9])[CH:4]([H:14])[C:5](=[O:1])[C:3](=[O:2])[O-:11])[C:8](=[O:13])[O-:12].[H+:16]</AAM>
+      <SCORE>12</SCORE>
+      <CHAOS>0 &lt;=&gt; 24</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>24E02</ENERGY>
+      <DELTA>46E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[H:18][O:9][c:10]1[cH:4][c:5]([H:14])[c:3]([O:11][H:16])[c:6]([cH:7]1)[C:8](=[O:13])[O-:12].[O:1]=[O:2]&gt;&gt;[H:18][C:6](=[CH:7][C:10](=[O:9])[CH:4]([H:14])[C:5](=[O:1])[C:3](=[O:2])[O-:11])[C:8](=[O:13])[O-:12].[H+:16]</AAM>
+      <SCORE>12</SCORE>
+      <CHAOS>0 &lt;=&gt; 24</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>24E02</ENERGY>
+      <DELTA>46E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

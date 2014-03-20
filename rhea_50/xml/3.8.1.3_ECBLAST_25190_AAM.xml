@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <FINGERPRINTS BC="1">
+      <FORMED_CLEAVED>[C-Cl:1.0, C-O:1.0, H-O:1.0]</FORMED_CLEAVED>
+    </FINGERPRINTS>
+    <FINGERPRINTS RC="2">
+      <CENTRE>[C(Cl)C(=O)[O-]:1.0, C(Cl)C(=O)[O-]&gt;&gt;OCC(=O)[O-]:2.0, C(Cl)C(=O)[O-]&gt;&gt;[Cl-]:1.0, C(Cl)[C]:2.0, C(Cl)[C]&gt;&gt;[Cl-]:1.0, C(Cl)[C]&gt;&gt;[O]C[C]:1.0, O:2.0, O&gt;&gt;OCC(=O)[O-]:1.0, O&gt;&gt;OC[C]:1.0, O&gt;&gt;O[C]:1.0, OCC(=O)[O-]:1.0, OC[C]:1.0, O[C]:1.0, [C]:2.0, [C]Cl:1.0, [C]Cl&gt;&gt;[Cl-]:1.0, [Cl-]:3.0, [Cl]:1.0, [O]:2.0, [O]C[C]:1.0]</CENTRE>
+    </FINGERPRINTS>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[O:5]=[C:3]([O-:4])[CH2:2][Cl:1].[H:10][OH:6]&gt;&gt;[O:5]=[C:3]([O-:4])[CH2:2][OH:6].[Cl-:1].[H+:10]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[O:5]=[C:3]([O-:4])[CH2:2][Cl:1].[H:10][OH:6]&gt;&gt;[O:5]=[C:3]([O-:4])[CH2:2][OH:6].[Cl-:1].[H+:10]</AAM>
+      <SCORE>3</SCORE>
+      <CHAOS>0 &lt;=&gt; 4</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>6.8E02</ENERGY>
+      <DELTA>11E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[O:6]=[C:4]([O-:5])[CH2:3][Cl:2].[H:8][OH:1]&gt;&gt;[O:6]=[C:4]([O-:5])[CH2:3][OH:1].[Cl-:2].[H+:8]</AAM>
+      <SCORE>3</SCORE>
+      <CHAOS>0 &lt;=&gt; 4</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>6.8E02</ENERGY>
+      <DELTA>11E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[O:6]=[C:4]([O-:5])[CH2:3][Cl:2].[H:8][OH:1]&gt;&gt;[O:6]=[C:4]([O-:5])[CH2:3][OH:1].[Cl-:2].[H+:8]</AAM>
+      <SCORE>3</SCORE>
+      <CHAOS>0 &lt;=&gt; 4</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>6.8E02</ENERGY>
+      <DELTA>11E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[O:6]=[C:4]([O-:5])[CH2:3][Cl:2].[H:8][OH:1]&gt;&gt;[O:6]=[C:4]([O-:5])[CH2:3][OH:1].[Cl-:2].[H+:8]</AAM>
+      <SCORE>3</SCORE>
+      <CHAOS>0 &lt;=&gt; 4</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>6.8E02</ENERGY>
+      <DELTA>11E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

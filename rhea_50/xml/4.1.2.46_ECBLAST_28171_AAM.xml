@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <FINGERPRINTS BC="1">
+      <FORMED_CLEAVED>[C-C:1.0, C-H:1.0, H-O:1.0]</FORMED_CLEAVED>
+      <ORDER_CHANGED>[C-O*C=O:1.0]</ORDER_CHANGED>
+    </FINGERPRINTS>
+    <FINGERPRINTS RC="2">
+      <CENTRE>[C#N:2.0, CC(=O)C[C]:1.0, OC(C#N)(C)CC&gt;&gt;CC(=O)CC:1.0, OC(C#N)(C)C[C]:1.0, OC(C#N)(C)C[C]&gt;&gt;C#N:1.0, OC(C#N)(C)C[C]&gt;&gt;CC(=O)C[C]:2.0, OC([C])([C])[C]:1.0, OC([C])([C])[C]&gt;&gt;[C]C(=O)[C]:1.0, O[C]:1.0, O[C]&gt;&gt;[C]=O:1.0, [C]:4.0, [C]=O:1.0, [C]C#N:1.0, [C]C#N&gt;&gt;C#N:1.0, [C]C(=O)[C]:2.0, [O]:2.0, [O]C(C#N)([C])[C]:1.0, [O]C(C#N)([C])[C]&gt;&gt;C#N:1.0, [O]C([C])([C])[C]:1.0, [O]C([C])([C])[C]&gt;&gt;[C]C(=O)[C]:1.0]</CENTRE>
+    </FINGERPRINTS>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[H:10][O:1][C:2]([C:3]#[N:4])([CH3:5])[CH2:7][CH3:6]&gt;&gt;[O:1]=[C:2]([CH3:5])[CH2:7][CH3:6].[H:10][C:3]#[N:4]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[H:10][O:1][C:2]([C:3]#[N:4])([CH3:5])[CH2:7][CH3:6]&gt;&gt;[O:1]=[C:2]([CH3:5])[CH2:7][CH3:6].[H:10][C:3]#[N:4]</AAM>
+      <SCORE>4</SCORE>
+      <CHAOS>0 &lt;=&gt; 4</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>3.5E02</ENERGY>
+      <DELTA>12E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[H:10][O:1][C:2]([C:3]#[N:4])([CH3:5])[CH2:7][CH3:6]&gt;&gt;[O:1]=[C:2]([CH3:5])[CH2:7][CH3:6].[H:10][C:3]#[N:4]</AAM>
+      <SCORE>4</SCORE>
+      <CHAOS>0 &lt;=&gt; 4</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>3.5E02</ENERGY>
+      <DELTA>12E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[H:10][O:1][C:2]([C:3]#[N:4])([CH3:5])[CH2:7][CH3:6]&gt;&gt;[O:1]=[C:2]([CH3:5])[CH2:7][CH3:6].[H:10][C:3]#[N:4]</AAM>
+      <SCORE>4</SCORE>
+      <CHAOS>0 &lt;=&gt; 4</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>3.5E02</ENERGY>
+      <DELTA>12E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[H:10][O:1][C:2]([C:3]#[N:4])([CH3:5])[CH2:7][CH3:6]&gt;&gt;[O:1]=[C:2]([CH3:5])[CH2:7][CH3:6].[H:10][C:3]#[N:4]</AAM>
+      <SCORE>4</SCORE>
+      <CHAOS>0 &lt;=&gt; 4</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>3.5E02</ENERGY>
+      <DELTA>12E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>
