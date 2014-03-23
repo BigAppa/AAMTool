@@ -1,4 +1,3 @@
-
 #Reaction Decoder Tool (EC-BLAST)
 
 ####Author: Syed Asad Rahman
@@ -7,8 +6,7 @@
 ####WTGC, CB10 1SD Hinxton
 ####UK
 
-###Note: The copyright of this software belongs to the author
-and the EMBL-European BioInformatics Institute (EBI).
+###Note: The copyright of this software belongs to the author and the EMBL-European BioInformatics Institute (EBI).
 
 ###Reference: Rahman, S.A. et.al.(2014) EC-BLAST: A Tool to
 Automatically Search and Compare Enzyme Reactions, Nature Methods.
