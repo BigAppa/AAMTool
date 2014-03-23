@@ -1,8 +1,11 @@
 #Reaction Decoder Tool (EC-BLAST)
 
 Author: Syed Asad Rahman
+
 e-mail: asad@ebi.ac.uk
+
 c/o EMBL-European BioInformatics Institute (EBI), 
+
 WTGC, CB10 1SD Hinxton, UK
 
 Note: The copyright of this software belongs to the author and the EMBL-European BioInformatics Institute (EBI).
