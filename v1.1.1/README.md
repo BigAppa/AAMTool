@@ -1,4 +1,4 @@
-!--------------------------------------------------------
+
 #Reaction Decoder Tool (EC-BLAST)
 
 ####Author: Syed Asad Rahman
@@ -12,7 +12,7 @@ and the EMBL-European BioInformatics Institute (EBI).
 
 ###Reference: Rahman, S.A. et.al.(2014) EC-BLAST: A Tool to
 Automatically Search and Compare Enzyme Reactions, Nature Methods.
-!--------------------------------------------------------
+------------------------------------------------------------------
 
 ####Note: This code is compatible to JVM 7.0+
 
