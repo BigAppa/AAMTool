@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[O:5]=[C:3]1[CH:4]([OH:7])[CH:12]([OH:10])[CH:1]([OH:11])[CH:9]([OH:2])[CH:6]1[OH:8]&gt;&gt;[O:5]=[C:3]1[CH:4]([OH:7])[CH:12]([OH:10])[CH:1]([OH:11])[CH:9]([OH:2])[CH:6]1[OH:8]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[O:5]=[C:3]1[CH:4]([OH:7])[CH:12]([OH:10])[CH:1]([OH:11])[CH:9]([OH:2])[CH:6]1[OH:8]&gt;&gt;[O:5]=[C:3]1[CH:4]([OH:7])[CH:12]([OH:10])[CH:1]([OH:11])[CH:9]([OH:2])[CH:6]1[OH:8]</AAM>
+      <SCORE>0</SCORE>
+      <CHAOS>0 &lt;=&gt; 0</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>0E00</ENERGY>
+      <DELTA>0E00</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[O:5]=[C:3]1[CH:4]([OH:7])[CH:12]([OH:10])[CH:1]([OH:11])[CH:9]([OH:2])[CH:6]1[OH:8]&gt;&gt;[O:5]=[C:3]1[CH:4]([OH:7])[CH:12]([OH:10])[CH:1]([OH:11])[CH:9]([OH:2])[CH:6]1[OH:8]</AAM>
+      <SCORE>0</SCORE>
+      <CHAOS>0 &lt;=&gt; 0</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>0E00</ENERGY>
+      <DELTA>0E00</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[O:5]=[C:3]1[CH:4]([OH:7])[CH:12]([OH:10])[CH:1]([OH:11])[CH:9]([OH:2])[CH:6]1[OH:8]&gt;&gt;[O:5]=[C:3]1[CH:4]([OH:7])[CH:12]([OH:10])[CH:1]([OH:11])[CH:9]([OH:2])[CH:6]1[OH:8]</AAM>
+      <SCORE>0</SCORE>
+      <CHAOS>0 &lt;=&gt; 0</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>0E00</ENERGY>
+      <DELTA>0E00</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

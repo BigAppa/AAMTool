@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[O:14]=[C:13]([O-:12])[CH2:16][CH2:17][CH2:19][CH2:20][CH2:21][CH2:18][CH2:15][CH:1]=[CH:2][CH:3]=[C:4]1[O:5][CH:7]1[CH2:9][CH:11]=[CH:10][CH2:8][CH3:6]&gt;&gt;[O:14]=[C:13]([O-:12])[CH2:16][CH2:17][CH2:19][CH2:20][CH2:21][CH2:18][CH2:15][CH:1]1[CH:2]=[CH:3][C:4](=[O:5])[CH:7]1[CH2:9][CH:11]=[CH:10][CH2:8][CH3:6]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[O:14]=[C:13]([O-:12])[CH2:16][CH2:17][CH2:19][CH2:20][CH2:21][CH2:18][CH2:15][CH:1]=[CH:2][CH:3]=[C:4]1[O:5][CH:7]1[CH2:9][CH:11]=[CH:10][CH2:8][CH3:6]&gt;&gt;[O:14]=[C:13]([O-:12])[CH2:16][CH2:17][CH2:19][CH2:20][CH2:21][CH2:18][CH2:15][CH:1]1[CH:2]=[CH:3][C:4](=[O:5])[CH:7]1[CH2:9][CH:11]=[CH:10][CH2:8][CH3:6]</AAM>
+      <SCORE>6</SCORE>
+      <CHAOS>0 &lt;=&gt; 96</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>6.9E02</ENERGY>
+      <DELTA>7E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[O:14]=[C:13]([O-:12])[CH2:16][CH2:17][CH2:19][CH2:20][CH2:21][CH2:18][CH2:15][CH:1]=[CH:2][CH:3]=[C:4]1[O:5][CH:7]1[CH2:9][CH:11]=[CH:10][CH2:8][CH3:6]&gt;&gt;[O:14]=[C:13]([O-:12])[CH2:16][CH2:17][CH2:19][CH2:20][CH2:21][CH2:18][CH2:15][CH:1]1[CH:2]=[CH:3][C:4](=[O:5])[CH:7]1[CH2:9][CH:11]=[CH:10][CH2:8][CH3:6]</AAM>
+      <SCORE>6</SCORE>
+      <CHAOS>0 &lt;=&gt; 96</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>6.9E02</ENERGY>
+      <DELTA>7E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[H:28][C:7]1([O:5][C:4]1=[CH:3][CH:2]=[CH:1][CH2:15][CH2:18][CH2:21][CH2:20][CH2:19][CH2:17][CH2:16][C:13](=[O:14])[O-:12])[CH2:9][CH:11]=[CH:10][CH2:8][CH3:6]&gt;&gt;[H:28][C:4]1=[CH:3][CH:2]([CH2:15][CH2:18][CH2:21][CH2:20][CH2:19][CH2:17][CH2:16][C:13](=[O:14])[O-:12])[CH:1]([C:7]1=[O:5])[CH2:9][CH:11]=[CH:10][CH2:8][CH3:6]</AAM>
+      <SCORE>10</SCORE>
+      <CHAOS>0 &lt;=&gt; 174</CHAOS>
+      <SIGMA>5</SIGMA>
+      <ENERGY>21E02</ENERGY>
+      <DELTA>29E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>
