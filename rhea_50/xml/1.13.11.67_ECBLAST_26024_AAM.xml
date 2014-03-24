@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[H:75][CH:31]([H:36])[C:11](=[CH:12][CH:13]=[CH:14][CH:15]=[C:16]([CH:17]=[CH:19][CH:18]=[C:21]([CH:22]=[CH:23][C:24]1=[C:25]([CH3:26])[CH2:20][CH2:27][CH2:28][C:10]1([CH3:29])[CH3:8])[CH3:30])[CH3:4])[CH:9]=[CH:7][CH:6]=[C:5]([CH3:1])[CH2:3][OH:2].[O:32]=[O:33]&gt;&gt;[O:32]=[CH:12][CH:13]=[CH:14][CH:15]=[C:16]([CH:17]=[CH:19][CH:18]=[C:21]([CH:22]=[CH:23][C:24]1=[C:25]([CH3:26])[CH2:20][CH2:27][CH2:28][C:10]1([CH3:8])[CH3:29])[CH3:30])[CH3:4].[H:75][C:11]([H:36])([CH:31]=[O:33])[CH:9]=[CH:7][CH:6]=[C:5]([CH3:1])[CH2:3][OH:2]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[H:75][CH:31]([H:36])[C:11](=[CH:12][CH:13]=[CH:14][CH:15]=[C:16]([CH:17]=[CH:19][CH:18]=[C:21]([CH:22]=[CH:23][C:24]1=[C:25]([CH3:26])[CH2:20][CH2:27][CH2:28][C:10]1([CH3:29])[CH3:8])[CH3:30])[CH3:4])[CH:9]=[CH:7][CH:6]=[C:5]([CH3:1])[CH2:3][OH:2].[O:32]=[O:33]&gt;&gt;[O:32]=[CH:12][CH:13]=[CH:14][CH:15]=[C:16]([CH:17]=[CH:19][CH:18]=[C:21]([CH:22]=[CH:23][C:24]1=[C:25]([CH3:26])[CH2:20][CH2:27][CH2:28][C:10]1([CH3:8])[CH3:29])[CH3:30])[CH3:4].[H:75][C:11]([H:36])([CH:31]=[O:33])[CH:9]=[CH:7][CH:6]=[C:5]([CH3:1])[CH2:3][OH:2]</AAM>
+      <SCORE>8</SCORE>
+      <CHAOS>0 &lt;=&gt; 28</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>27E02</ENERGY>
+      <DELTA>43E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[H:75][CH:31]([H:36])[C:11](=[CH:12][CH:13]=[CH:14][CH:15]=[C:16]([CH:17]=[CH:19][CH:18]=[C:21]([CH:22]=[CH:23][C:24]1=[C:25]([CH3:26])[CH2:20][CH2:27][CH2:28][C:10]1([CH3:29])[CH3:8])[CH3:30])[CH3:4])[CH:9]=[CH:7][CH:6]=[C:5]([CH3:1])[CH2:3][OH:2].[O:32]=[O:33]&gt;&gt;[O:32]=[CH:12][CH:13]=[CH:14][CH:15]=[C:16]([CH:17]=[CH:19][CH:18]=[C:21]([CH:22]=[CH:23][C:24]1=[C:25]([CH3:26])[CH2:20][CH2:27][CH2:28][C:10]1([CH3:8])[CH3:29])[CH3:30])[CH3:4].[H:75][C:11]([H:36])([CH:31]=[O:33])[CH:9]=[CH:7][CH:6]=[C:5]([CH3:1])[CH2:3][OH:2]</AAM>
+      <SCORE>8</SCORE>
+      <CHAOS>0 &lt;=&gt; 28</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>27E02</ENERGY>
+      <DELTA>43E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[H:75][CH:31]([H:36])[C:11](=[CH:12][CH:13]=[CH:14][CH:15]=[C:16]([CH:17]=[CH:19][CH:18]=[C:21]([CH:22]=[CH:23][C:24]1=[C:25]([CH3:26])[CH2:20][CH2:27][CH2:28][C:10]1([CH3:29])[CH3:8])[CH3:30])[CH3:4])[CH:9]=[CH:7][CH:6]=[C:5]([CH3:1])[CH2:3][OH:2].[O:32]=[O:33]&gt;&gt;[O:32]=[CH:12][CH:13]=[CH:14][CH:15]=[C:16]([CH:17]=[CH:19][CH:18]=[C:21]([CH:22]=[CH:23][C:24]1=[C:25]([CH3:26])[CH2:20][CH2:27][CH2:28][C:10]1([CH3:8])[CH3:29])[CH3:30])[CH3:4].[H:75][C:11]([H:36])([CH:31]=[O:33])[CH:9]=[CH:7][CH:6]=[C:5]([CH3:1])[CH2:3][OH:2]</AAM>
+      <SCORE>8</SCORE>
+      <CHAOS>0 &lt;=&gt; 28</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>27E02</ENERGY>
+      <DELTA>43E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

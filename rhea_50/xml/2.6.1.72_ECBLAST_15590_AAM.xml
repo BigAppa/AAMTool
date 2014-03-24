@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[H:26][C:7]([C:9](=[O:10])[O-:11])([c:1]1[cH:2][cH:4][c:5]([OH:8])[cH:6][cH:3]1)[NH3+:12].[O:17]=[C:15]([O-:16])[C:18](=[O:13])[CH2:21][CH2:14][C:19](=[O:20])[O-:22]&gt;&gt;[H:26][C:18]([C:15](=[O:17])[O-:16])([NH3+:12])[CH2:21][CH2:14][C:19](=[O:20])[O-:22].[O:10]=[C:9]([O-:11])[C:7](=[O:13])[c:1]1[cH:2][cH:4][c:5]([OH:8])[cH:6][cH:3]1</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[H:26][C:7]([C:9](=[O:10])[O-:11])([c:1]1[cH:2][cH:4][c:5]([OH:8])[cH:6][cH:3]1)[NH3+:12].[O:17]=[C:15]([O-:16])[C:18](=[O:13])[CH2:21][CH2:14][C:19](=[O:20])[O-:22]&gt;&gt;[H:26][C:18]([C:15](=[O:17])[O-:16])([NH3+:12])[CH2:21][CH2:14][C:19](=[O:20])[O-:22].[O:10]=[C:9]([O-:11])[C:7](=[O:13])[c:1]1[cH:2][cH:4][c:5]([OH:8])[cH:6][cH:3]1</AAM>
+      <SCORE>6</SCORE>
+      <CHAOS>0 &lt;=&gt; 12</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>22E02</ENERGY>
+      <DELTA>30E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[H:26][C:7]([C:9](=[O:10])[O-:11])([c:1]1[cH:2][cH:4][c:5]([OH:8])[cH:6][cH:3]1)[NH3+:12].[O:17]=[C:15]([O-:16])[C:18](=[O:13])[CH2:21][CH2:14][C:19](=[O:20])[O-:22]&gt;&gt;[H:26][C:18]([C:15](=[O:17])[O-:16])([NH3+:12])[CH2:21][CH2:14][C:19](=[O:20])[O-:22].[O:10]=[C:9]([O-:11])[C:7](=[O:13])[c:1]1[cH:2][cH:4][c:5]([OH:8])[cH:6][cH:3]1</AAM>
+      <SCORE>6</SCORE>
+      <CHAOS>0 &lt;=&gt; 12</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>22E02</ENERGY>
+      <DELTA>30E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[H:26][C:7]([C:9](=[O:10])[O-:11])([c:1]1[cH:2][cH:4][c:5]([OH:8])[cH:6][cH:3]1)[NH3+:12].[O:17]=[C:15]([O-:16])[C:18](=[O:13])[CH2:21][CH2:14][C:19](=[O:20])[O-:22]&gt;&gt;[H:26][C:18]([C:15](=[O:17])[O-:16])([NH3+:12])[CH2:21][CH2:14][C:19](=[O:20])[O-:13].[O:10]=[C:9]([O-:11])[C:7](=[O:22])[c:1]1[cH:2][cH:4][c:5]([OH:8])[cH:6][cH:3]1</AAM>
+      <SCORE>8</SCORE>
+      <CHAOS>0 &lt;=&gt; 14</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>29E02</ENERGY>
+      <DELTA>37E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

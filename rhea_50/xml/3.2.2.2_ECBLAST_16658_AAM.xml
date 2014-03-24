@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[H:29][O:17][c:14]1[n:10][cH:15][n:16][c:18]2[c:19]1[n:20][cH:9][n:7]2[CH:8]3[O:6][CH:5]([CH2:2][OH:4])[CH:3]([OH:11])[CH:12]3[OH:13].[H:22][OH:1]&gt;&gt;[OH:4][CH2:2][CH:5]1[O:6][CH:8]([OH:1])[CH:12]([OH:13])[CH:3]1[OH:11].[H:22][n:10]1[cH:15][n:16][c:18]2[n:7][cH:9][n:20]([H:29])[c:19]2[c:14]1=[O:17]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[H:29][O:17][c:14]1[n:10][cH:15][n:16][c:18]2[c:19]1[n:20][cH:9][n:7]2[CH:8]3[O:6][CH:5]([CH2:2][OH:4])[CH:3]([OH:11])[CH:12]3[OH:13].[H:22][OH:1]&gt;&gt;[OH:4][CH2:2][CH:5]1[O:6][CH:8]([OH:1])[CH:12]([OH:13])[CH:3]1[OH:11].[H:22][n:10]1[cH:15][n:16][c:18]2[n:7][cH:9][n:20]([H:29])[c:19]2[c:14]1=[O:17]</AAM>
+      <SCORE>7</SCORE>
+      <CHAOS>0 &lt;=&gt; 19</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>6.6E02</ENERGY>
+      <DELTA>24E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[H:29][O:17][c:14]1[n:10][cH:15][n:16][c:18]2[c:19]1[n:20][cH:9][n:7]2[CH:8]3[O:6][CH:5]([CH2:2][OH:4])[CH:3]([OH:11])[CH:12]3[OH:13].[H:22][OH:1]&gt;&gt;[OH:4][CH2:2][CH:5]1[O:6][CH:8]([OH:1])[CH:12]([OH:13])[CH:3]1[OH:11].[H:22][n:10]1[cH:15][n:16][c:18]2[n:7][cH:9][n:20]([H:29])[c:19]2[c:14]1=[O:17]</AAM>
+      <SCORE>7</SCORE>
+      <CHAOS>0 &lt;=&gt; 19</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>6.6E02</ENERGY>
+      <DELTA>24E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[H:29][O:17][c:14]1[n:10][cH:15][n:16][c:18]2[c:19]1[n:20][cH:9][n:7]2[CH:8]3[O:6][CH:5]([CH2:2][OH:4])[CH:3]([OH:11])[CH:12]3[OH:13].[H:22][OH:1]&gt;&gt;[OH:4][CH2:2][CH:5]1[O:6][CH:8]([OH:1])[CH:12]([OH:13])[CH:3]1[OH:11].[H:22][n:10]1[cH:15][n:16][c:18]2[n:7][cH:9][n:20]([H:29])[c:19]2[c:14]1=[O:17]</AAM>
+      <SCORE>7</SCORE>
+      <CHAOS>0 &lt;=&gt; 19</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>6.6E02</ENERGY>
+      <DELTA>24E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

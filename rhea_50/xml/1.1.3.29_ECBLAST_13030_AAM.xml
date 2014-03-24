@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[H:29][O:11][C:9]1([H:28])[O:8][CH:6]([CH2:7][OH:13])[CH:5]([OH:17])[CH:4]([OH:3])[CH:12]1[NH:10][C:14](=[O:15])[CH3:16].[H:34][O:18][H:35].[O:1]=[O:2]&gt;&gt;[H:28][O:8][CH:6]([CH2:7][OH:13])[CH:5]([OH:17])[CH:4]([OH:3])[CH:12]([NH:10][C:14](=[O:15])[CH3:16])[C:9](=[O:18])[O-:11].[H:29][O:1][O:2][H:34].[H+:35]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[H:33][O:12][CH2:6][CH:5]1[O:7][C:8]([H:30])([O:10][H:31])[CH:11]([NH:9][C:13](=[O:14])[CH3:15])[CH:3]([OH:2])[CH:4]1[OH:16].[H:20][OH:1].[O:17]=[O:18]&gt;&gt;[H:33][O:7][CH:5]([CH2:6][OH:1])[CH:4]([OH:16])[CH:3]([OH:2])[CH:11]([NH:9][C:13](=[O:14])[CH3:15])[C:8](=[O:12])[O-:10].[H:30][O:17][O:18][H:31].[H+:20]</AAM>
+      <SCORE>12</SCORE>
+      <CHAOS>0 &lt;=&gt; 42</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>19E02</ENERGY>
+      <DELTA>50E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[H:29][O:11][C:9]1([H:28])[O:8][CH:6]([CH2:7][OH:13])[CH:5]([OH:17])[CH:4]([OH:3])[CH:12]1[NH:10][C:14](=[O:15])[CH3:16].[H:34][O:18][H:35].[O:1]=[O:2]&gt;&gt;[H:28][O:8][CH:6]([CH2:7][OH:13])[CH:5]([OH:17])[CH:4]([OH:3])[CH:12]([NH:10][C:14](=[O:15])[CH3:16])[C:9](=[O:18])[O-:11].[H:29][O:1][O:2][H:34].[H+:35]</AAM>
+      <SCORE>10</SCORE>
+      <CHAOS>0 &lt;=&gt; 38</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>12E02</ENERGY>
+      <DELTA>43E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[H:33][O:14][CH2:8][CH:7]1[O:9][C:10]([H:30])([O:12][H:31])[CH:13]([NH:11][C:15](=[O:16])[CH3:17])[CH:5]([OH:4])[CH:6]1[OH:18].[H:20][OH:3].[O:1]=[O:2]&gt;&gt;[H:33][O:9][CH:7]([CH2:8][OH:3])[CH:6]([OH:18])[CH:5]([OH:4])[CH:13]([NH:11][C:15](=[O:16])[CH3:17])[C:10](=[O:14])[O-:12].[H:30][O:1][O:2][H:31].[H+:20]</AAM>
+      <SCORE>12</SCORE>
+      <CHAOS>0 &lt;=&gt; 42</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>19E02</ENERGY>
+      <DELTA>50E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

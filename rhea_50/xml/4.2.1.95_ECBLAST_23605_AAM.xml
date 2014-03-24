@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[H:38][O:21][c:10]1[cH:7][c:6]([OH:8])[c:5]2[C:1](=[O:3])[CH:2]([c:14]3[cH:16][cH:13][c:11]([OH:9])[cH:4][c:15]3[OH:12])[CH2:17][O:18][c:19]2[c:20]1[CH2:22][CH:24]([H:47])[C:25]([OH:26])([CH3:27])[CH3:23]&gt;&gt;[O:3]=[C:1]1[c:5]2[c:6]([OH:8])[cH:7][c:10]([O-:21])[c:20]([c:19]2[O:18][CH2:17][CH:2]1[c:14]3[cH:16][cH:13][c:11]([OH:9])[cH:4][c:15]3[OH:12])[CH2:22][CH:24]=[C:25]([CH3:27])[CH3:23].[H:38][OH:26].[H+:47]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[H:38][O:21][c:10]1[cH:7][c:6]([OH:8])[c:5]2[C:1](=[O:3])[CH:2]([c:14]3[cH:16][cH:13][c:11]([OH:9])[cH:4][c:15]3[OH:12])[CH2:17][O:18][c:19]2[c:20]1[CH2:22][CH:24]([H:47])[C:25]([OH:26])([CH3:27])[CH3:23]&gt;&gt;[O:3]=[C:1]1[c:5]2[c:6]([OH:8])[cH:7][c:10]([O-:21])[c:20]([c:19]2[O:18][CH2:17][CH:2]1[c:14]3[cH:16][cH:13][c:11]([OH:9])[cH:4][c:15]3[OH:12])[CH2:22][CH:24]=[C:25]([CH3:27])[CH3:23].[H:38][OH:26].[H+:47]</AAM>
+      <SCORE>5</SCORE>
+      <CHAOS>0 &lt;=&gt; 5</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>3.6E02</ENERGY>
+      <DELTA>17E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[H:38][O:21][c:10]1[cH:7][c:6]([OH:8])[c:5]2[C:1](=[O:3])[CH:2]([c:14]3[cH:16][cH:13][c:11]([OH:9])[cH:4][c:15]3[OH:12])[CH2:17][O:18][c:19]2[c:20]1[CH2:22][CH:24]([H:47])[C:25]([OH:26])([CH3:27])[CH3:23]&gt;&gt;[O:3]=[C:1]1[c:5]2[c:6]([OH:8])[cH:7][c:10]([O-:21])[c:20]([c:19]2[O:18][CH2:17][CH:2]1[c:14]3[cH:16][cH:13][c:11]([OH:9])[cH:4][c:15]3[OH:12])[CH2:22][CH:24]=[C:25]([CH3:27])[CH3:23].[H:38][OH:26].[H+:47]</AAM>
+      <SCORE>5</SCORE>
+      <CHAOS>0 &lt;=&gt; 5</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>3.6E02</ENERGY>
+      <DELTA>17E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[H:38][O:21][c:10]1[cH:7][c:6]([OH:8])[c:5]2[C:1](=[O:3])[CH:2]([c:14]3[cH:16][cH:13][c:11]([OH:9])[cH:4][c:15]3[OH:12])[CH2:17][O:18][c:19]2[c:20]1[CH2:22][CH:24]([H:47])[C:25]([OH:26])([CH3:27])[CH3:23]&gt;&gt;[O:3]=[C:1]1[c:5]2[c:6]([OH:8])[cH:7][c:10]([O-:21])[c:20]([c:19]2[O:18][CH2:17][CH:2]1[c:14]3[cH:16][cH:13][c:11]([OH:9])[cH:4][c:15]3[OH:12])[CH2:22][CH:24]=[C:25]([CH3:27])[CH3:23].[H:38][OH:26].[H+:47]</AAM>
+      <SCORE>5</SCORE>
+      <CHAOS>0 &lt;=&gt; 5</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>3.6E02</ENERGY>
+      <DELTA>17E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

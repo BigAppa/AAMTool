@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[H:7][O:3][O:4][H:8].[OH:1][OH:2]&gt;&gt;[H:7][OH:1].[H:8][OH:2].[O:3]=[O:4]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[H:7][O:3][O:4][H:8].[OH:1][OH:2]&gt;&gt;[H:7][OH:1].[H:8][OH:2].[O:3]=[O:4]</AAM>
+      <SCORE>6</SCORE>
+      <CHAOS>0 &lt;=&gt; 6</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>1.4E02</ENERGY>
+      <DELTA>20E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[H:5][O:1][O:2][H:6].[OH:3][OH:4]&gt;&gt;[H:5][OH:3].[H:6][OH:4].[O:1]=[O:2]</AAM>
+      <SCORE>6</SCORE>
+      <CHAOS>0 &lt;=&gt; 6</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>1.4E02</ENERGY>
+      <DELTA>20E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[H:5][O:1][O:2][H:6].[OH:3][OH:4]&gt;&gt;[H:5][OH:3].[H:6][OH:4].[O:1]=[O:2]</AAM>
+      <SCORE>6</SCORE>
+      <CHAOS>0 &lt;=&gt; 6</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>1.4E02</ENERGY>
+      <DELTA>20E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

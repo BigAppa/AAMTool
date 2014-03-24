@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[O:15]=[c:9]1[nH:10][c:12]([n:11][c:14]2[c:8]1[n:7][cH:6][n:5]2[CH:19]3[O:18][CH:21]([CH2:20][OH:17])[CH:4]([OH:2])[CH:16]3[OH:3])[NH2:13].[H:22][O:1][H:23].[H+:37]&gt;&gt;[H:22][n:11]1[c:12](=[O:1])[nH:10][c:9](=[O:15])[c:8]2[n:7][cH:6][n:5]([c:14]12)[CH:19]3[O:18][CH:21]([CH2:20][OH:17])[CH:4]([OH:2])[CH:16]3[OH:3].[H:23][NH2+:13][H:37]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[O:15]=[c:9]1[nH:10][c:12]([n:11][c:14]2[c:8]1[n:7][cH:6][n:5]2[CH:19]3[O:18][CH:21]([CH2:20][OH:17])[CH:4]([OH:2])[CH:16]3[OH:3])[NH2:13].[H:22][O:1][H:23].[H+:37]&gt;&gt;[H:22][n:11]1[c:12](=[O:1])[nH:10][c:9](=[O:15])[c:8]2[n:7][cH:6][n:5]([c:14]12)[CH:19]3[O:18][CH:21]([CH2:20][OH:17])[CH:4]([OH:2])[CH:16]3[OH:3].[H:23][NH2+:13][H:37]</AAM>
+      <SCORE>7</SCORE>
+      <CHAOS>0 &lt;=&gt; 9</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>11E02</ENERGY>
+      <DELTA>32E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[O:15]=[c:9]1[nH:10][c:12]([n:11][c:14]2[c:8]1[n:7][cH:6][n:5]2[CH:19]3[O:18][CH:21]([CH2:20][OH:17])[CH:4]([OH:2])[CH:16]3[OH:3])[NH2:13].[H:22][O:1][H:23].[H+:24]&gt;&gt;[H:22][n:11]1[c:12](=[O:1])[nH:10][c:9](=[O:15])[c:8]2[n:7][cH:6][n:5]([c:14]12)[CH:19]3[O:18][CH:21]([CH2:20][OH:17])[CH:4]([OH:2])[CH:16]3[OH:3].[H:23][NH2+:13][H:24]</AAM>
+      <SCORE>7</SCORE>
+      <CHAOS>0 &lt;=&gt; 9</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>11E02</ENERGY>
+      <DELTA>32E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[O:15]=[c:9]1[nH:10][c:12]([n:11][c:14]2[c:8]1[n:7][cH:6][n:5]2[CH:19]3[O:18][CH:21]([CH2:20][OH:17])[CH:4]([OH:2])[CH:16]3[OH:3])[NH2:13].[H:22][O:1][H:23].[H+:37]&gt;&gt;[H:22][n:11]1[c:12](=[O:1])[nH:10][c:9](=[O:15])[c:8]2[n:7][cH:6][n:5]([c:14]12)[CH:19]3[O:18][CH:21]([CH2:20][OH:17])[CH:4]([OH:2])[CH:16]3[OH:3].[H:23][NH2+:13][H:37]</AAM>
+      <SCORE>7</SCORE>
+      <CHAOS>0 &lt;=&gt; 9</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>11E02</ENERGY>
+      <DELTA>32E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

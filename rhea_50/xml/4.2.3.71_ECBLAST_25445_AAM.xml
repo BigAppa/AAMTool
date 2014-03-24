@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[H:25][C:2](=[C:5]([CH3:8])[CH3:12])[CH2:14][CH2:15][C:16](=[CH:17][CH2:18][CH2:19][C:20](=[CH:13][CH2:11][O:21][P:22](=[O:23])([O-:24])[O:9][P:10](=[O:6])([O-:7])[O-:1])[CH3:3])[CH3:4]&gt;&gt;[CH:13]1=[C:20]([CH3:3])[CH2:19][CH2:18][CH:17]=[C:16]([CH3:4])[CH2:15][CH2:14][C:2](=[C:5]([CH3:8])[CH3:12])[CH2:11]1.[H:25][O:21][P:22](=[O:23])([O-:24])[O:9][P:10](=[O:6])([O-:7])[O-:1]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[H:25][C:2](=[C:5]([CH3:8])[CH3:12])[CH2:14][CH2:15][C:16](=[CH:17][CH2:18][CH2:19][C:20](=[CH:13][CH2:11][O:21][P:22](=[O:23])([O-:24])[O:9][P:10](=[O:6])([O-:7])[O-:1])[CH3:3])[CH3:4]&gt;&gt;[CH:13]1=[C:20]([CH3:3])[CH2:19][CH2:18][CH:17]=[C:16]([CH3:4])[CH2:15][CH2:14][C:2](=[C:5]([CH3:8])[CH3:12])[CH2:11]1.[H:25][O:21][P:22](=[O:23])([O-:24])[O:9][P:10](=[O:6])([O-:7])[O-:1]</AAM>
+      <SCORE>4</SCORE>
+      <CHAOS>0 &lt;=&gt; 50</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>7E02</ENERGY>
+      <DELTA>16E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[H:25][C:2](=[C:5]([CH3:8])[CH3:12])[CH2:14][CH2:15][C:16](=[CH:17][CH2:18][CH2:19][C:20](=[CH:13][CH2:11][O:21][P:22](=[O:23])([O-:24])[O:9][P:10](=[O:6])([O-:7])[O-:1])[CH3:3])[CH3:4]&gt;&gt;[CH:13]1=[C:20]([CH3:3])[CH2:19][CH2:18][CH:17]=[C:16]([CH3:4])[CH2:15][CH2:14][C:2](=[C:5]([CH3:12])[CH3:8])[CH2:11]1.[H:25][O:21][P:22](=[O:23])([O-:24])[O:9][P:10](=[O:6])([O-:7])[O-:1]</AAM>
+      <SCORE>4</SCORE>
+      <CHAOS>0 &lt;=&gt; 50</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>7E02</ENERGY>
+      <DELTA>16E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[H:25][C:2](=[C:5]([CH3:8])[CH3:12])[CH2:14][CH2:15][C:16](=[CH:17][CH2:18][CH2:19][C:20](=[CH:13][CH2:11][O:21][P:22](=[O:23])([O-:24])[O:9][P:10](=[O:6])([O-:7])[O-:1])[CH3:3])[CH3:4]&gt;&gt;[CH:13]1=[C:20]([CH3:3])[CH2:19][CH2:18][CH:17]=[C:16]([CH3:4])[CH2:15][CH2:14][C:2](=[C:5]([CH3:12])[CH3:8])[CH2:11]1.[H:25][O:21][P:22](=[O:23])([O-:24])[O:9][P:10](=[O:6])([O-:7])[O-:1]</AAM>
+      <SCORE>4</SCORE>
+      <CHAOS>0 &lt;=&gt; 50</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>7E02</ENERGY>
+      <DELTA>16E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[H:22][O:2][CH:6]1[c:13]2[cH:12][cH:11][c:10]([OH:9])[cH:1][c:14]2[O:15][CH2:16][CH:18]1[c:17]3[cH:19][cH:20][c:5]([O:3][CH3:4])[cH:21][c:7]3[OH:8]&gt;&gt;[OH:9][c:10]1[cH:11][cH:12][c:13]2[c:14]([O:15][CH2:16][CH:18]3[c:17]4[cH:19][cH:20][c:5]([O:3][CH3:4])[cH:21][c:7]4[O:2][CH:6]23)[cH:1]1.[H:22][OH:8]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[H:22][O:2][CH:6]1[c:13]2[cH:12][cH:11][c:10]([OH:9])[cH:1][c:14]2[O:15][CH2:16][CH:18]1[c:17]3[cH:19][cH:20][c:5]([O:3][CH3:4])[cH:21][c:7]3[OH:8]&gt;&gt;[OH:9][c:10]1[cH:11][cH:12][c:13]2[c:14]([O:15][CH2:16][CH:18]3[c:17]4[cH:19][cH:20][c:5]([O:3][CH3:4])[cH:21][c:7]4[O:2][CH:6]23)[cH:1]1.[H:22][OH:8]</AAM>
+      <SCORE>4</SCORE>
+      <CHAOS>0 &lt;=&gt; 38</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>7.1E02</ENERGY>
+      <DELTA>16E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[H:22][O:2][CH:6]1[c:13]2[cH:12][cH:11][c:10]([OH:9])[cH:1][c:14]2[O:15][CH2:16][CH:18]1[c:17]3[cH:19][cH:20][c:5]([O:3][CH3:4])[cH:21][c:7]3[OH:8]&gt;&gt;[OH:9][c:10]1[cH:11][cH:12][c:13]2[c:14]([O:15][CH2:16][CH:18]3[c:17]4[cH:19][cH:20][c:5]([O:3][CH3:4])[cH:21][c:7]4[O:2][CH:6]23)[cH:1]1.[H:22][OH:8]</AAM>
+      <SCORE>4</SCORE>
+      <CHAOS>0 &lt;=&gt; 38</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>7.1E02</ENERGY>
+      <DELTA>16E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[H:22][O:2][CH:6]1[c:13]2[cH:12][cH:11][c:10]([OH:9])[cH:1][c:14]2[O:15][CH2:16][CH:18]1[c:17]3[cH:19][cH:20][c:5]([O:3][CH3:4])[cH:21][c:7]3[OH:8]&gt;&gt;[OH:9][c:10]1[cH:11][cH:12][c:13]2[c:14]([O:15][CH2:16][CH:18]3[c:17]4[cH:19][cH:20][c:5]([O:3][CH3:4])[cH:21][c:7]4[O:2][CH:6]23)[cH:1]1.[H:22][OH:8]</AAM>
+      <SCORE>4</SCORE>
+      <CHAOS>0 &lt;=&gt; 38</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>7.1E02</ENERGY>
+      <DELTA>16E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

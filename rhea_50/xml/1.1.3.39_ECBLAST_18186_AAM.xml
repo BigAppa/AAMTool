@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[H:27][O:17][CH:20]([H:33])[CH:21]1[O:18][CH:19]([n:6]2[cH:7][n:8][c:9]3[c:10]([n:14][cH:11][n:15][c:16]32)[NH2:12])[CH:13]([OH:4])[CH:5]1[OH:3].[O:1]=[O:2]&gt;&gt;[O:17]=[CH:20][CH:21]1[O:18][CH:19]([n:6]2[cH:7][n:8][c:9]3[c:10]([n:14][cH:11][n:15][c:16]32)[NH2:12])[CH:13]([OH:4])[CH:5]1[OH:3].[H:27][O:1][O:2][H:33]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[H:27][O:17][CH:20]([H:33])[CH:21]1[O:18][CH:19]([n:6]2[cH:7][n:8][c:9]3[c:10]([n:14][cH:11][n:15][c:16]32)[NH2:12])[CH:13]([OH:4])[CH:5]1[OH:3].[O:1]=[O:2]&gt;&gt;[O:17]=[CH:20][CH:21]1[O:18][CH:19]([n:6]2[cH:7][n:8][c:9]3[c:10]([n:14][cH:11][n:15][c:16]32)[NH2:12])[CH:13]([OH:4])[CH:5]1[OH:3].[H:27][O:1][O:2][H:33]</AAM>
+      <SCORE>6</SCORE>
+      <CHAOS>0 &lt;=&gt; 4</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>0E00</ENERGY>
+      <DELTA>18E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[H:27][O:15][CH:18]([H:33])[CH:19]1[O:16][CH:17]([n:4]2[cH:5][n:6][c:7]3[c:8]([n:12][cH:9][n:13][c:14]32)[NH2:10])[CH:11]([OH:2])[CH:3]1[OH:1].[O:20]=[O:21]&gt;&gt;[O:15]=[CH:18][CH:19]1[O:16][CH:17]([n:4]2[cH:5][n:6][c:7]3[c:8]([n:12][cH:9][n:13][c:14]32)[NH2:10])[CH:11]([OH:2])[CH:3]1[OH:1].[H:27][O:20][O:21][H:33]</AAM>
+      <SCORE>6</SCORE>
+      <CHAOS>0 &lt;=&gt; 4</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>0E00</ENERGY>
+      <DELTA>18E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[H:27][O:17][CH:20]([H:33])[CH:21]1[O:18][CH:19]([n:6]2[cH:7][n:8][c:9]3[c:10]([n:14][cH:11][n:15][c:16]32)[NH2:12])[CH:13]([OH:4])[CH:5]1[OH:3].[O:1]=[O:2]&gt;&gt;[O:17]=[CH:20][CH:21]1[O:18][CH:19]([n:6]2[cH:7][n:8][c:9]3[c:10]([n:14][cH:11][n:15][c:16]32)[NH2:12])[CH:13]([OH:4])[CH:5]1[OH:3].[H:27][O:1][O:2][H:33]</AAM>
+      <SCORE>6</SCORE>
+      <CHAOS>0 &lt;=&gt; 4</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>0E00</ENERGY>
+      <DELTA>18E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

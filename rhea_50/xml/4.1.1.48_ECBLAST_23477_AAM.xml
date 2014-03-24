@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[H:27][CH:7]([NH:9][c:11]1[cH:12][cH:10][cH:13][cH:14][c:15]1[C:8](=[O:4])[O-:3])[C:5](=[O:6])[CH:2]([OH:16])[CH:1]([OH:17])[CH2:18][O:19][P:20](=[O:22])([O-:23])[O-:21].[H+:37]&gt;&gt;[O:22]=[P:20]([O-:21])([O-:23])[O:19][CH2:18][CH:1]([OH:17])[CH:2]([OH:16])[c:5]1[cH:7][nH:9][c:11]2[cH:12][cH:10][cH:13][cH:14][c:15]21.[O:4]=[C:8]=[O:3].[H:27][O:6][H:37]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[H:28][CH:7]([NH:9][c:11]1[cH:12][cH:10][cH:13][cH:14][c:15]1[C:8](=[O:4])[O-:3])[C:5](=[O:6])[CH:2]([OH:16])[CH:1]([OH:17])[CH2:18][O:19][P:20](=[O:22])([O-:23])[O-:21].[H+:24]&gt;&gt;[O:22]=[P:20]([O-:6])([O-:21])[O:19][CH2:18][CH:1]([OH:17])[CH:2]([OH:16])[c:5]1[cH:7][nH:9][c:11]2[cH:12][cH:10][cH:13][cH:14][c:15]21.[O:4]=[C:8]=[O:3].[H:28][O:23][H:24]</AAM>
+      <SCORE>10</SCORE>
+      <CHAOS>0 &lt;=&gt; 40</CHAOS>
+      <SIGMA>2</SIGMA>
+      <ENERGY>22E02</ENERGY>
+      <DELTA>35E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[H:27][CH:7]([NH:9][c:11]1[cH:12][cH:10][cH:13][cH:14][c:15]1[C:8](=[O:4])[O-:3])[C:5](=[O:6])[CH:2]([OH:16])[CH:1]([OH:17])[CH2:18][O:19][P:20](=[O:22])([O-:23])[O-:21].[H+:37]&gt;&gt;[O:22]=[P:20]([O-:21])([O-:23])[O:19][CH2:18][CH:1]([OH:17])[CH:2]([OH:16])[c:5]1[cH:7][nH:9][c:11]2[cH:12][cH:10][cH:13][cH:14][c:15]21.[O:4]=[C:8]=[O:3].[H:27][O:6][H:37]</AAM>
+      <SCORE>8</SCORE>
+      <CHAOS>0 &lt;=&gt; 38</CHAOS>
+      <SIGMA>2</SIGMA>
+      <ENERGY>15E02</ENERGY>
+      <DELTA>28E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[H:27][CH:7]([NH:9][c:11]1[cH:12][cH:10][cH:13][cH:14][c:15]1[C:8](=[O:4])[O-:3])[C:5](=[O:6])[CH:2]([OH:16])[CH:1]([OH:17])[CH2:18][O:19][P:20](=[O:22])([O-:23])[O-:21].[H+:37]&gt;&gt;[O:22]=[P:20]([O-:6])([O-:21])[O:19][CH2:18][CH:1]([OH:17])[CH:2]([OH:16])[c:5]1[cH:7][nH:9][c:11]2[cH:12][cH:10][cH:13][cH:14][c:15]21.[O:4]=[C:8]=[O:3].[H:27][O:23][H:37]</AAM>
+      <SCORE>10</SCORE>
+      <CHAOS>0 &lt;=&gt; 40</CHAOS>
+      <SIGMA>2</SIGMA>
+      <ENERGY>22E02</ENERGY>
+      <DELTA>35E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

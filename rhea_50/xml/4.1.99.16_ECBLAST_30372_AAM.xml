@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[H:26][O:6][C:5]([CH3:15])([CH3:13])[CH:14]1[CH:16]=[C:2]([H:20])[CH:3]([CH3:4])[CH2:1][CH2:7][CH:8]=[C:9]([CH3:10])[CH2:12][CH2:11]1.[H:45][OH:17]&gt;&gt;[H:20][CH:14]1[CH2:11][CH2:12][C:9]2([CH3:10])[CH:8]([H:45])[CH2:7][CH2:1][CH:3]([CH3:4])[C:2]2([OH:17])[CH:16]1[H:26].[O:6]=[C:5]([CH3:15])[CH3:13]</AAM>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[H:28][O:7][C:6]([CH3:14])([C:16]([H:43])([H:39])[H:40])[CH:15]1[CH:17]=[CH:3][CH:4]([CH3:5])[CH2:2][CH2:8][CH:9]=[C:10]([CH2:11][H:38])[CH2:13][CH2:12]1.[H:19][OH:1]&gt;&gt;[H:39][CH:9]([H:40])[C:10]12[CH2:11][CH2:8][CH2:2][CH:4]([CH3:5])[C:16]2([OH:1])[CH:17]([H:28])[CH:3]([H:43])[CH2:13][CH2:12]1.[H:38][CH:15]([H:19])[C:6](=[O:7])[CH3:14]</AAM>
+      <SCORE>28</SCORE>
+      <CHAOS>0 &lt;=&gt; 438</CHAOS>
+      <SIGMA>12</SIGMA>
+      <ENERGY>45E02</ENERGY>
+      <DELTA>95E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[H:26][O:6][C:5]([CH3:15])([CH3:13])[CH:14]1[CH:16]=[C:2]([H:20])[CH:3]([CH3:4])[CH2:1][CH2:7][CH:8]=[C:9]([CH3:10])[CH2:12][CH2:11]1.[H:45][OH:17]&gt;&gt;[H:20][CH:14]1[CH2:11][CH2:12][C:9]2([CH3:10])[CH:8]([H:45])[CH2:7][CH2:1][CH:3]([CH3:4])[C:2]2([OH:17])[CH:16]1[H:26].[O:6]=[C:5]([CH3:15])[CH3:13]</AAM>
+      <SCORE>12</SCORE>
+      <CHAOS>0 &lt;=&gt; 54</CHAOS>
+      <SIGMA>2</SIGMA>
+      <ENERGY>10E02</ENERGY>
+      <DELTA>36E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[H:28][O:7][C:6]([CH3:16])([CH3:14])[CH:15]1[CH:17]=[C:3]([H:22])[CH:4]([CH3:5])[CH2:2][CH2:8][CH:9]=[C:10]([CH3:11])[CH2:13][CH2:12]1.[H:19][OH:1]&gt;&gt;[H:22][CH:15]1[CH2:12][CH2:13][C:10]2([CH3:11])[CH:9]([H:19])[CH2:8][CH2:2][CH:4]([CH3:5])[C:3]2([OH:1])[CH:17]1[H:28].[O:7]=[C:6]([CH3:16])[CH3:14]</AAM>
+      <SCORE>12</SCORE>
+      <CHAOS>0 &lt;=&gt; 54</CHAOS>
+      <SIGMA>2</SIGMA>
+      <ENERGY>10E02</ENERGY>
+      <DELTA>36E02</DELTA>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>
