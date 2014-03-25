@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[H:24][O:9][CH:6]([H:20])[CH:5]1[O:7][CH:8]([O:10][H:23])[CH:11]([OH:2])[CH:3]([OH:1])[CH:4]1[OH:12].[O:13]=[O:14]&gt;&gt;[H:24][O:7][CH:5]([CH:6]=[O:9])[CH:4]([OH:12])[CH:3]([OH:1])[CH:11]([OH:2])[CH:8]=[O:10].[H:20][O:13][O:14][H:23]</AAM>
+      <AAM>[H:24][O:11][CH:8]([H:20])[CH:7]1[O:9][CH:10]([O:12][H:23])[CH:13]([OH:4])[CH:5]([OH:3])[CH:6]1[OH:14].[O:1]=[O:2]&gt;&gt;[H:24][O:9][CH:7]([CH:8]=[O:11])[CH:6]([OH:14])[CH:5]([OH:3])[CH:13]([OH:4])[CH:10]=[O:12].[H:20][O:1][O:2][H:23]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[H:24][O:9][CH:6]([H:20])[CH:5]1[O:7][CH:8]([OH:10])[CH:11]([OH:2])[CH:3]([OH:1])[CH:4]1[OH:12].[O:13]=[O:14]&gt;&gt;[O:9]=[CH:6][CH:4]([OH:12])[CH:3]([OH:1])[CH:11]([OH:2])[CH:8]([OH:10])[CH:5]=[O:7].[H:24][O:13][O:14][H:20]</AAM>
+      <SCORE>12</SCORE>
+      <CHAOS>0 &lt;=&gt; 63</CHAOS>
+      <SIGMA>4</SIGMA>
+      <ENERGY>17E02</ENERGY>
+      <DELTA>35E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
       <AAM>[H:24][O:11][CH:8]([H:20])[CH:7]1[O:9][CH:10]([OH:12])[CH:13]([OH:4])[CH:5]([OH:3])[CH:6]1[OH:14].[O:1]=[O:2]&gt;&gt;[O:11]=[CH:8][CH:6]([OH:14])[CH:5]([OH:3])[CH:13]([OH:4])[CH:10]([OH:12])[CH:7]=[O:9].[H:24][O:1][O:2][H:20]</AAM>
       <SCORE>12</SCORE>
       <CHAOS>0 &lt;=&gt; 63</CHAOS>
@@ -12,7 +20,7 @@
       <DELTA>35E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
-      <AAM>[H:24][O:9][CH:6]([H:20])[CH:5]1[O:7][CH:8]([O:10][H:23])[CH:11]([OH:2])[CH:3]([OH:1])[CH:4]1[OH:12].[O:13]=[O:14]&gt;&gt;[H:24][O:7][CH:5]([CH:6]=[O:9])[CH:4]([OH:12])[CH:3]([OH:1])[CH:11]([OH:2])[CH:8]=[O:10].[H:20][O:13][O:14][H:23]</AAM>
+      <AAM>[H:24][O:11][CH:8]([H:20])[CH:7]1[O:9][CH:10]([O:12][H:23])[CH:13]([OH:4])[CH:5]([OH:3])[CH:6]1[OH:14].[O:1]=[O:2]&gt;&gt;[H:24][O:9][CH:7]([CH:8]=[O:11])[CH:6]([OH:14])[CH:5]([OH:3])[CH:13]([OH:4])[CH:10]=[O:12].[H:20][O:1][O:2][H:23]</AAM>
       <SCORE>10</SCORE>
       <CHAOS>0 &lt;=&gt; 30</CHAOS>
       <SIGMA>0</SIGMA>

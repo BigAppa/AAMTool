@@ -11,6 +11,14 @@
       <ENERGY>3.3E02</ENERGY>
       <DELTA>7.4E02</DELTA>
     </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[H:22][C:6]([c:2]1[cH:3][cH:8][c:4]([Cl:5])[cH:1][cH:7]1)([c:10]2[cH:11][cH:14][c:13]([Cl:12])[cH:16][cH:15]2)[C:9]([Cl:17])([Cl:18])[Cl:19]&gt;&gt;[Cl:18][C:9]([Cl:19])=[C:6]([c:2]1[cH:3][cH:8][c:4]([Cl:5])[cH:1][cH:7]1)[c:10]2[cH:11][cH:14][c:13]([Cl:12])[cH:16][cH:15]2.[Cl-:17].[H+:22]</AAM>
+      <SCORE>3</SCORE>
+      <CHAOS>0 &lt;=&gt; 2</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>3.3E02</ENERGY>
+      <DELTA>7.4E02</DELTA>
+    </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
       <AAM>[H:22][C:6]([c:2]1[cH:3][cH:8][c:4]([Cl:5])[cH:1][cH:7]1)([c:10]2[cH:11][cH:14][c:13]([Cl:12])[cH:16][cH:15]2)[C:9]([Cl:17])([Cl:18])[Cl:19]&gt;&gt;[Cl:18][C:9]([Cl:19])=[C:6]([c:2]1[cH:3][cH:8][c:4]([Cl:5])[cH:1][cH:7]1)[c:10]2[cH:11][cH:14][c:13]([Cl:12])[cH:16][cH:15]2.[Cl-:17].[H+:22]</AAM>
       <SCORE>3</SCORE>

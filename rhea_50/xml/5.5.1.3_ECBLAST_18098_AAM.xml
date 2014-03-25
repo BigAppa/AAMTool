@@ -11,6 +11,14 @@
       <ENERGY>13E02</ENERGY>
       <DELTA>46E02</DELTA>
     </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[H:18][O:7][c:4]1[n:3][c:5]([O:6][H:16])[c:8]2[n:9][c:10]([O:14][H:15])[c:2]([O:1][H:17])[n:11][c:12]2[n:13]1&gt;&gt;[H:18][n:3]1[c:4](=[O:7])[n:13]([H:16])[c:12]2[n:11][c:2]([n:9]([H:15])[c:8]2[c:5]1=[O:6])[C:10](=[O:14])[O-:1].[H+:17]</AAM>
+      <SCORE>14</SCORE>
+      <CHAOS>0 &lt;=&gt; 45</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>13E02</ENERGY>
+      <DELTA>46E02</DELTA>
+    </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
       <AAM>[H:18][O:7][c:4]1[n:3][c:5]([O:6][H:16])[c:8]2[n:9][c:10]([O:14][H:15])[c:2]([O:1][H:17])[n:11][c:12]2[n:13]1&gt;&gt;[H:18][n:3]1[c:4](=[O:7])[n:13]([H:16])[c:12]2[n:11][c:2]([n:9]([H:15])[c:8]2[c:5]1=[O:6])[C:10](=[O:1])[O-:14].[H+:17]</AAM>
       <SCORE>13</SCORE>

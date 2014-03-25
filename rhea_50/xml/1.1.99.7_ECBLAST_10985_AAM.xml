@@ -4,14 +4,14 @@
       <AAM>[O:5]=[C:3]([O-:4])[C:6](=[O:1])[CH2:2][C:7](=[O:9])[O-:8].[H:19][O:11][C:13]([H:22])([C:14](=[O:15])[O-:12])[CH3:10]&gt;&gt;[H:19][O:1][C:6]([H:22])([C:3](=[O:5])[O-:4])[CH2:2][C:7](=[O:9])[O-:8].[O:15]=[C:14]([O-:12])[C:13](=[O:11])[CH3:10]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
-      <AAM>[O:5]=[C:3]([O-:4])[C:6](=[O:1])[CH2:2][C:7](=[O:9])[O-:8].[H:20][CH2:10][CH:13]([OH:11])[C:14](=[O:15])[O-:12]&gt;&gt;[O:9]=[C:7]([O-:8])[CH2:10][CH:13]([OH:11])[C:14](=[O:15])[O-:12].[H:20][CH2:2][C:6](=[O:1])[C:3](=[O:5])[O-:4]</AAM>
+      <AAM>[O:11]=[C:9]([O-:10])[C:12](=[O:7])[CH2:8][C:13](=[O:15])[O-:14].[H:18][CH2:1][CH:4]([OH:2])[C:5](=[O:6])[O-:3]&gt;&gt;[O:15]=[C:13]([O-:14])[CH2:1][CH:4]([OH:2])[C:5](=[O:6])[O-:3].[H:18][CH2:8][C:12](=[O:7])[C:9](=[O:11])[O-:10]</AAM>
       <SCORE>4</SCORE>
       <CHAOS>0 &lt;=&gt; 8</CHAOS>
       <SIGMA>2</SIGMA>
       <ENERGY>6.9E02</ENERGY>
       <DELTA>15E02</DELTA>
     </MAPPING>
-    <MAPPING ALGORTIHM="Max-Mixture Model">
+    <MAPPING ALGORTIHM="Global Maximization Model">
       <AAM>[O:5]=[C:3]([O-:4])[C:6](=[O:1])[CH2:2][C:7](=[O:9])[O-:8].[H:19][O:11][C:13]([H:22])([C:14](=[O:15])[O-:12])[CH3:10]&gt;&gt;[H:19][O:1][C:6]([H:22])([C:3](=[O:5])[O-:4])[CH2:2][C:7](=[O:9])[O-:8].[O:15]=[C:14]([O-:12])[C:13](=[O:11])[CH3:10]</AAM>
       <SCORE>6</SCORE>
       <CHAOS>0 &lt;=&gt; 4</CHAOS>
@@ -19,8 +19,16 @@
       <ENERGY>0E00</ENERGY>
       <DELTA>17E02</DELTA>
     </MAPPING>
-    <MAPPING ALGORTIHM="Ring Conservation Model">
+    <MAPPING ALGORTIHM="Max-Mixture Model">
       <AAM>[O:11]=[C:9]([O-:10])[C:12](=[O:7])[CH2:8][C:13](=[O:15])[O-:14].[H:17][O:2][C:4]([H:20])([C:5](=[O:6])[O-:3])[CH3:1]&gt;&gt;[H:17][O:7][C:12]([H:20])([C:9](=[O:11])[O-:10])[CH2:8][C:13](=[O:15])[O-:14].[O:6]=[C:5]([O-:3])[C:4](=[O:2])[CH3:1]</AAM>
+      <SCORE>6</SCORE>
+      <CHAOS>0 &lt;=&gt; 4</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>0E00</ENERGY>
+      <DELTA>17E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[O:5]=[C:3]([O-:4])[C:6](=[O:1])[CH2:2][C:7](=[O:9])[O-:8].[H:19][O:11][C:13]([H:22])([C:14](=[O:15])[O-:12])[CH3:10]&gt;&gt;[H:19][O:1][C:6]([H:22])([C:3](=[O:5])[O-:4])[CH2:2][C:7](=[O:9])[O-:8].[O:15]=[C:14]([O-:12])[C:13](=[O:11])[CH3:10]</AAM>
       <SCORE>6</SCORE>
       <CHAOS>0 &lt;=&gt; 4</CHAOS>
       <SIGMA>0</SIGMA>

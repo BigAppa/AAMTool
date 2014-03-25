@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[O:12]=[C:10]([O-:11])[CH:7]([NH3+:4])[CH2:9][CH2:13][CH2:8][CH:6]([C:5](=[O:2])[O-:1])[NH3+:3].[H+:28]&gt;&gt;[H:28][CH:6]([NH3+:3])[CH2:8][CH2:13][CH2:9][CH:7]([C:10](=[O:12])[O-:11])[NH3+:4].[O:2]=[C:5]=[O:1]</AAM>
+      <AAM>[O:12]=[C:10]([O-:11])[CH:7]([NH3+:4])[CH2:9][CH2:13][CH2:8][CH:6]([C:5](=[O:2])[O-:1])[NH3+:3].[H+:14]&gt;&gt;[H:14][CH:6]([NH3+:3])[CH2:8][CH2:13][CH2:9][CH:7]([C:10](=[O:12])[O-:11])[NH3+:4].[O:2]=[C:5]=[O:1]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
-      <AAM>[O:12]=[C:10]([O-:11])[CH:7]([NH3+:4])[CH2:9][CH2:13][CH2:8][CH:6]([C:5](=[O:2])[O-:1])[NH3+:3].[H+:28]&gt;&gt;[H:28][CH:6]([NH3+:3])[CH2:8][CH2:13][CH2:9][CH:7]([C:10](=[O:12])[O-:11])[NH3+:4].[O:2]=[C:5]=[O:1]</AAM>
+      <AAM>[O:12]=[C:10]([O-:11])[CH:7]([NH3+:4])[CH2:9][CH2:13][CH2:8][CH:6]([C:5](=[O:2])[O-:1])[NH3+:3].[H+:14]&gt;&gt;[H:14][CH:6]([NH3+:3])[CH2:8][CH2:13][CH2:9][CH:7]([C:10](=[O:12])[O-:11])[NH3+:4].[O:2]=[C:5]=[O:1]</AAM>
+      <SCORE>3</SCORE>
+      <CHAOS>0 &lt;=&gt; 4</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>3.5E02</ENERGY>
+      <DELTA>7.6E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[O:12]=[C:10]([O-:11])[CH:7]([NH3+:4])[CH2:9][CH2:13][CH2:8][CH:6]([C:5](=[O:2])[O-:1])[NH3+:3].[H+:28]&gt;&gt;[H:28][CH:7]([NH3+:4])[CH2:9][CH2:13][CH2:8][CH:6]([C:5](=[O:2])[O-:1])[NH3+:3].[O:12]=[C:10]=[O:11]</AAM>
       <SCORE>3</SCORE>
       <CHAOS>0 &lt;=&gt; 4</CHAOS>
       <SIGMA>1</SIGMA>
@@ -12,7 +20,7 @@
       <DELTA>7.6E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
-      <AAM>[O:12]=[C:10]([O-:11])[CH:7]([NH3+:4])[CH2:9][CH2:13][CH2:8][CH:6]([C:5](=[O:2])[O-:1])[NH3+:3].[H+:28]&gt;&gt;[H:28][CH:7]([NH3+:4])[CH2:9][CH2:13][CH2:8][CH:6]([C:5](=[O:2])[O-:1])[NH3+:3].[O:12]=[C:10]=[O:11]</AAM>
+      <AAM>[O:12]=[C:10]([O-:11])[CH:7]([NH3+:4])[CH2:9][CH2:13][CH2:8][CH:6]([C:5](=[O:2])[O-:1])[NH3+:3].[H+:14]&gt;&gt;[H:14][CH:7]([NH3+:4])[CH2:9][CH2:13][CH2:8][CH:6]([C:5](=[O:2])[O-:1])[NH3+:3].[O:12]=[C:10]=[O:11]</AAM>
       <SCORE>3</SCORE>
       <CHAOS>0 &lt;=&gt; 4</CHAOS>
       <SIGMA>1</SIGMA>

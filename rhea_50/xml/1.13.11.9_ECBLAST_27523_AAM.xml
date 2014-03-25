@@ -4,7 +4,15 @@
       <AAM>[H:12][O:4][c:5]1[n:3][cH:2][c:1]([O:7][H:15])[cH:8][cH:6]1.[O:9]=[O:10]&gt;&gt;[H:12][N:3]([CH:2]=[O:9])[C:5](=[O:4])[CH:6]=[CH:8][C:1](=[O:10])[O-:7].[H+:15]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
-      <AAM>[H:12][O:4][c:5]1[n:3][c:2]([H:11])[c:1]([O:7][H:15])[cH:8][c:6]1[H:13].[O:9]=[O:10]&gt;&gt;[H:12][C:5](=[O:4])[N:3]([H:11])[C:6](=[O:9])[CH:8]=[C:1]([H:15])[C:2](=[O:10])[O-:7].[H+:13]</AAM>
+      <AAM>[H:12][O:6][c:7]1[n:5][c:4]([H:11])[c:3]([O:9][H:15])[cH:10][c:8]1[H:13].[O:1]=[O:2]&gt;&gt;[H:12][C:7](=[O:6])[N:5]([H:11])[C:8](=[O:1])[CH:10]=[C:3]([H:15])[C:4](=[O:2])[O-:9].[H+:13]</AAM>
+      <SCORE>20</SCORE>
+      <CHAOS>0 &lt;=&gt; 44</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>38E02</ENERGY>
+      <DELTA>67E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[H:12][O:6][c:7]1[n:5][c:4]([H:11])[c:3]([O:9][H:15])[cH:10][c:8]1[H:13].[O:1]=[O:2]&gt;&gt;[H:12][C:7](=[O:6])[N:5]([H:11])[C:8](=[O:1])[CH:10]=[C:3]([H:15])[C:4](=[O:2])[O-:9].[H+:13]</AAM>
       <SCORE>20</SCORE>
       <CHAOS>0 &lt;=&gt; 44</CHAOS>
       <SIGMA>1</SIGMA>

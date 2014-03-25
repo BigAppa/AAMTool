@@ -4,6 +4,14 @@
       <AAM>[O:7]=[c:6]1[c:9]([O-:11])[c:13]([nH:15][c:4]2[cH:3][cH:12][cH:10][cH:8][c:5]12)[CH3:14].[O:1]=[O:2]&gt;&gt;[O:7]=[C:6]([O-:2])[c:5]1[cH:8][cH:10][cH:12][cH:3][c:4]1[NH:15][C:13](=[O:1])[CH3:14].[C-:9]#[O+:11]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[O:7]=[c:6]1[c:9]([O-:11])[c:13]([nH:15][c:4]2[cH:3][cH:12][cH:10][cH:8][c:5]12)[CH3:14].[O:1]=[O:2]&gt;&gt;[O:1]=[C:9]([O-:11])[c:5]1[cH:8][cH:10][cH:12][cH:3][c:4]1[NH:15][C:13](=[O:2])[CH3:14].[C-:6]#[O+:7]</AAM>
+      <SCORE>9</SCORE>
+      <CHAOS>1 &lt;=&gt; 69</CHAOS>
+      <SIGMA>4</SIGMA>
+      <ENERGY>35E02</ENERGY>
+      <DELTA>37E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
       <AAM>[O:5]=[c:4]1[c:7]([O-:9])[c:11]([nH:13][c:2]2[cH:1][cH:10][cH:8][cH:6][c:3]12)[CH3:12].[O:14]=[O:15]&gt;&gt;[O:14]=[C:7]([O-:9])[c:3]1[cH:6][cH:8][cH:10][cH:1][c:2]1[NH:13][C:11](=[O:15])[CH3:12].[C-:4]#[O+:5]</AAM>
       <SCORE>9</SCORE>
       <CHAOS>1 &lt;=&gt; 69</CHAOS>

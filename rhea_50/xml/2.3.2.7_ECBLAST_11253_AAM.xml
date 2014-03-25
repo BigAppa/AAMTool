@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[H:17][NH:7][C:5](=[O:4])[CH2:3][CH:6]([C:8](=[O:9])[O-:10])[NH3+:11].[OH:1][NH2:2].[H+:23]&gt;&gt;[O:9]=[C:8]([O-:10])[CH:6]([NH3+:11])[CH2:3][C:5](=[O:4])[NH:7][OH:1].[H:17][NH2+:2][H:23]</AAM>
+      <AAM>[H:18][NH:7][C:5](=[O:4])[CH2:3][CH:6]([C:8](=[O:9])[O-:10])[NH3+:11].[OH:1][NH2:2].[H+:12]&gt;&gt;[O:9]=[C:8]([O-:10])[CH:6]([NH3+:11])[CH2:3][C:5](=[O:4])[NH:7][OH:1].[H:18][NH2+:2][H:12]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
       <AAM>[O:7]=[C:6]([O-:8])[CH:4]([NH3+:9])[CH2:1][C:3](=[O:2])[NH2:5].[H:21][NH:11][OH:10].[H+:20]&gt;&gt;[O:7]=[C:6]([O-:8])[CH:4]([NH3+:9])[CH2:1][C:3](=[O:2])[NH:11][OH:10].[H:21][NH2+:5][H:20]</AAM>
@@ -11,8 +11,16 @@
       <ENERGY>6.1E02</ENERGY>
       <DELTA>18E02</DELTA>
     </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[H:18][NH:7][C:5](=[O:4])[CH2:3][CH:6]([C:8](=[O:9])[O-:10])[NH3+:11].[OH:1][NH2:2].[H+:12]&gt;&gt;[O:9]=[C:8]([O-:10])[CH:6]([NH3+:11])[CH2:3][C:5](=[O:4])[NH:7][OH:1].[H:18][NH2+:2][H:12]</AAM>
+      <SCORE>5</SCORE>
+      <CHAOS>0 &lt;=&gt; 7</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>4E02</ENERGY>
+      <DELTA>16E02</DELTA>
+    </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
-      <AAM>[H:17][NH:7][C:5](=[O:4])[CH2:3][CH:6]([C:8](=[O:9])[O-:10])[NH3+:11].[OH:1][NH2:2].[H+:23]&gt;&gt;[O:9]=[C:8]([O-:10])[CH:6]([NH3+:11])[CH2:3][C:5](=[O:4])[NH:7][OH:1].[H:17][NH2+:2][H:23]</AAM>
+      <AAM>[H:18][NH:7][C:5](=[O:4])[CH2:3][CH:6]([C:8](=[O:9])[O-:10])[NH3+:11].[OH:1][NH2:2].[H+:12]&gt;&gt;[O:9]=[C:8]([O-:10])[CH:6]([NH3+:11])[CH2:3][C:5](=[O:4])[NH:7][OH:1].[H:18][NH2+:2][H:12]</AAM>
       <SCORE>5</SCORE>
       <CHAOS>0 &lt;=&gt; 7</CHAOS>
       <SIGMA>0</SIGMA>
@@ -20,7 +28,7 @@
       <DELTA>16E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Ring Conservation Model">
-      <AAM>[H:14][NH:5][C:3](=[O:2])[CH2:1][CH:4]([C:6](=[O:7])[O-:8])[NH3+:9].[OH:10][NH2:11].[H+:20]&gt;&gt;[O:7]=[C:6]([O-:8])[CH:4]([NH3+:9])[CH2:1][C:3](=[O:2])[NH:5][OH:10].[H:14][NH2+:11][H:20]</AAM>
+      <AAM>[H:18][NH:7][C:5](=[O:4])[CH2:3][CH:6]([C:8](=[O:9])[O-:10])[NH3+:11].[OH:1][NH2:2].[H+:15]&gt;&gt;[O:9]=[C:8]([O-:10])[CH:6]([NH3+:11])[CH2:3][C:5](=[O:4])[NH:7][OH:1].[H:18][NH2+:2][H:15]</AAM>
       <SCORE>5</SCORE>
       <CHAOS>0 &lt;=&gt; 7</CHAOS>
       <SIGMA>0</SIGMA>

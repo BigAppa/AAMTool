@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[H:15][N:5]1[C:13](=[O:4])[NH:11][C:12]2([OH:3])[C:6](=[O:7])[NH:10][C:8](=[O:9])[N:1]=[C:2]12.[H:19][O:14][H:20]&gt;&gt;[H:19][NH:10][C:8](=[O:9])[N:1]([H:15])[C:2]1=[N:5][C:13](=[O:4])[NH:11][C:12]1([OH:3])[C:6](=[O:7])[O-:14].[H+:20]</AAM>
+      <AAM>[H:17][N:6]1[C:14](=[O:5])[NH:12][C:13]2([OH:4])[C:7](=[O:8])[NH:11][C:9](=[O:10])[N:2]=[C:3]12.[H:15][O:1][H:16]&gt;&gt;[H:15][NH:11][C:9](=[O:10])[N:2]([H:17])[C:3]1=[N:6][C:14](=[O:5])[NH:12][C:13]1([OH:4])[C:7](=[O:8])[O-:1].[H+:16]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
       <AAM>[H:17][O:3][C:12]12[NH:11][C:13](=[O:4])[NH:5][C:2]2=[N:1][C:8](=[O:9])[NH:10][C:6]1=[O:7].[H:20][OH:14]&gt;&gt;[H:17][NH:11][C:13](=[O:4])[NH:5][C:2]1=[N:1][C:8](=[O:9])[NH:10][C:12]1([OH:14])[C:6](=[O:3])[O-:7].[H+:20]</AAM>
@@ -11,8 +11,16 @@
       <ENERGY>24E02</ENERGY>
       <DELTA>37E02</DELTA>
     </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[O:9]=[C:8]1[N:1]=[C:2]2[NH:5][C:13](=[O:4])[NH:11][C:12]2([OH:3])[C:6](=[O:7])[NH:10]1.[H:19][O:14][H:20]&gt;&gt;[H:19][NH:11][C:13](=[O:4])[NH:5][C:2]1=[N:1][C:8](=[O:9])[NH:10][C:12]1([OH:3])[C:6](=[O:7])[O-:14].[H+:20]</AAM>
+      <SCORE>7</SCORE>
+      <CHAOS>0 &lt;=&gt; 57</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>13E02</ENERGY>
+      <DELTA>26E02</DELTA>
+    </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
-      <AAM>[H:15][N:5]1[C:13](=[O:4])[NH:11][C:12]2([OH:3])[C:6](=[O:7])[NH:10][C:8](=[O:9])[N:1]=[C:2]12.[H:19][O:14][H:20]&gt;&gt;[H:19][NH:10][C:8](=[O:9])[N:1]([H:15])[C:2]1=[N:5][C:13](=[O:4])[NH:11][C:12]1([OH:3])[C:6](=[O:7])[O-:14].[H+:20]</AAM>
+      <AAM>[H:17][N:6]1[C:14](=[O:5])[NH:12][C:13]2([OH:4])[C:7](=[O:8])[NH:11][C:9](=[O:10])[N:2]=[C:3]12.[H:15][O:1][H:16]&gt;&gt;[H:15][NH:11][C:9](=[O:10])[N:2]([H:17])[C:3]1=[N:6][C:14](=[O:5])[NH:12][C:13]1([OH:4])[C:7](=[O:8])[O-:1].[H+:16]</AAM>
       <SCORE>9</SCORE>
       <CHAOS>0 &lt;=&gt; 23</CHAOS>
       <SIGMA>0</SIGMA>

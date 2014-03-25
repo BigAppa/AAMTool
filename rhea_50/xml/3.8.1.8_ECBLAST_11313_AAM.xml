@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[Cl:13][c:12]1[n:11][c:10]([n:4][c:6]([n:9]1)[NH:3][CH:2]([CH3:5])[CH3:15])[NH:8][CH2:14][CH3:7].[H:17][OH:1]&gt;&gt;[OH:1][c:12]1[n:11][c:10]([n:4][c:6]([n:9]1)[NH:3][CH:2]([CH3:15])[CH3:5])[NH:8][CH2:14][CH3:7].[Cl-:13].[H+:17]</AAM>
+      <AAM>[Cl:12][c:11]1[n:10][c:9]([n:3][c:5]([n:8]1)[NH:2][CH:1]([CH3:4])[CH3:14])[NH:7][CH2:13][CH3:6].[H:31][OH:15]&gt;&gt;[OH:15][c:11]1[n:10][c:9]([n:3][c:5]([n:8]1)[NH:2][CH:1]([CH3:4])[CH3:14])[NH:7][CH2:13][CH3:6].[Cl-:12].[H+:31]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[Cl:12][c:11]1[n:10][c:9]([n:3][c:5]([n:8]1)[NH:2][CH:1]([CH3:4])[CH3:14])[NH:7][CH2:13][CH3:6].[H:31][OH:15]&gt;&gt;[OH:15][c:11]1[n:10][c:9]([n:3][c:5]([n:8]1)[NH:2][CH:1]([CH3:4])[CH3:14])[NH:7][CH2:13][CH3:6].[Cl-:12].[H+:31]</AAM>
+      <SCORE>3</SCORE>
+      <CHAOS>0 &lt;=&gt; 4</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>6.8E02</ENERGY>
+      <DELTA>11E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
       <AAM>[Cl:13][c:12]1[n:11][c:10]([n:4][c:6]([n:9]1)[NH:3][CH:2]([CH3:5])[CH3:15])[NH:8][CH2:14][CH3:7].[H:17][OH:1]&gt;&gt;[OH:1][c:12]1[n:11][c:10]([n:4][c:6]([n:9]1)[NH:3][CH:2]([CH3:15])[CH3:5])[NH:8][CH2:14][CH3:7].[Cl-:13].[H+:17]</AAM>
       <SCORE>3</SCORE>
       <CHAOS>0 &lt;=&gt; 4</CHAOS>
@@ -20,7 +28,7 @@
       <DELTA>11E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Ring Conservation Model">
-      <AAM>[Cl:12][c:11]1[n:10][c:9]([n:3][c:5]([n:8]1)[NH:2][CH:1]([CH3:4])[CH3:14])[NH:7][CH2:13][CH3:6].[H:31][OH:15]&gt;&gt;[OH:15][c:11]1[n:10][c:9]([n:3][c:5]([n:8]1)[NH:2][CH:1]([CH3:14])[CH3:4])[NH:7][CH2:13][CH3:6].[Cl-:12].[H+:31]</AAM>
+      <AAM>[Cl:13][c:12]1[n:11][c:10]([n:4][c:6]([n:9]1)[NH:3][CH:2]([CH3:5])[CH3:15])[NH:8][CH2:14][CH3:7].[H:17][OH:1]&gt;&gt;[OH:1][c:12]1[n:11][c:10]([n:4][c:6]([n:9]1)[NH:3][CH:2]([CH3:5])[CH3:15])[NH:8][CH2:14][CH3:7].[Cl-:13].[H+:17]</AAM>
       <SCORE>3</SCORE>
       <CHAOS>0 &lt;=&gt; 4</CHAOS>
       <SIGMA>1</SIGMA>

@@ -11,6 +11,14 @@
       <ENERGY>23E02</ENERGY>
       <DELTA>48E02</DELTA>
     </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[O:7]=[C:6]([O-:2])[C:5](=[N:4][OH:3])[CH3:1].[H:16][C:9]([H:18])([H:19])[C:10](=[O:11])[CH3:8]&gt;&gt;[H:16][C:6]([H:18])([H:19])[C:5](=[N:4][OH:3])[CH3:1].[O:7]=[C:9]([O-:2])[C:10](=[O:11])[CH3:8]</AAM>
+      <SCORE>10</SCORE>
+      <CHAOS>0 &lt;=&gt; 10</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>23E02</ENERGY>
+      <DELTA>48E02</DELTA>
+    </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
       <AAM>[O:11]=[C:10]([O-:6])[C:9](=[N:8][OH:7])[CH3:5].[H:12][C:2]([H:14])([H:15])[C:3](=[O:4])[CH3:1]&gt;&gt;[H:12][C:10]([H:14])([H:15])[C:9](=[N:8][OH:7])[CH3:5].[O:11]=[C:2]([O-:6])[C:3](=[O:4])[CH3:1]</AAM>
       <SCORE>10</SCORE>
@@ -20,7 +28,7 @@
       <DELTA>48E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Ring Conservation Model">
-      <AAM>[O:7]=[C:6]([O-:2])[C:5](=[N:4][OH:3])[CH3:1].[H:16][C:9]([H:18])([H:19])[C:10](=[O:11])[CH3:8]&gt;&gt;[H:16][C:6]([H:18])([H:19])[C:5](=[N:4][OH:3])[CH3:1].[O:7]=[C:9]([O-:2])[C:10](=[O:11])[CH3:8]</AAM>
+      <AAM>[O:11]=[C:10]([O-:6])[C:9](=[N:8][OH:7])[CH3:5].[H:12][C:2]([H:14])([H:15])[C:3](=[O:4])[CH3:1]&gt;&gt;[H:12][C:10]([H:14])([H:15])[C:9](=[N:8][OH:7])[CH3:5].[O:11]=[C:2]([O-:6])[C:3](=[O:4])[CH3:1]</AAM>
       <SCORE>10</SCORE>
       <CHAOS>0 &lt;=&gt; 10</CHAOS>
       <SIGMA>0</SIGMA>

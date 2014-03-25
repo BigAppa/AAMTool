@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[O:4]=[C:2]([O-:5])[C:3](=[CH2:1])[NH3+:6].[H:13][O:7][H:14]&gt;&gt;[H:13][CH2:1][C:3](=[O:7])[C:2](=[O:4])[O-:5].[H:14][NH3+:6]</AAM>
+      <AAM>[O:5]=[C:3]([O-:6])[C:4](=[CH2:2])[NH3+:7].[H:8][O:1][H:9]&gt;&gt;[H:8][CH2:2][C:4](=[O:1])[C:3](=[O:5])[O-:6].[H:9][NH3+:7]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[O:5]=[C:3]([O-:6])[C:4](=[CH2:2])[NH3+:7].[H:8][O:1][H:9]&gt;&gt;[H:8][CH2:2][C:4](=[O:1])[C:3](=[O:5])[O-:6].[H:9][NH3+:7]</AAM>
+      <SCORE>7</SCORE>
+      <CHAOS>0 &lt;=&gt; 9</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>11E02</ENERGY>
+      <DELTA>28E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
       <AAM>[O:4]=[C:2]([O-:5])[C:3](=[CH2:1])[NH3+:6].[H:13][O:7][H:14]&gt;&gt;[H:13][CH2:1][C:3](=[O:7])[C:2](=[O:4])[O-:5].[H:14][NH3+:6]</AAM>
       <SCORE>7</SCORE>
       <CHAOS>0 &lt;=&gt; 9</CHAOS>

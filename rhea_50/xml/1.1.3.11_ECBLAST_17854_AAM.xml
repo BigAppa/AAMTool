@@ -4,7 +4,15 @@
       <AAM>[H:17][O:4][C:5]1([H:16])[CH2:13][O:11][C:8]([O:10][H:21])([CH2:9][OH:12])[CH:7]([OH:14])[CH:3]1[OH:6].[O:1]=[O:2]&gt;&gt;[H:21][O:11][CH2:13][C:5](=[O:4])[CH:3]([OH:6])[CH:7]([OH:14])[C:8](=[O:10])[CH2:9][OH:12].[H:16][O:1][O:2][H:17]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
-      <AAM>[H:21][O:8][C:6]1([O:9][C:11]([H:22])([H:23])[CH:3]([OH:2])[CH:1]([OH:4])[CH:5]1[OH:12])[CH2:7][OH:10].[O:13]=[O:14]&gt;&gt;[H:21][CH:3]([OH:2])[C:11](=[O:9])[CH:5]([OH:12])[CH:1]([OH:4])[C:6](=[O:8])[CH2:7][OH:10].[H:22][O:13][O:14][H:23]</AAM>
+      <AAM>[H:21][O:10][C:8]1([O:11][C:13]([H:22])([H:23])[CH:5]([OH:4])[CH:3]([OH:6])[CH:7]1[OH:14])[CH2:9][OH:12].[O:1]=[O:2]&gt;&gt;[H:21][CH:5]([OH:4])[C:13](=[O:11])[CH:7]([OH:14])[CH:3]([OH:6])[C:8](=[O:10])[CH2:9][OH:12].[H:22][O:1][O:2][H:23]</AAM>
+      <SCORE>14</SCORE>
+      <CHAOS>0 &lt;=&gt; 92</CHAOS>
+      <SIGMA>4</SIGMA>
+      <ENERGY>17E02</ENERGY>
+      <DELTA>44E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[H:21][O:10][C:8]1([O:11][C:13]([H:22])([H:23])[CH:5]([OH:4])[CH:3]([OH:6])[CH:7]1[OH:14])[CH2:9][OH:12].[O:1]=[O:2]&gt;&gt;[H:21][CH:5]([OH:4])[C:13](=[O:11])[CH:7]([OH:14])[CH:3]([OH:6])[C:8](=[O:10])[CH2:9][OH:12].[H:22][O:1][O:2][H:23]</AAM>
       <SCORE>14</SCORE>
       <CHAOS>0 &lt;=&gt; 92</CHAOS>
       <SIGMA>4</SIGMA>
@@ -20,7 +28,7 @@
       <DELTA>31E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Ring Conservation Model">
-      <AAM>[H:17][O:4][C:5]1([H:16])[CH2:13][O:11][C:8]([O:10][H:21])([CH2:9][OH:12])[CH:7]([OH:14])[CH:3]1[OH:6].[O:1]=[O:2]&gt;&gt;[H:21][O:11][CH2:13][C:5](=[O:4])[CH:3]([OH:6])[CH:7]([OH:14])[C:8](=[O:10])[CH2:9][OH:12].[H:16][O:1][O:2][H:17]</AAM>
+      <AAM>[H:17][O:2][C:3]1([H:16])[CH2:11][O:9][C:6]([O:8][H:21])([CH2:7][OH:10])[CH:5]([OH:12])[CH:1]1[OH:4].[O:13]=[O:14]&gt;&gt;[H:21][O:9][CH2:11][C:3](=[O:2])[CH:1]([OH:4])[CH:5]([OH:12])[C:6](=[O:8])[CH2:7][OH:10].[H:16][O:13][O:14][H:17]</AAM>
       <SCORE>10</SCORE>
       <CHAOS>0 &lt;=&gt; 30</CHAOS>
       <SIGMA>0</SIGMA>

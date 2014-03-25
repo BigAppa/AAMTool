@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[O:10]=[CH:9][CH:11]([OH:13])[CH:8]([OH:7])[CH:12]([OH:14])[CH2:15][O:16][P:17](=[O:19])([O-:20])[O-:18].[H:25][O:2][CH:3]([C:4](=[O:5])[CH3:6])[CH3:1]&gt;&gt;[H:25][O:10][CH:9]([C:4](=[O:5])[CH3:6])[CH:11]([OH:13])[CH:8]([OH:7])[CH:12]([OH:14])[CH2:15][O:16][P:17](=[O:19])([O-:20])[O-:18].[O:2]=[CH:3][CH3:1]</AAM>
+      <AAM>[O:4]=[CH:3][CH:5]([OH:7])[CH:2]([OH:1])[CH:6]([OH:8])[CH2:9][O:10][P:11](=[O:13])([O-:14])[O-:12].[H:34][O:16][CH:17]([C:18](=[O:19])[CH3:20])[CH3:15]&gt;&gt;[H:34][O:4][CH:3]([C:18](=[O:19])[CH3:20])[CH:5]([OH:7])[CH:2]([OH:1])[CH:6]([OH:8])[CH2:9][O:10][P:11](=[O:13])([O-:14])[O-:12].[O:16]=[CH:17][CH3:15]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
       <AAM>[H:34][O:14][CH:12]([CH2:15][O:16][P:17](=[O:19])([O-:20])[O-:18])[CH:8]([OH:7])[CH:11]([OH:13])[CH:9]=[O:10].[H:27][CH:1]([H:28])[CH:3]([OH:2])[C:4](=[O:5])[CH3:6]&gt;&gt;[H:34][O:10][CH:1]([CH:3]([OH:2])[C:4](=[O:5])[CH3:6])[CH:8]([OH:7])[CH:11]([OH:13])[CH:9]([H:27])[O:16][P:17](=[O:19])([O-:18])[O-:20].[H:28][CH2:15][CH:12]=[O:14]</AAM>
@@ -10,6 +10,14 @@
       <SIGMA>2</SIGMA>
       <ENERGY>26E02</ENERGY>
       <DELTA>51E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[O:4]=[CH:3][CH:5]([OH:7])[CH:2]([OH:1])[CH:6]([OH:8])[CH2:9][O:10][P:11](=[O:13])([O-:14])[O-:12].[H:34][O:16][CH:17]([C:18](=[O:19])[CH3:20])[CH3:15]&gt;&gt;[H:34][O:4][CH:3]([C:18](=[O:19])[CH3:20])[CH:5]([OH:7])[CH:2]([OH:1])[CH:6]([OH:8])[CH2:9][O:10][P:11](=[O:13])([O-:14])[O-:12].[O:16]=[CH:17][CH3:15]</AAM>
+      <SCORE>6</SCORE>
+      <CHAOS>0 &lt;=&gt; 14</CHAOS>
+      <SIGMA>2</SIGMA>
+      <ENERGY>6.9E02</ENERGY>
+      <DELTA>16E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
       <AAM>[O:10]=[CH:9][CH:11]([OH:13])[CH:8]([OH:7])[CH:12]([OH:14])[CH2:15][O:16][P:17](=[O:19])([O-:20])[O-:18].[H:25][O:2][CH:3]([C:4](=[O:5])[CH3:6])[CH3:1]&gt;&gt;[H:25][O:10][CH:9]([C:4](=[O:5])[CH3:6])[CH:11]([OH:13])[CH:8]([OH:7])[CH:12]([OH:14])[CH2:15][O:16][P:17](=[O:19])([O-:20])[O-:18].[O:2]=[CH:3][CH3:1]</AAM>

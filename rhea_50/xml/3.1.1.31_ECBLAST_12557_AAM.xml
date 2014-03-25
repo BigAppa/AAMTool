@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[O:7]=[C:5]1[O:8][CH:9]([CH2:10][O:11][P:6](=[O:15])([O-:12])[O-:13])[CH:14]([OH:16])[CH:17]([OH:2])[CH:4]1[OH:3].[H:18][O:1][H:19]&gt;&gt;[H:18][O:8][CH:9]([CH2:10][O:11][P:6](=[O:15])([O-:12])[O-:13])[CH:14]([OH:16])[CH:17]([OH:2])[CH:4]([OH:3])[C:5](=[O:7])[O-:1].[H+:19]</AAM>
+      <AAM>[O:6]=[C:4]1[O:7][CH:8]([CH2:9][O:10][P:5](=[O:14])([O-:11])[O-:12])[CH:13]([OH:15])[CH:16]([OH:1])[CH:3]1[OH:2].[H:27][O:17][H:28]&gt;&gt;[H:27][O:7][CH:8]([CH2:9][O:10][P:5](=[O:14])([O-:12])[O-:11])[CH:13]([OH:15])[CH:16]([OH:1])[CH:3]([OH:2])[C:4](=[O:6])[O-:17].[H+:28]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
-      <AAM>[H:19][O:2][CH:3]1[C:4](=[O:6])[O:7][CH:8]([CH2:9][O:10][P:5](=[O:14])([O-:11])[O-:12])[CH:13]([OH:15])[CH:16]1[OH:1].[H:28][OH:17]&gt;&gt;[H:19][O:7][CH:8]([CH2:9][O:10][P:5](=[O:14])([O-:12])[O-:11])[CH:13]([OH:15])[CH:16]([OH:1])[CH:3]([OH:17])[C:4](=[O:2])[O-:6].[H+:28]</AAM>
+      <AAM>[H:21][O:3][CH:4]1[C:5](=[O:7])[O:8][CH:9]([CH2:10][O:11][P:6](=[O:15])([O-:12])[O-:13])[CH:14]([OH:16])[CH:17]1[OH:2].[H:19][OH:1]&gt;&gt;[H:21][O:8][CH:9]([CH2:10][O:11][P:6](=[O:15])([O-:13])[O-:12])[CH:14]([OH:16])[CH:17]([OH:2])[CH:4]([OH:1])[C:5](=[O:3])[O-:7].[H+:19]</AAM>
       <SCORE>8</SCORE>
       <CHAOS>0 &lt;=&gt; 33</CHAOS>
       <SIGMA>0</SIGMA>
       <ENERGY>19E02</ENERGY>
       <DELTA>32E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[O:6]=[C:4]1[O:7][CH:8]([CH2:9][O:10][P:5](=[O:14])([O-:11])[O-:12])[CH:13]([OH:15])[CH:16]([OH:1])[CH:3]1[OH:2].[H:27][O:17][H:28]&gt;&gt;[H:27][O:7][CH:8]([CH2:9][O:10][P:5](=[O:14])([O-:12])[O-:11])[CH:13]([OH:15])[CH:16]([OH:1])[CH:3]([OH:2])[C:4](=[O:6])[O-:17].[H+:28]</AAM>
+      <SCORE>5</SCORE>
+      <CHAOS>0 &lt;=&gt; 29</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>7.1E02</ENERGY>
+      <DELTA>21E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
       <AAM>[O:7]=[C:5]1[O:8][CH:9]([CH2:10][O:11][P:6](=[O:15])([O-:12])[O-:13])[CH:14]([OH:16])[CH:17]([OH:2])[CH:4]1[OH:3].[H:18][O:1][H:19]&gt;&gt;[H:18][O:8][CH:9]([CH2:10][O:11][P:6](=[O:15])([O-:12])[O-:13])[CH:14]([OH:16])[CH:17]([OH:2])[CH:4]([OH:3])[C:5](=[O:7])[O-:1].[H+:19]</AAM>

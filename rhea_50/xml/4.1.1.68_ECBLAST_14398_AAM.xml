@@ -4,14 +4,14 @@
       <AAM>[O:5]=[C:9]([O-:3])[C:11](=[O:8])[CH:2]=[CH:13][CH:15]([C:14](=[O:1])[O-:4])[CH2:6][C:7](=[O:10])[O-:12].[H+:16]&gt;&gt;[H:16][CH:15]([CH:13]=[CH:2][C:11](=[O:8])[C:9](=[O:5])[O-:3])[CH2:6][C:7](=[O:10])[O-:12].[O:1]=[C:14]=[O:4]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
-      <AAM>[O:5]=[C:9]([O-:3])[C:11](=[O:8])[CH:2]=[CH:13][CH:15]([C:14](=[O:1])[O-:4])[CH2:6][C:7](=[O:10])[O-:12].[H+:21]&gt;&gt;[H:21][CH:15]([CH:13]=[CH:2][C:11](=[O:8])[C:14](=[O:1])[O-:4])[CH2:6][C:7](=[O:10])[O-:12].[O:5]=[C:9]=[O:3]</AAM>
+      <AAM>[O:5]=[C:9]([O-:3])[C:11](=[O:8])[CH:2]=[CH:13][CH:15]([C:14](=[O:1])[O-:4])[CH2:6][C:7](=[O:10])[O-:12].[H+:16]&gt;&gt;[H:16][CH:15]([CH:13]=[CH:2][C:11](=[O:8])[C:14](=[O:1])[O-:4])[CH2:6][C:7](=[O:10])[O-:12].[O:5]=[C:9]=[O:3]</AAM>
       <SCORE>5</SCORE>
       <CHAOS>0 &lt;=&gt; 10</CHAOS>
       <SIGMA>3</SIGMA>
       <ENERGY>10E02</ENERGY>
       <DELTA>14E02</DELTA>
     </MAPPING>
-    <MAPPING ALGORTIHM="Max-Mixture Model">
+    <MAPPING ALGORTIHM="Global Maximization Model">
       <AAM>[O:5]=[C:9]([O-:3])[C:11](=[O:8])[CH:2]=[CH:13][CH:15]([C:14](=[O:1])[O-:4])[CH2:6][C:7](=[O:10])[O-:12].[H+:16]&gt;&gt;[H:16][CH:15]([CH:13]=[CH:2][C:11](=[O:8])[C:9](=[O:5])[O-:3])[CH2:6][C:7](=[O:10])[O-:12].[O:1]=[C:14]=[O:4]</AAM>
       <SCORE>3</SCORE>
       <CHAOS>0 &lt;=&gt; 4</CHAOS>
@@ -19,8 +19,16 @@
       <ENERGY>3.5E02</ENERGY>
       <DELTA>7.6E02</DELTA>
     </MAPPING>
-    <MAPPING ALGORTIHM="Ring Conservation Model">
+    <MAPPING ALGORTIHM="Max-Mixture Model">
       <AAM>[O:5]=[C:9]([O-:3])[C:11](=[O:8])[CH:2]=[CH:13][CH:15]([C:14](=[O:1])[O-:4])[CH2:6][C:7](=[O:10])[O-:12].[H+:21]&gt;&gt;[H:21][CH:15]([CH:13]=[CH:2][C:11](=[O:8])[C:9](=[O:5])[O-:3])[CH2:6][C:7](=[O:10])[O-:12].[O:1]=[C:14]=[O:4]</AAM>
+      <SCORE>3</SCORE>
+      <CHAOS>0 &lt;=&gt; 4</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>3.5E02</ENERGY>
+      <DELTA>7.6E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Ring Conservation Model">
+      <AAM>[O:5]=[C:9]([O-:3])[C:11](=[O:8])[CH:2]=[CH:13][CH:15]([C:14](=[O:1])[O-:4])[CH2:6][C:7](=[O:10])[O-:12].[H+:16]&gt;&gt;[H:16][CH:15]([CH:13]=[CH:2][C:11](=[O:8])[C:9](=[O:5])[O-:3])[CH2:6][C:7](=[O:10])[O-:12].[O:1]=[C:14]=[O:4]</AAM>
       <SCORE>3</SCORE>
       <CHAOS>0 &lt;=&gt; 4</CHAOS>
       <SIGMA>1</SIGMA>

@@ -11,8 +11,16 @@
       <ENERGY>14E02</ENERGY>
       <DELTA>23E02</DELTA>
     </MAPPING>
-    <MAPPING ALGORTIHM="Max-Mixture Model">
+    <MAPPING ALGORTIHM="Global Maximization Model">
       <AAM>[Cl:1][CH2:2][Br:3].[H:7][O:4][H:8]&gt;&gt;[O:4]=[CH2:2].[Br-:3].[Cl-:1].[H+:7].[H+:8]</AAM>
+      <SCORE>5</SCORE>
+      <CHAOS>0 &lt;=&gt; 5</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>14E02</ENERGY>
+      <DELTA>23E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[Cl:2][CH2:3][Br:4].[H:5][O:1][H:6]&gt;&gt;[O:1]=[CH2:3].[Br-:4].[Cl-:2].[H+:5].[H+:6]</AAM>
       <SCORE>5</SCORE>
       <CHAOS>0 &lt;=&gt; 5</CHAOS>
       <SIGMA>1</SIGMA>

@@ -11,8 +11,16 @@
       <ENERGY>0E00</ENERGY>
       <DELTA>18E02</DELTA>
     </MAPPING>
-    <MAPPING ALGORTIHM="Max-Mixture Model">
+    <MAPPING ALGORTIHM="Global Maximization Model">
       <AAM>[H:15][O:1][CH:12]([H:16])[c:11]1[c:4]([OH:6])[c:5]([n:3][cH:2][c:10]1[CH2:7][OH:8])[CH3:9].[O:13]=[O:14]&gt;&gt;[O:1]=[CH:12][c:11]1[c:4]([OH:6])[c:5]([n:3][cH:2][c:10]1[CH2:7][OH:8])[CH3:9].[H:16][O:13][O:14][H:15]</AAM>
+      <SCORE>6</SCORE>
+      <CHAOS>0 &lt;=&gt; 4</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>0E00</ENERGY>
+      <DELTA>18E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[H:15][O:3][CH:14]([H:16])[c:13]1[c:6]([OH:8])[c:7]([n:5][cH:4][c:12]1[CH2:9][OH:10])[CH3:11].[O:1]=[O:2]&gt;&gt;[O:3]=[CH:14][c:13]1[c:6]([OH:8])[c:7]([n:5][cH:4][c:12]1[CH2:9][OH:10])[CH3:11].[H:16][O:1][O:2][H:15]</AAM>
       <SCORE>6</SCORE>
       <CHAOS>0 &lt;=&gt; 4</CHAOS>
       <SIGMA>0</SIGMA>

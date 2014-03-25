@@ -11,6 +11,14 @@
       <ENERGY>7E02</ENERGY>
       <DELTA>16E02</DELTA>
     </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[O:9]=[C:4]([O-:8])[c:7]1[cH:3][cH:5][cH:6][nH:2]1.[H:11][OH:1]&gt;&gt;[H:11][c:7]1[cH:3][cH:5][cH:6][nH:2]1.[O:9]=[C:4]([O-:8])[OH:1]</AAM>
+      <SCORE>4</SCORE>
+      <CHAOS>0 &lt;=&gt; 7</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>7E02</ENERGY>
+      <DELTA>16E02</DELTA>
+    </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
       <AAM>[O:8]=[C:3]([O-:7])[c:6]1[cH:2][cH:4][cH:5][nH:1]1.[H:15][OH:9]&gt;&gt;[H:15][c:6]1[cH:2][cH:4][cH:5][nH:1]1.[O:8]=[C:3]([O-:7])[OH:9]</AAM>
       <SCORE>4</SCORE>
@@ -20,7 +28,7 @@
       <DELTA>16E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Ring Conservation Model">
-      <AAM>[O:8]=[C:3]([O-:7])[c:6]1[cH:2][cH:4][cH:5][nH:1]1.[H:15][OH:9]&gt;&gt;[H:15][c:6]1[cH:2][cH:4][cH:5][nH:1]1.[O:8]=[C:3]([O-:7])[OH:9]</AAM>
+      <AAM>[O:9]=[C:4]([O-:8])[c:7]1[cH:3][cH:5][cH:6][nH:2]1.[H:11][OH:1]&gt;&gt;[H:11][c:7]1[cH:3][cH:5][cH:6][nH:2]1.[O:9]=[C:4]([O-:8])[OH:1]</AAM>
       <SCORE>4</SCORE>
       <CHAOS>0 &lt;=&gt; 7</CHAOS>
       <SIGMA>1</SIGMA>

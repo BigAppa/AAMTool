@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[H:12][O:5][c:7]1[cH:9][cH:8][c:6]([OH:4])[cH:10][cH:3]1.[O:1]=[O:2]&gt;&gt;[O:1]=[CH:9][CH:8]=[C:6]([OH:4])[CH:10]=[CH:3][C:7](=[O:2])[O-:5].[H+:12]</AAM>
+      <AAM>[H:12][O:3][c:5]1[cH:7][cH:6][c:4]([OH:2])[cH:8][cH:1]1.[O:9]=[O:10]&gt;&gt;[O:9]=[CH:7][CH:6]=[C:4]([OH:2])[CH:8]=[CH:1][C:5](=[O:10])[O-:3].[H+:12]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
+      <AAM>[H:12][O:3][c:5]1[cH:7][cH:6][c:4]([OH:2])[cH:8][cH:1]1.[O:9]=[O:10]&gt;&gt;[O:3]=[CH:7][CH:6]=[C:4]([OH:2])[CH:8]=[CH:1][C:5](=[O:9])[O-:10].[H+:12]</AAM>
+      <SCORE>7</SCORE>
+      <CHAOS>0 &lt;=&gt; 21</CHAOS>
+      <SIGMA>1</SIGMA>
+      <ENERGY>32E02</ENERGY>
+      <DELTA>39E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
       <AAM>[H:12][O:5][c:7]1[cH:9][cH:8][c:6]([OH:4])[cH:10][cH:3]1.[O:1]=[O:2]&gt;&gt;[O:5]=[CH:9][CH:8]=[C:6]([OH:4])[CH:10]=[CH:3][C:7](=[O:1])[O-:2].[H+:12]</AAM>
       <SCORE>7</SCORE>
       <CHAOS>0 &lt;=&gt; 21</CHAOS>
@@ -12,7 +20,7 @@
       <DELTA>39E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
-      <AAM>[H:12][O:5][c:7]1[cH:9][cH:8][c:6]([OH:4])[cH:10][cH:3]1.[O:1]=[O:2]&gt;&gt;[O:1]=[CH:9][CH:8]=[C:6]([OH:4])[CH:10]=[CH:3][C:7](=[O:2])[O-:5].[H+:12]</AAM>
+      <AAM>[H:12][O:3][c:5]1[cH:7][cH:6][c:4]([OH:2])[cH:8][cH:1]1.[O:9]=[O:10]&gt;&gt;[O:9]=[CH:7][CH:6]=[C:4]([OH:2])[CH:8]=[CH:1][C:5](=[O:10])[O-:3].[H+:12]</AAM>
       <SCORE>5</SCORE>
       <CHAOS>0 &lt;=&gt; 18</CHAOS>
       <SIGMA>1</SIGMA>

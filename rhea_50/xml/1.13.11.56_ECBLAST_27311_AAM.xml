@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[H:17][O:4][c:6]1[c:8]([OH:10])[cH:7][cH:9][c:11]2[c:2]([H:16])[cH:3][cH:1][cH:12][c:5]21.[O:13]=[O:14]&gt;&gt;[H:16][c:5]1[cH:12][cH:1][cH:3][c:2]2[O:13][C:8]([OH:10])([CH:7]=[CH:9][c:11]12)[C:6](=[O:14])[O-:4].[H+:17]</AAM>
+      <AAM>[H:17][O:6][c:8]1[c:10]([OH:12])[cH:9][cH:11][c:13]2[c:4]([H:16])[cH:5][cH:3][cH:14][c:7]21.[O:1]=[O:2]&gt;&gt;[H:16][c:7]1[cH:14][cH:3][cH:5][c:4]2[O:1][C:10]([OH:12])([CH:9]=[CH:11][c:13]12)[C:8](=[O:2])[O-:6].[H+:17]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
       <AAM>[H:21][O:12][c:10]1[cH:9][cH:11][c:13]2[c:4]([H:16])[c:5]([H:15])[cH:3][cH:14][c:7]2[c:8]1[O:6][H:17].[O:1]=[O:2]&gt;&gt;[H:21][O:2][C:4]1([O:6][c:8]2[c:10]([H:16])[cH:9][cH:11][c:13]([H:15])[c:7]2[CH:14]=[CH:3]1)[C:5](=[O:1])[O-:12].[H+:17]</AAM>
@@ -11,8 +11,16 @@
       <ENERGY>38E02</ENERGY>
       <DELTA>68E02</DELTA>
     </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[H:21][O:12][c:10]1[cH:9][cH:11][c:13]2[c:4]([H:16])[c:5]([H:15])[cH:3][cH:14][c:7]2[c:8]1[O:6][H:17].[O:1]=[O:2]&gt;&gt;[H:21][O:2][C:4]1([O:6][c:8]2[c:10]([H:16])[cH:9][cH:11][c:13]([H:15])[c:7]2[CH:14]=[CH:3]1)[C:5](=[O:1])[O-:12].[H+:17]</AAM>
+      <SCORE>17</SCORE>
+      <CHAOS>0 &lt;=&gt; 96</CHAOS>
+      <SIGMA>3</SIGMA>
+      <ENERGY>38E02</ENERGY>
+      <DELTA>68E02</DELTA>
+    </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
-      <AAM>[H:17][O:4][c:6]1[c:8]([OH:10])[cH:7][cH:9][c:11]2[c:2]([H:16])[cH:3][cH:1][cH:12][c:5]21.[O:13]=[O:14]&gt;&gt;[H:16][c:5]1[cH:12][cH:1][cH:3][c:2]2[O:13][C:8]([OH:10])([CH:7]=[CH:9][c:11]12)[C:6](=[O:14])[O-:4].[H+:17]</AAM>
+      <AAM>[H:17][O:6][c:8]1[c:10]([OH:12])[cH:9][cH:11][c:13]2[c:4]([H:16])[cH:5][cH:3][cH:14][c:7]21.[O:1]=[O:2]&gt;&gt;[H:16][c:7]1[cH:14][cH:3][cH:5][c:4]2[O:1][C:10]([OH:12])([CH:9]=[CH:11][c:13]12)[C:8](=[O:2])[O-:6].[H+:17]</AAM>
       <SCORE>8</SCORE>
       <CHAOS>0 &lt;=&gt; 67</CHAOS>
       <SIGMA>1</SIGMA>

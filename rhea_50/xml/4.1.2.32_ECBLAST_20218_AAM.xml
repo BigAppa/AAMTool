@@ -11,8 +11,16 @@
       <ENERGY>13E02</ENERGY>
       <DELTA>25E02</DELTA>
     </MAPPING>
-    <MAPPING ALGORTIHM="Max-Mixture Model">
+    <MAPPING ALGORTIHM="Global Maximization Model">
       <AAM>[H:8][CH2:1][N+:2]([O-:3])([CH3:4])[CH3:5].[H+:15]&gt;&gt;[H:8][N+:2]([H:15])([CH3:4])[CH3:5].[O:3]=[CH2:1]</AAM>
+      <SCORE>6</SCORE>
+      <CHAOS>0 &lt;=&gt; 9</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>13E02</ENERGY>
+      <DELTA>25E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Max-Mixture Model">
+      <AAM>[H:9][CH2:1][N+:2]([O-:3])([CH3:4])[CH3:5].[H+:6]&gt;&gt;[H:9][N+:2]([H:6])([CH3:4])[CH3:5].[O:3]=[CH2:1]</AAM>
       <SCORE>6</SCORE>
       <CHAOS>0 &lt;=&gt; 9</CHAOS>
       <SIGMA>0</SIGMA>

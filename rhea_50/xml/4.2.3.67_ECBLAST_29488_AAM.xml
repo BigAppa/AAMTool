@@ -11,6 +11,14 @@
       <ENERGY>10E02</ENERGY>
       <DELTA>36E02</DELTA>
     </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[H:49][CH:19]([C:20](=[CH:13][CH2:11][O:21][P:22](=[O:23])([O-:24])[O:9][P:10](=[O:6])([O-:7])[O-:1])[CH3:3])[C:18]([H:46])([H:40])[CH:17]=[C:16]([CH3:4])[CH2:15][CH2:14][CH:2]=[C:5]([CH3:8])[CH3:12]&gt;&gt;[H:40][C:5]([CH3:8])([CH3:12])[CH:2]1[C:18]2=[CH:19][C:20](=[CH:13][CH2:11][CH:17]2[C:16]([H:46])([CH3:4])[CH2:15][CH2:14]1)[CH3:3].[H:49][O:21][P:22](=[O:23])([O-:24])[O:9][P:10](=[O:6])([O-:7])[O-:1]</AAM>
+      <SCORE>12</SCORE>
+      <CHAOS>0 &lt;=&gt; 93</CHAOS>
+      <SIGMA>2</SIGMA>
+      <ENERGY>10E02</ENERGY>
+      <DELTA>36E02</DELTA>
+    </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
       <AAM>[H:49][CH:19]([C:20](=[CH:13][CH2:11][O:21][P:22](=[O:23])([O-:24])[O:9][P:10](=[O:6])([O-:7])[O-:1])[CH3:3])[C:18]([H:46])([H:40])[CH:17]=[C:16]([CH3:4])[CH2:15][CH2:14][CH:2]=[C:5]([CH3:8])[CH3:12]&gt;&gt;[H:40][C:5]([CH3:12])([CH3:8])[CH:2]1[C:18]2=[CH:19][C:20](=[CH:13][CH2:11][CH:17]2[C:16]([H:46])([CH3:4])[CH2:15][CH2:14]1)[CH3:3].[H:49][O:21][P:22](=[O:23])([O-:24])[O:9][P:10](=[O:6])([O-:7])[O-:1]</AAM>
       <SCORE>12</SCORE>

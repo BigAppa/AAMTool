@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[O:6]=[S:3](=[O:4])([O-:5])[O:2][CH3:1].[H:12][OH:7]&gt;&gt;[OH:7][CH3:1].[O:2]=[S:3](=[O:6])([O-:4])[O-:5].[H+:12]</AAM>
+      <AAM>[O:7]=[S:4](=[O:5])([O-:6])[O:3][CH3:2].[H:9][OH:1]&gt;&gt;[OH:1][CH3:2].[O:3]=[S:4](=[O:7])([O-:5])[O-:6].[H+:9]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
-      <AAM>[O:7]=[S:4](=[O:5])([O-:6])[O:3][CH3:2].[H:8][O:1][H:9]&gt;&gt;[H:8][O:3][CH3:2].[O:7]=[S:4](=[O:5])([O-:6])[O-:1].[H+:9]</AAM>
+      <AAM>[O:7]=[S:4](=[O:5])([O-:6])[O:3][CH3:2].[H:9][OH:1]&gt;&gt;[OH:1][CH3:2].[O:3]=[S:4](=[O:7])([O-:5])[O-:6].[H+:9]</AAM>
       <SCORE>5</SCORE>
-      <CHAOS>0 &lt;=&gt; 8</CHAOS>
+      <CHAOS>0 &lt;=&gt; 7</CHAOS>
       <SIGMA>0</SIGMA>
-      <ENERGY>7.3E02</ENERGY>
-      <DELTA>21E02</DELTA>
+      <ENERGY>7.2E02</ENERGY>
+      <DELTA>12E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[O:7]=[S:4](=[O:5])([O-:6])[O:3][CH3:2].[H:9][OH:1]&gt;&gt;[OH:1][CH3:2].[O:3]=[S:4](=[O:7])([O-:5])[O-:6].[H+:9]</AAM>
+      <SCORE>5</SCORE>
+      <CHAOS>0 &lt;=&gt; 7</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>7.2E02</ENERGY>
+      <DELTA>12E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
-      <AAM>[O:6]=[S:3](=[O:4])([O-:5])[O:2][CH3:1].[H:12][OH:7]&gt;&gt;[OH:7][CH3:1].[O:2]=[S:3](=[O:6])([O-:4])[O-:5].[H+:12]</AAM>
+      <AAM>[O:7]=[S:4](=[O:5])([O-:6])[O:3][CH3:2].[H:9][OH:1]&gt;&gt;[OH:1][CH3:2].[O:3]=[S:4](=[O:7])([O-:5])[O-:6].[H+:9]</AAM>
       <SCORE>5</SCORE>
       <CHAOS>0 &lt;=&gt; 7</CHAOS>
       <SIGMA>0</SIGMA>
@@ -20,7 +28,7 @@
       <DELTA>12E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Ring Conservation Model">
-      <AAM>[O:7]=[S:4](=[O:5])([O-:6])[O:3][CH3:2].[H:9][OH:1]&gt;&gt;[OH:1][CH3:2].[O:3]=[S:4](=[O:7])([O-:5])[O-:6].[H+:9]</AAM>
+      <AAM>[O:6]=[S:3](=[O:4])([O-:5])[O:2][CH3:1].[H:12][OH:7]&gt;&gt;[OH:7][CH3:1].[O:2]=[S:3](=[O:6])([O-:4])[O-:5].[H+:12]</AAM>
       <SCORE>5</SCORE>
       <CHAOS>0 &lt;=&gt; 7</CHAOS>
       <SIGMA>0</SIGMA>

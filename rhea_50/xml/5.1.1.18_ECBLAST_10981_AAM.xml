@@ -11,6 +11,14 @@
       <ENERGY>0E00</ENERGY>
       <DELTA>0E00</DELTA>
     </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[O:5]=[C:4]([O-:6])[CH:1]([NH3+:7])[CH2:2][OH:3]&gt;&gt;[O:5]=[C:4]([O-:6])[CH:1]([NH3+:7])[CH2:2][OH:3]</AAM>
+      <SCORE>0</SCORE>
+      <CHAOS>0 &lt;=&gt; 0</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>0E00</ENERGY>
+      <DELTA>0E00</DELTA>
+    </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
       <AAM>[O:5]=[C:4]([O-:6])[CH:1]([NH3+:7])[CH2:2][OH:3]&gt;&gt;[O:5]=[C:4]([O-:6])[CH:1]([NH3+:7])[CH2:2][OH:3]</AAM>
       <SCORE>0</SCORE>

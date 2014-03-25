@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[O:8]=[c:6]1[n:5][c:7]([NH2:9])[cH:3][cH:2][nH:4]1.[H:10][O:1][H:11].[H+:17]&gt;&gt;[H:10][n:5]1[c:7](=[O:1])[cH:3][cH:2][nH:4][c:6]1=[O:8].[H:11][NH2+:9][H:17]</AAM>
+      <AAM>[O:7]=[c:5]1[n:4][c:6]([NH2:8])[cH:2][cH:1][nH:3]1.[H:15][O:9][H:16].[H+:17]&gt;&gt;[H:15][n:4]1[c:6](=[O:9])[cH:2][cH:1][nH:3][c:5]1=[O:7].[H:16][NH2+:8][H:17]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
-      <AAM>[O:8]=[c:6]1[n:5][c:7]([NH2:9])[cH:3][cH:2][nH:4]1.[H:10][O:1][H:11].[H+:17]&gt;&gt;[H:10][n:5]1[c:7](=[O:1])[cH:3][cH:2][nH:4][c:6]1=[O:8].[H:11][NH2+:9][H:17]</AAM>
+      <AAM>[O:7]=[c:5]1[n:4][c:6]([NH2:8])[cH:2][cH:1][nH:3]1.[H:15][O:9][H:16].[H+:17]&gt;&gt;[H:15][n:4]1[c:6](=[O:9])[cH:2][cH:1][nH:3][c:5]1=[O:7].[H:16][NH2+:8][H:17]</AAM>
+      <SCORE>7</SCORE>
+      <CHAOS>0 &lt;=&gt; 9</CHAOS>
+      <SIGMA>0</SIGMA>
+      <ENERGY>11E02</ENERGY>
+      <DELTA>32E02</DELTA>
+    </MAPPING>
+    <MAPPING ALGORTIHM="Global Maximization Model">
+      <AAM>[O:8]=[c:6]1[n:5][c:7]([NH2:9])[cH:3][cH:2][nH:4]1.[H:10][O:1][H:11].[H+:12]&gt;&gt;[H:10][n:5]1[c:7](=[O:1])[cH:3][cH:2][nH:4][c:6]1=[O:8].[H:11][NH2+:9][H:12]</AAM>
       <SCORE>7</SCORE>
       <CHAOS>0 &lt;=&gt; 9</CHAOS>
       <SIGMA>0</SIGMA>
@@ -12,7 +20,7 @@
       <DELTA>32E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
-      <AAM>[O:8]=[c:6]1[n:5][c:7]([NH2:9])[cH:3][cH:2][nH:4]1.[H:10][O:1][H:11].[H+:17]&gt;&gt;[H:10][n:5]1[c:7](=[O:1])[cH:3][cH:2][nH:4][c:6]1=[O:8].[H:11][NH2+:9][H:17]</AAM>
+      <AAM>[O:7]=[c:5]1[n:4][c:6]([NH2:8])[cH:2][cH:1][nH:3]1.[H:15][O:9][H:16].[H+:17]&gt;&gt;[H:15][n:4]1[c:6](=[O:9])[cH:2][cH:1][nH:3][c:5]1=[O:7].[H:16][NH2+:8][H:17]</AAM>
       <SCORE>7</SCORE>
       <CHAOS>0 &lt;=&gt; 9</CHAOS>
       <SIGMA>0</SIGMA>
@@ -20,7 +28,7 @@
       <DELTA>32E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Ring Conservation Model">
-      <AAM>[O:8]=[c:6]1[n:5][c:7]([NH2:9])[cH:3][cH:2][nH:4]1.[H:10][O:1][H:11].[H+:12]&gt;&gt;[H:10][n:5]1[c:7](=[O:1])[cH:3][cH:2][nH:4][c:6]1=[O:8].[H:11][NH2+:9][H:12]</AAM>
+      <AAM>[O:8]=[c:6]1[n:5][c:7]([NH2:9])[cH:3][cH:2][nH:4]1.[H:10][O:1][H:11].[H+:17]&gt;&gt;[H:10][n:5]1[c:7](=[O:1])[cH:3][cH:2][nH:4][c:6]1=[O:8].[H:11][NH2+:9][H:17]</AAM>
       <SCORE>7</SCORE>
       <CHAOS>0 &lt;=&gt; 9</CHAOS>
       <SIGMA>0</SIGMA>
