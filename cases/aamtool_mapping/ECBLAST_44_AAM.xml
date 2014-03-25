@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+  <ANNOTATION>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[S:8]=[P:6]([O:5][CH2:4][C:2](=[CH2:1])[CH3:3])([O:9][CH2:10][CH3:7])[O:12][CH2:13][CH3:11]&gt;&gt;[O:5]=[P:6]([O:9][CH2:10][CH3:7])([O:12][CH2:13][CH3:11])[S:8][CH2:4][C:2](=[CH2:1])[CH3:3]</AAM>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>
