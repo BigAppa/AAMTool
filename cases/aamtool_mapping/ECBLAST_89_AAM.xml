@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+<?xml version="1.0" encoding="UTF-8"?>
+<EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
       <AAM>[O:1]=[CH:3][CH:5]=[CH:6][CH2:8][CH2:10][CH2:11][CH:9]=[CH:7][CH:4]=[CH2:2]&gt;&gt;[O:1]=[CH:3][CH:5]1[CH2:2][CH:4]=[CH:7][CH:9]2[CH2:11][CH2:10][CH2:8][CH:6]12</AAM>
