@@ -2,7 +2,7 @@
 <EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[O:9]=[N+:8]=[CH:6][c:7]1[cH:12][cH:11][cH:10][cH:14][cH:13]1.[O:3]1[CH2:2][CH:5]1[CH:4]=[CH2:1]&gt;&gt;[O:9]=[C:6]1[O:3][CH2:2][CH:5]([CH:4]=[CH2:1])[N:8]1[c:7]2[cH:12][cH:11][cH:10][cH:14][cH:13]2</AAM>
+      <AAM>[O:4]=[N+:3]=[CH:1][c:2]1[cH:7][cH:6][cH:5][cH:9][cH:8]1.[O:12]1[CH2:11][CH:14]1[CH:13]=[CH2:10]&gt;&gt;[O:4]=[C:1]1[O:12][CH2:11][CH:14]([CH:13]=[CH2:10])[N:3]1[c:2]2[cH:7][cH:6][cH:5][cH:9][cH:8]2</AAM>
     </MAPPING>
   </ANNOTATION>
 </EC_BLAST>
