@@ -1,0 +1,33 @@
+-----------------------
+Changes (24/04/2014)
+-----------------------
+a) Code optimisation
+b) Solution selection rule updated
+c) Bug fixed for RXN files
+
+-----------------------
+Changes (25/04/2014)
+-----------------------
+a) Code optimisation
+b) Bug fix (Rule)
+c) Matching optimisations ported
+
+-----------------------
+Changes (26/04/2014)
+-----------------------
+a) Fixed aromaticity related CDK bug
+
+-----------------------
+Changes (29/04/2014)
+-----------------------
+a) Partial handling of missing atom types.
+   This needs to be fixed as CDK level.
+b) Optimised mapping.
+c) Unbalanced reaction reporter, exception generation.
+
+
+-----------------------
+TO DO
+-----------------------
+CDK to handle missing atom types like Fe, Co etc.
+
