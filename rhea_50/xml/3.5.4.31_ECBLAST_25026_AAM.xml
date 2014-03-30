@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+<?xml version="1.0" encoding="UTF-8"?>
+<EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[OH:2][CH:3]1[CH:4]([OH:5])[CH:1]([O:6][CH:7]1[n:8]2[cH:9][n:14][c:10]3[c:15]([n:16][cH:17][n:13][c:11]32)[NH2:12])[CH2:18][S:19][CH3:20].[H:39][OH:21].[H+:37]&gt;&gt;[OH:21][c:15]1[n:16][cH:17][n:13][c:11]2[c:10]1[n:14][cH:9][n:8]2[CH:7]3[O:6][CH:1]([CH2:18][S:19][CH3:20])[CH:4]([OH:5])[CH:3]3[OH:2].[H:39][NH2+:12][H:37]</AAM>
+      <AAM>[OH:15][CH:6]1[CH:20]([OH:10])[CH:12]([O:7][CH:1]1[n:18]2[cH:8][n:14][c:2]3[c:16]([n:13][cH:11][n:4][c:19]32)[NH2:9])[CH2:5][S:3][CH3:17].[H:38][OH:21].[H+:39]&gt;&gt;[OH:21][c:16]1[n:13][cH:11][n:4][c:19]2[c:2]1[n:14][cH:8][n:18]2[CH:1]3[O:7][CH:12]([CH2:5][S:3][CH3:17])[CH:20]([OH:10])[CH:6]3[OH:15].[H:38][NH2+:9][H:39]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
-      <AAM>[OH:2][CH:3]1[CH:4]([OH:5])[CH:1]([O:6][CH:7]1[n:8]2[cH:9][n:14][c:10]3[c:15]([n:16][cH:17][n:13][c:11]32)[NH2:12])[CH2:18][S:19][CH3:20].[H:39][OH:21].[H+:37]&gt;&gt;[OH:21][c:15]1[n:16][cH:17][n:13][c:11]2[c:10]1[n:14][cH:9][n:8]2[CH:7]3[O:6][CH:1]([CH2:18][S:19][CH3:20])[CH:4]([OH:5])[CH:3]3[OH:2].[H:39][NH2+:12][H:37]</AAM>
+      <AAM>[OH:15][CH:6]1[CH:20]([OH:10])[CH:12]([O:7][CH:1]1[n:18]2[cH:8][n:14][c:2]3[c:16]([n:13][cH:11][n:4][c:19]32)[NH2:9])[CH2:5][S:3][CH3:17].[H:38][OH:21].[H+:39]&gt;&gt;[OH:21][c:16]1[n:13][cH:11][n:4][c:19]2[c:2]1[n:14][cH:8][n:18]2[CH:1]3[O:7][CH:12]([CH2:5][S:3][CH3:17])[CH:20]([OH:10])[CH:6]3[OH:15].[H:38][NH2+:9][H:39]</AAM>
       <SCORE>5</SCORE>
       <CHAOS>0 &lt;=&gt; 8</CHAOS>
       <SIGMA>0</SIGMA>
@@ -12,7 +13,7 @@
       <DELTA>19E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Global Maximization Model">
-      <AAM>[OH:2][CH:3]1[CH:4]([OH:5])[CH:1]([O:6][CH:7]1[n:8]2[cH:9][n:14][c:10]3[c:15]([n:16][cH:17][n:13][c:11]32)[NH2:12])[CH2:18][S:19][CH3:20].[H:39][OH:21].[H+:22]&gt;&gt;[OH:21][c:15]1[n:16][cH:17][n:13][c:11]2[c:10]1[n:14][cH:9][n:8]2[CH:7]3[O:6][CH:1]([CH2:18][S:19][CH3:20])[CH:4]([OH:5])[CH:3]3[OH:2].[H:39][NH2+:12][H:22]</AAM>
+      <AAM>[OH:15][CH:6]1[CH:20]([OH:10])[CH:12]([O:7][CH:1]1[n:18]2[cH:8][n:14][c:2]3[c:16]([n:13][cH:11][n:4][c:19]32)[NH2:9])[CH2:5][S:3][CH3:17].[H:38][OH:21].[H+:39]&gt;&gt;[OH:21][c:16]1[n:13][cH:11][n:4][c:19]2[c:2]1[n:14][cH:8][n:18]2[CH:1]3[O:7][CH:12]([CH2:5][S:3][CH3:17])[CH:20]([OH:10])[CH:6]3[OH:15].[H:38][NH2+:9][H:39]</AAM>
       <SCORE>5</SCORE>
       <CHAOS>0 &lt;=&gt; 8</CHAOS>
       <SIGMA>0</SIGMA>
@@ -20,7 +21,7 @@
       <DELTA>19E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
-      <AAM>[OH:2][CH:3]1[CH:4]([OH:5])[CH:1]([O:6][CH:7]1[n:8]2[cH:9][n:14][c:10]3[c:15]([n:16][cH:17][n:13][c:11]32)[NH2:12])[CH2:18][S:19][CH3:20].[H:38][OH:21].[H+:39]&gt;&gt;[OH:21][c:15]1[n:16][cH:17][n:13][c:11]2[c:10]1[n:14][cH:9][n:8]2[CH:7]3[O:6][CH:1]([CH2:18][S:19][CH3:20])[CH:4]([OH:5])[CH:3]3[OH:2].[H:38][NH2+:12][H:39]</AAM>
+      <AAM>[OH:15][CH:6]1[CH:20]([OH:10])[CH:12]([O:7][CH:1]1[n:18]2[cH:8][n:14][c:2]3[c:16]([n:13][cH:11][n:4][c:19]32)[NH2:9])[CH2:5][S:3][CH3:17].[H:38][OH:21].[H+:39]&gt;&gt;[OH:21][c:16]1[n:13][cH:11][n:4][c:19]2[c:2]1[n:14][cH:8][n:18]2[CH:1]3[O:7][CH:12]([CH2:5][S:3][CH3:17])[CH:20]([OH:10])[CH:6]3[OH:15].[H:38][NH2+:9][H:39]</AAM>
       <SCORE>5</SCORE>
       <CHAOS>0 &lt;=&gt; 8</CHAOS>
       <SIGMA>0</SIGMA>
@@ -28,7 +29,7 @@
       <DELTA>19E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Ring Conservation Model">
-      <AAM>[OH:2][CH:3]1[CH:4]([OH:5])[CH:1]([O:6][CH:7]1[n:8]2[cH:9][n:14][c:10]3[c:15]([n:16][cH:17][n:13][c:11]32)[NH2:12])[CH2:18][S:19][CH3:20].[H:39][OH:21].[H+:37]&gt;&gt;[OH:21][c:15]1[n:16][cH:17][n:13][c:11]2[c:10]1[n:14][cH:9][n:8]2[CH:7]3[O:6][CH:1]([CH2:18][S:19][CH3:20])[CH:4]([OH:5])[CH:3]3[OH:2].[H:39][NH2+:12][H:37]</AAM>
+      <AAM>[OH:15][CH:6]1[CH:20]([OH:10])[CH:12]([O:7][CH:1]1[n:18]2[cH:8][n:14][c:2]3[c:16]([n:13][cH:11][n:4][c:19]32)[NH2:9])[CH2:5][S:3][CH3:17].[H:38][OH:21].[H+:39]&gt;&gt;[OH:21][c:16]1[n:13][cH:11][n:4][c:19]2[c:2]1[n:14][cH:8][n:18]2[CH:1]3[O:7][CH:12]([CH2:5][S:3][CH3:17])[CH:20]([OH:10])[CH:6]3[OH:15].[H:38][NH2+:9][H:39]</AAM>
       <SCORE>5</SCORE>
       <CHAOS>0 &lt;=&gt; 8</CHAOS>
       <SIGMA>0</SIGMA>

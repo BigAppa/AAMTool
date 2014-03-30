@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+<?xml version="1.0" encoding="UTF-8"?>
+<EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[O:6]=[C:5]([O-:7])[CH:3]([NH3+:8])[CH:1]([CH3:4])[CH3:2].[H+:9]&gt;&gt;[H:9][CH:3]([NH3+:8])[CH:1]([CH3:4])[CH3:2].[O:6]=[C:5]=[O:7]</AAM>
+      <AAM>[O:6]=[C:7]([O-:4])[CH:2]([NH3+:5])[CH:8]([CH3:1])[CH3:3].[H+:20]&gt;&gt;[H:20][CH:2]([NH3+:5])[CH:8]([CH3:1])[CH3:3].[O:4]=[C:7]=[O:6]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
-      <AAM>[O:6]=[C:5]([O-:7])[CH:3]([NH3+:8])[CH:1]([CH3:4])[CH3:2].[H+:9]&gt;&gt;[H:9][CH:3]([NH3+:8])[CH:1]([CH3:4])[CH3:2].[O:6]=[C:5]=[O:7]</AAM>
+      <AAM>[O:6]=[C:7]([O-:4])[CH:2]([NH3+:5])[CH:8]([CH3:1])[CH3:3].[H+:20]&gt;&gt;[H:20][CH:2]([NH3+:5])[CH:8]([CH3:1])[CH3:3].[O:4]=[C:7]=[O:6]</AAM>
       <SCORE>3</SCORE>
       <CHAOS>0 &lt;=&gt; 4</CHAOS>
       <SIGMA>1</SIGMA>
@@ -12,7 +13,7 @@
       <DELTA>7.6E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Global Maximization Model">
-      <AAM>[O:6]=[C:5]([O-:7])[CH:3]([NH3+:8])[CH:1]([CH3:4])[CH3:2].[H+:20]&gt;&gt;[H:20][CH:3]([NH3+:8])[CH:1]([CH3:4])[CH3:2].[O:6]=[C:5]=[O:7]</AAM>
+      <AAM>[O:6]=[C:7]([O-:4])[CH:2]([NH3+:5])[CH:8]([CH3:1])[CH3:3].[H+:20]&gt;&gt;[H:20][CH:2]([NH3+:5])[CH:8]([CH3:1])[CH3:3].[O:4]=[C:7]=[O:6]</AAM>
       <SCORE>3</SCORE>
       <CHAOS>0 &lt;=&gt; 4</CHAOS>
       <SIGMA>1</SIGMA>
@@ -20,7 +21,7 @@
       <DELTA>7.6E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
-      <AAM>[O:6]=[C:5]([O-:7])[CH:3]([NH3+:8])[CH:1]([CH3:4])[CH3:2].[H+:20]&gt;&gt;[H:20][CH:3]([NH3+:8])[CH:1]([CH3:4])[CH3:2].[O:6]=[C:5]=[O:7]</AAM>
+      <AAM>[O:6]=[C:7]([O-:4])[CH:2]([NH3+:5])[CH:8]([CH3:1])[CH3:3].[H+:20]&gt;&gt;[H:20][CH:2]([NH3+:5])[CH:8]([CH3:1])[CH3:3].[O:4]=[C:7]=[O:6]</AAM>
       <SCORE>3</SCORE>
       <CHAOS>0 &lt;=&gt; 4</CHAOS>
       <SIGMA>1</SIGMA>
@@ -28,7 +29,7 @@
       <DELTA>7.6E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Ring Conservation Model">
-      <AAM>[O:6]=[C:5]([O-:7])[CH:3]([NH3+:8])[CH:1]([CH3:4])[CH3:2].[H+:20]&gt;&gt;[H:20][CH:3]([NH3+:8])[CH:1]([CH3:4])[CH3:2].[O:6]=[C:5]=[O:7]</AAM>
+      <AAM>[O:6]=[C:7]([O-:4])[CH:2]([NH3+:5])[CH:8]([CH3:1])[CH3:3].[H+:20]&gt;&gt;[H:20][CH:2]([NH3+:5])[CH:8]([CH3:1])[CH3:3].[O:4]=[C:7]=[O:6]</AAM>
       <SCORE>3</SCORE>
       <CHAOS>0 &lt;=&gt; 4</CHAOS>
       <SIGMA>1</SIGMA>

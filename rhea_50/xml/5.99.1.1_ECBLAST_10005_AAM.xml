@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+<?xml version="1.0" encoding="UTF-8"?>
+<EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[S:10]=[C:8]=[N:7][CH2:5][c:2]1[cH:3][cH:6][cH:9][cH:4][cH:1]1&gt;&gt;[N:7]#[C:8][S:10][CH2:5][c:2]1[cH:3][cH:6][cH:9][cH:4][cH:1]1</AAM>
+      <AAM>[S:2]=[C:3]=[N:10][CH2:9][c:8]1[cH:5][cH:4][cH:6][cH:7][cH:1]1&gt;&gt;[N:10]#[C:3][S:2][CH2:9][c:8]1[cH:5][cH:4][cH:6][cH:7][cH:1]1</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
-      <AAM>[S:10]=[C:8]=[N:7][CH2:5][c:2]1[cH:3][cH:6][cH:9][cH:4][cH:1]1&gt;&gt;[N:7]#[C:8][S:10][CH2:5][c:2]1[cH:3][cH:6][cH:9][cH:4][cH:1]1</AAM>
+      <AAM>[S:2]=[C:3]=[N:10][CH2:9][c:8]1[cH:5][cH:4][cH:6][cH:7][cH:1]1&gt;&gt;[N:10]#[C:3][S:2][CH2:9][c:8]1[cH:5][cH:4][cH:6][cH:7][cH:1]1</AAM>
       <SCORE>4</SCORE>
       <CHAOS>0 &lt;=&gt; 6</CHAOS>
       <SIGMA>0</SIGMA>
@@ -12,7 +13,7 @@
       <DELTA>5.8E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Global Maximization Model">
-      <AAM>[S:10]=[C:8]=[N:7][CH2:5][c:2]1[cH:3][cH:6][cH:9][cH:4][cH:1]1&gt;&gt;[N:7]#[C:8][S:10][CH2:5][c:2]1[cH:3][cH:6][cH:9][cH:4][cH:1]1</AAM>
+      <AAM>[S:2]=[C:3]=[N:10][CH2:9][c:8]1[cH:5][cH:4][cH:6][cH:7][cH:1]1&gt;&gt;[N:10]#[C:3][S:2][CH2:9][c:8]1[cH:5][cH:4][cH:6][cH:7][cH:1]1</AAM>
       <SCORE>4</SCORE>
       <CHAOS>0 &lt;=&gt; 6</CHAOS>
       <SIGMA>0</SIGMA>
@@ -20,7 +21,7 @@
       <DELTA>5.8E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
-      <AAM>[S:10]=[C:8]=[N:7][CH2:5][c:2]1[cH:3][cH:6][cH:9][cH:4][cH:1]1&gt;&gt;[N:7]#[C:8][S:10][CH2:5][c:2]1[cH:3][cH:6][cH:9][cH:4][cH:1]1</AAM>
+      <AAM>[S:2]=[C:3]=[N:10][CH2:9][c:8]1[cH:5][cH:4][cH:6][cH:7][cH:1]1&gt;&gt;[N:10]#[C:3][S:2][CH2:9][c:8]1[cH:5][cH:4][cH:6][cH:7][cH:1]1</AAM>
       <SCORE>4</SCORE>
       <CHAOS>0 &lt;=&gt; 6</CHAOS>
       <SIGMA>0</SIGMA>
@@ -28,7 +29,7 @@
       <DELTA>5.8E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Ring Conservation Model">
-      <AAM>[S:10]=[C:8]=[N:7][CH2:5][c:2]1[cH:3][cH:6][cH:9][cH:4][cH:1]1&gt;&gt;[N:7]#[C:8][S:10][CH2:5][c:2]1[cH:3][cH:6][cH:9][cH:4][cH:1]1</AAM>
+      <AAM>[S:2]=[C:3]=[N:10][CH2:9][c:8]1[cH:5][cH:4][cH:6][cH:7][cH:1]1&gt;&gt;[N:10]#[C:3][S:2][CH2:9][c:8]1[cH:5][cH:4][cH:6][cH:7][cH:1]1</AAM>
       <SCORE>4</SCORE>
       <CHAOS>0 &lt;=&gt; 6</CHAOS>
       <SIGMA>0</SIGMA>
