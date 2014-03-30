@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+<?xml version="1.0" encoding="UTF-8"?>
+<EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[H:37][CH:15]([CH:16]=[CH:18][CH2:19][CH:4]=[CH:12][CH2:14][CH2:17][CH2:20][CH2:22][CH3:21])[CH2:13][CH2:3][CH2:8][CH2:11][CH2:10][CH2:9][C:6](=[O:7])[O-:5].[O:1]=[O:2]&gt;&gt;[H:37][O:1][O:2][CH:18]([CH:16]=[CH:15][CH2:13][CH2:3][CH2:8][CH2:11][CH2:10][CH2:9][C:6](=[O:7])[O-:5])[CH2:19][CH:4]=[CH:12][CH2:14][CH2:17][CH2:20][CH2:22][CH3:21]</AAM>
+      <AAM>[H:24][CH:6]([CH:5]=[CH:4][CH2:3][CH:2]=[CH:1][CH2:16][CH2:20][CH2:17][CH2:18][CH3:19])[CH2:7][CH2:8][CH2:9][CH2:10][CH2:11][CH2:12][C:13](=[O:15])[O-:14].[O:21]=[O:22]&gt;&gt;[H:24][O:21][O:22][CH:4]([CH:5]=[CH:6][CH2:7][CH2:8][CH2:9][CH2:10][CH2:11][CH2:12][C:13](=[O:15])[O-:14])[CH2:3][CH:2]=[CH:1][CH2:16][CH2:20][CH2:17][CH2:18][CH3:19]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
-      <AAM>[H:37][CH:15]([CH:16]=[CH:18][CH2:19][CH:4]=[CH:12][CH2:14][CH2:17][CH2:20][CH2:22][CH3:21])[CH2:13][CH2:3][CH2:8][CH2:11][CH2:10][CH2:9][C:6](=[O:7])[O-:5].[O:1]=[O:2]&gt;&gt;[H:37][O:1][O:2][CH:18]([CH:16]=[CH:15][CH2:13][CH2:3][CH2:8][CH2:11][CH2:10][CH2:9][C:6](=[O:7])[O-:5])[CH2:19][CH:4]=[CH:12][CH2:14][CH2:17][CH2:20][CH2:22][CH3:21]</AAM>
+      <AAM>[H:24][CH:6]([CH:5]=[CH:4][CH2:3][CH:2]=[CH:1][CH2:16][CH2:20][CH2:17][CH2:18][CH3:19])[CH2:7][CH2:8][CH2:9][CH2:10][CH2:11][CH2:12][C:13](=[O:15])[O-:14].[O:21]=[O:22]&gt;&gt;[H:24][O:21][O:22][CH:4]([CH:5]=[CH:6][CH2:7][CH2:8][CH2:9][CH2:10][CH2:11][CH2:12][C:13](=[O:15])[O-:14])[CH2:3][CH:2]=[CH:1][CH2:16][CH2:20][CH2:17][CH2:18][CH3:19]</AAM>
       <SCORE>6</SCORE>
       <CHAOS>0 &lt;=&gt; 5</CHAOS>
       <SIGMA>0</SIGMA>
@@ -12,7 +13,7 @@
       <DELTA>12E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Global Maximization Model">
-      <AAM>[H:37][CH:13]([CH:14]=[CH:16][CH2:17][CH:2]=[CH:10][CH2:12][CH2:15][CH2:18][CH2:20][CH3:19])[CH2:11][CH2:1][CH2:6][CH2:9][CH2:8][CH2:7][C:4](=[O:5])[O-:3].[O:21]=[O:22]&gt;&gt;[H:37][O:21][O:22][CH:16]([CH:14]=[CH:13][CH2:11][CH2:1][CH2:6][CH2:9][CH2:8][CH2:7][C:4](=[O:5])[O-:3])[CH2:17][CH:2]=[CH:10][CH2:12][CH2:15][CH2:18][CH2:20][CH3:19]</AAM>
+      <AAM>[H:24][CH:6]([CH:5]=[CH:4][CH2:3][CH:2]=[CH:1][CH2:16][CH2:20][CH2:17][CH2:18][CH3:19])[CH2:7][CH2:8][CH2:9][CH2:10][CH2:11][CH2:12][C:13](=[O:15])[O-:14].[O:21]=[O:22]&gt;&gt;[H:24][O:22][O:21][CH:4]([CH:5]=[CH:6][CH2:7][CH2:8][CH2:9][CH2:10][CH2:11][CH2:12][C:13](=[O:15])[O-:14])[CH2:3][CH:2]=[CH:1][CH2:16][CH2:20][CH2:17][CH2:18][CH3:19]</AAM>
       <SCORE>6</SCORE>
       <CHAOS>0 &lt;=&gt; 5</CHAOS>
       <SIGMA>0</SIGMA>
@@ -20,7 +21,7 @@
       <DELTA>12E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
-      <AAM>[H:37][CH:15]([CH:16]=[CH:18][CH2:19][CH:4]=[CH:12][CH2:14][CH2:17][CH2:20][CH2:22][CH3:21])[CH2:13][CH2:3][CH2:8][CH2:11][CH2:10][CH2:9][C:6](=[O:7])[O-:5].[O:1]=[O:2]&gt;&gt;[H:37][O:1][O:2][CH:18]([CH:16]=[CH:15][CH2:13][CH2:3][CH2:8][CH2:11][CH2:10][CH2:9][C:6](=[O:7])[O-:5])[CH2:19][CH:4]=[CH:12][CH2:14][CH2:17][CH2:20][CH2:22][CH3:21]</AAM>
+      <AAM>[H:24][CH:6]([CH:5]=[CH:4][CH2:3][CH:2]=[CH:1][CH2:16][CH2:20][CH2:17][CH2:18][CH3:19])[CH2:7][CH2:8][CH2:9][CH2:10][CH2:11][CH2:12][C:13](=[O:15])[O-:14].[O:21]=[O:22]&gt;&gt;[H:24][O:22][O:21][CH:4]([CH:5]=[CH:6][CH2:7][CH2:8][CH2:9][CH2:10][CH2:11][CH2:12][C:13](=[O:15])[O-:14])[CH2:3][CH:2]=[CH:1][CH2:16][CH2:20][CH2:17][CH2:18][CH3:19]</AAM>
       <SCORE>6</SCORE>
       <CHAOS>0 &lt;=&gt; 5</CHAOS>
       <SIGMA>0</SIGMA>
@@ -28,7 +29,7 @@
       <DELTA>12E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Ring Conservation Model">
-      <AAM>[H:37][CH:15]([CH:16]=[CH:18][CH2:19][CH:4]=[CH:12][CH2:14][CH2:17][CH2:20][CH2:22][CH3:21])[CH2:13][CH2:3][CH2:8][CH2:11][CH2:10][CH2:9][C:6](=[O:7])[O-:5].[O:1]=[O:2]&gt;&gt;[H:37][O:1][O:2][CH:18]([CH:16]=[CH:15][CH2:13][CH2:3][CH2:8][CH2:11][CH2:10][CH2:9][C:6](=[O:7])[O-:5])[CH2:19][CH:4]=[CH:12][CH2:14][CH2:17][CH2:20][CH2:22][CH3:21]</AAM>
+      <AAM>[H:24][CH:6]([CH:5]=[CH:4][CH2:3][CH:2]=[CH:1][CH2:16][CH2:20][CH2:17][CH2:18][CH3:19])[CH2:7][CH2:8][CH2:9][CH2:10][CH2:11][CH2:12][C:13](=[O:15])[O-:14].[O:21]=[O:22]&gt;&gt;[H:24][O:22][O:21][CH:4]([CH:5]=[CH:6][CH2:7][CH2:8][CH2:9][CH2:10][CH2:11][CH2:12][C:13](=[O:15])[O-:14])[CH2:3][CH:2]=[CH:1][CH2:16][CH2:20][CH2:17][CH2:18][CH3:19]</AAM>
       <SCORE>6</SCORE>
       <CHAOS>0 &lt;=&gt; 5</CHAOS>
       <SIGMA>0</SIGMA>

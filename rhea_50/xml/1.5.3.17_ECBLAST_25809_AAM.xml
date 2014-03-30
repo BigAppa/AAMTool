@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+<?xml version="1.0" encoding="UTF-8"?>
+<EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[H:29][CH:10]([CH2:7][CH2:6][NH3+:4])[NH2+:11][CH2:13][CH2:12][CH2:9][CH2:8][NH3+:5].[H:14][O:3][H:15].[O:1]=[O:2]&gt;&gt;[H:29][NH2+:11][CH2:13][CH2:12][CH2:9][CH2:8][NH3+:5].[O:3]=[CH:10][CH2:7][CH2:6][NH3+:4].[H:14][O:1][O:2][H:15]</AAM>
+      <AAM>[H:26][CH:10]([CH2:4][CH2:8][NH3+:6])[NH2+:2][CH2:1][CH2:3][CH2:9][CH2:5][NH3+:7].[H:36][O:11][H:37].[O:12]=[O:13]&gt;&gt;[H:26][NH2+:2][CH2:1][CH2:3][CH2:9][CH2:5][NH3+:7].[O:11]=[CH:10][CH2:4][CH2:8][NH3+:6].[H:36][O:13][O:12][H:37]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
-      <AAM>[H:29][CH:10]([CH2:7][CH2:6][NH3+:4])[NH2+:11][CH2:13][CH2:12][CH2:9][CH2:8][NH3+:5].[H:15][OH:1].[O:2]=[O:3]&gt;&gt;[H:29][NH2+:11][CH2:13][CH2:12][CH2:9][CH2:8][NH3+:5].[O:2]=[CH:10][CH2:7][CH2:6][NH3+:4].[H:15][O:3][OH:1]</AAM>
-      <SCORE>8</SCORE>
-      <CHAOS>0 &lt;=&gt; 21</CHAOS>
+      <AAM>[H:26][CH:10]([CH2:4][CH2:8][NH3+:6])[NH2+:2][CH2:1][CH2:3][CH2:9][CH2:5][NH3+:7].[H:36][O:11][H:37].[O:12]=[O:13]&gt;&gt;[H:26][NH2+:2][CH2:1][CH2:3][CH2:9][CH2:5][NH3+:7].[O:11]=[CH:10][CH2:4][CH2:8][NH3+:6].[H:36][O:13][O:12][H:37]</AAM>
+      <SCORE>9</SCORE>
+      <CHAOS>0 &lt;=&gt; 20</CHAOS>
       <SIGMA>0</SIGMA>
-      <ENERGY>17E02</ENERGY>
-      <DELTA>35E02</DELTA>
+      <ENERGY>11E02</ENERGY>
+      <DELTA>37E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Global Maximization Model">
-      <AAM>[H:29][CH:10]([CH2:7][CH2:6][NH3+:4])[NH2+:11][CH2:13][CH2:12][CH2:9][CH2:8][NH3+:5].[H:14][O:3][H:15].[O:1]=[O:2]&gt;&gt;[H:29][NH2+:11][CH2:13][CH2:12][CH2:9][CH2:8][NH3+:5].[O:3]=[CH:10][CH2:7][CH2:6][NH3+:4].[H:14][O:1][O:2][H:15]</AAM>
+      <AAM>[H:26][CH:10]([CH2:4][CH2:8][NH3+:6])[NH2+:2][CH2:1][CH2:3][CH2:9][CH2:5][NH3+:7].[H:36][O:11][H:37].[O:12]=[O:13]&gt;&gt;[H:26][NH2+:2][CH2:1][CH2:3][CH2:9][CH2:5][NH3+:7].[O:11]=[CH:10][CH2:4][CH2:8][NH3+:6].[H:36][O:13][O:12][H:37]</AAM>
       <SCORE>9</SCORE>
       <CHAOS>0 &lt;=&gt; 20</CHAOS>
       <SIGMA>0</SIGMA>
@@ -20,7 +21,7 @@
       <DELTA>37E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
-      <AAM>[H:29][CH:10]([CH2:7][CH2:6][NH3+:4])[NH2+:11][CH2:13][CH2:12][CH2:9][CH2:8][NH3+:5].[H:14][O:3][H:15].[O:1]=[O:2]&gt;&gt;[H:29][NH2+:11][CH2:13][CH2:12][CH2:9][CH2:8][NH3+:5].[O:3]=[CH:10][CH2:7][CH2:6][NH3+:4].[H:14][O:1][O:2][H:15]</AAM>
+      <AAM>[H:26][CH:10]([CH2:4][CH2:8][NH3+:6])[NH2+:2][CH2:1][CH2:3][CH2:9][CH2:5][NH3+:7].[H:36][O:11][H:37].[O:12]=[O:13]&gt;&gt;[H:26][NH2+:2][CH2:1][CH2:3][CH2:9][CH2:5][NH3+:7].[O:11]=[CH:10][CH2:4][CH2:8][NH3+:6].[H:36][O:13][O:12][H:37]</AAM>
       <SCORE>9</SCORE>
       <CHAOS>0 &lt;=&gt; 20</CHAOS>
       <SIGMA>0</SIGMA>
@@ -28,12 +29,12 @@
       <DELTA>37E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Ring Conservation Model">
-      <AAM>[H:29][CH:10]([CH2:7][CH2:6][NH3+:4])[NH2+:11][CH2:13][CH2:12][CH2:9][CH2:8][NH3+:5].[H:15][OH:3].[O:1]=[O:2]&gt;&gt;[H:29][NH2+:11][CH2:13][CH2:12][CH2:9][CH2:8][NH3+:5].[O:2]=[CH:10][CH2:7][CH2:6][NH3+:4].[H:15][O:1][OH:3]</AAM>
-      <SCORE>8</SCORE>
-      <CHAOS>0 &lt;=&gt; 21</CHAOS>
+      <AAM>[H:26][CH:10]([CH2:4][CH2:8][NH3+:6])[NH2+:2][CH2:1][CH2:3][CH2:9][CH2:5][NH3+:7].[H:36][O:11][H:37].[O:12]=[O:13]&gt;&gt;[H:26][NH2+:2][CH2:1][CH2:3][CH2:9][CH2:5][NH3+:7].[O:11]=[CH:10][CH2:4][CH2:8][NH3+:6].[H:36][O:13][O:12][H:37]</AAM>
+      <SCORE>9</SCORE>
+      <CHAOS>0 &lt;=&gt; 20</CHAOS>
       <SIGMA>0</SIGMA>
-      <ENERGY>17E02</ENERGY>
-      <DELTA>35E02</DELTA>
+      <ENERGY>11E02</ENERGY>
+      <DELTA>37E02</DELTA>
     </MAPPING>
   </ANNOTATION>
 </EC_BLAST>
