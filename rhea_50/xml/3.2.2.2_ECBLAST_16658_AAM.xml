@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><EC_BLAST>
+<?xml version="1.0" encoding="UTF-8"?>
+<EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[H:27][O:16][c:13]1[n:9][cH:14][n:15][c:17]2[c:18]1[n:19][cH:8][n:6]2[CH:7]3[O:5][CH:4]([CH2:1][OH:3])[CH:2]([OH:10])[CH:11]3[OH:12].[H:34][OH:20]&gt;&gt;[OH:3][CH2:1][CH:4]1[O:5][CH:7]([OH:20])[CH:11]([OH:12])[CH:2]1[OH:10].[H:34][n:9]1[cH:14][n:15][c:17]2[n:6][cH:8][n:19]([H:27])[c:18]2[c:13]1=[O:16]</AAM>
+      <AAM>[H:30][O:13][c:16]1[n:17][cH:3][n:18][c:10]2[c:5]1[n:9][cH:19][n:7]2[CH:1]3[O:8][CH:15]([CH2:4][OH:14])[CH:6]([OH:11])[CH:2]3[OH:12].[H:34][OH:20]&gt;&gt;[OH:14][CH2:4][CH:15]1[O:8][CH:1]([OH:20])[CH:2]([OH:12])[CH:6]1[OH:11].[H:30][n:17]1[cH:3][n:18][c:10]2[n:7][cH:19][n:9]([H:34])[c:5]2[c:16]1=[O:13]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
-      <AAM>[H:27][O:16][c:13]1[n:9][cH:14][n:15][c:17]2[c:18]1[n:19][cH:8][n:6]2[CH:7]3[O:5][CH:4]([CH2:1][OH:3])[CH:2]([OH:10])[CH:11]3[OH:12].[H:34][OH:20]&gt;&gt;[OH:3][CH2:1][CH:4]1[O:5][CH:7]([OH:20])[CH:11]([OH:12])[CH:2]1[OH:10].[H:34][n:9]1[cH:14][n:15][c:17]2[n:6][cH:8][n:19]([H:27])[c:18]2[c:13]1=[O:16]</AAM>
+      <AAM>[H:30][O:13][c:16]1[n:17][cH:3][n:18][c:10]2[c:5]1[n:9][cH:19][n:7]2[CH:1]3[O:8][CH:15]([CH2:4][OH:14])[CH:6]([OH:11])[CH:2]3[OH:12].[H:34][OH:20]&gt;&gt;[OH:14][CH2:4][CH:15]1[O:8][CH:1]([OH:20])[CH:2]([OH:12])[CH:6]1[OH:11].[H:30][n:17]1[cH:3][n:18][c:10]2[n:7][cH:19][n:9]([H:34])[c:5]2[c:16]1=[O:13]</AAM>
       <SCORE>7</SCORE>
       <CHAOS>0 &lt;=&gt; 19</CHAOS>
       <SIGMA>0</SIGMA>
@@ -12,7 +13,7 @@
       <DELTA>24E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Global Maximization Model">
-      <AAM>[H:27][O:16][c:13]1[n:9][cH:14][n:15][c:17]2[c:18]1[n:19][cH:8][n:6]2[CH:7]3[O:5][CH:4]([CH2:1][OH:3])[CH:2]([OH:10])[CH:11]3[OH:12].[H:34][OH:20]&gt;&gt;[OH:3][CH2:1][CH:4]1[O:5][CH:7]([OH:20])[CH:11]([OH:12])[CH:2]1[OH:10].[H:34][n:9]1[cH:14][n:15][c:17]2[n:6][cH:8][n:19]([H:27])[c:18]2[c:13]1=[O:16]</AAM>
+      <AAM>[H:30][O:13][c:16]1[n:17][cH:3][n:18][c:10]2[c:5]1[n:9][cH:19][n:7]2[CH:1]3[O:8][CH:15]([CH2:4][OH:14])[CH:6]([OH:11])[CH:2]3[OH:12].[H:34][OH:20]&gt;&gt;[OH:14][CH2:4][CH:15]1[O:8][CH:1]([OH:20])[CH:2]([OH:12])[CH:6]1[OH:11].[H:30][n:17]1[cH:3][n:18][c:10]2[n:7][cH:19][n:9]([H:34])[c:5]2[c:16]1=[O:13]</AAM>
       <SCORE>7</SCORE>
       <CHAOS>0 &lt;=&gt; 19</CHAOS>
       <SIGMA>0</SIGMA>
@@ -20,7 +21,7 @@
       <DELTA>24E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
-      <AAM>[H:27][O:16][c:13]1[n:9][cH:14][n:15][c:17]2[c:18]1[n:19][cH:8][n:6]2[CH:7]3[O:5][CH:4]([CH2:1][OH:3])[CH:2]([OH:10])[CH:11]3[OH:12].[H:34][OH:20]&gt;&gt;[OH:3][CH2:1][CH:4]1[O:5][CH:7]([OH:20])[CH:11]([OH:12])[CH:2]1[OH:10].[H:34][n:9]1[cH:14][n:15][c:17]2[n:6][cH:8][n:19]([H:27])[c:18]2[c:13]1=[O:16]</AAM>
+      <AAM>[H:30][O:13][c:16]1[n:17][cH:3][n:18][c:10]2[c:5]1[n:9][cH:19][n:7]2[CH:1]3[O:8][CH:15]([CH2:4][OH:14])[CH:6]([OH:11])[CH:2]3[OH:12].[H:34][OH:20]&gt;&gt;[OH:14][CH2:4][CH:15]1[O:8][CH:1]([OH:20])[CH:2]([OH:12])[CH:6]1[OH:11].[H:30][n:17]1[cH:3][n:18][c:10]2[n:7][cH:19][n:9]([H:34])[c:5]2[c:16]1=[O:13]</AAM>
       <SCORE>7</SCORE>
       <CHAOS>0 &lt;=&gt; 19</CHAOS>
       <SIGMA>0</SIGMA>
@@ -28,7 +29,7 @@
       <DELTA>24E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Ring Conservation Model">
-      <AAM>[H:27][O:16][c:13]1[n:9][cH:14][n:15][c:17]2[c:18]1[n:19][cH:8][n:6]2[CH:7]3[O:5][CH:4]([CH2:1][OH:3])[CH:2]([OH:10])[CH:11]3[OH:12].[H:34][OH:20]&gt;&gt;[OH:3][CH2:1][CH:4]1[O:5][CH:7]([OH:20])[CH:11]([OH:12])[CH:2]1[OH:10].[H:34][n:9]1[cH:14][n:15][c:17]2[n:6][cH:8][n:19]([H:27])[c:18]2[c:13]1=[O:16]</AAM>
+      <AAM>[H:30][O:13][c:16]1[n:17][cH:3][n:18][c:10]2[c:5]1[n:9][cH:19][n:7]2[CH:1]3[O:8][CH:15]([CH2:4][OH:14])[CH:6]([OH:11])[CH:2]3[OH:12].[H:34][OH:20]&gt;&gt;[OH:14][CH2:4][CH:15]1[O:8][CH:1]([OH:20])[CH:2]([OH:12])[CH:6]1[OH:11].[H:30][n:17]1[cH:3][n:18][c:10]2[n:7][cH:19][n:9]([H:34])[c:5]2[c:16]1=[O:13]</AAM>
       <SCORE>7</SCORE>
       <CHAOS>0 &lt;=&gt; 19</CHAOS>
       <SIGMA>0</SIGMA>
