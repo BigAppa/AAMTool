@@ -2,7 +2,7 @@
 <EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[H:22][O:12][CH:11]([CH2:6][OH:3])[CH:10]([OH:8])[CH:9]([OH:7])[CH:4]([OH:5])[CH:2]=[O:1]&gt;&gt;[H:22][O:1][CH:2]1[O:12][CH:11]([CH2:6][OH:3])[CH:10]([OH:8])[CH:9]([OH:7])[CH:4]1[OH:5]</AAM>
+      <AAM>[H:17][O:8][CH:5]([CH2:4][OH:7])[CH:1]([OH:9])[CH:3]([OH:12])[CH:6]([OH:10])[CH:2]=[O:11]&gt;&gt;[H:17][O:11][CH:2]1[O:8][CH:5]([CH2:4][OH:7])[CH:1]([OH:9])[CH:3]([OH:12])[CH:6]1[OH:10]</AAM>
     </MAPPING>
   </ANNOTATION>
 </EC_BLAST>
