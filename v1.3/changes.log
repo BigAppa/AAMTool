@@ -36,6 +36,11 @@ d) 2D relayout for missing atoms.
 e) Accept user defined customised AAM for balanced
    reaction.
 f) Automorphism.
+
+-----------------------
+Changes (31/04/2014)
+-----------------------
+a) Code optimisation (large rings).
  
 -----------------------
 TO DO
