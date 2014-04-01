@@ -41,7 +41,8 @@ f) Automorphism.
 Changes (31/04/2014)
 -----------------------
 a) Code optimisation (large rings).
- 
+b) Intuitive error message for unbalanced reaction. 
+
 -----------------------
 TO DO
 -----------------------
