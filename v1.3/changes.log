@@ -49,7 +49,9 @@ Changes (02/04/2014)
 a) RXN file property block with unsupported potential
    DIAT COORDINATE BOND TYPE handled.
 b) Fixed Thread bug in MCSPlus algorithm.
-
+c) Radical based changes highlighted in the images.
+d) Image size optimized 2048*600.
+e) Unique naming sensitive to Radicals.
 
 -----------------------
 TO DO
