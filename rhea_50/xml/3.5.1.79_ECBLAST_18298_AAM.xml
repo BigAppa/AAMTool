@@ -5,20 +5,20 @@
       <AAM>[*:5][NH:13][C:6](=[O:8])[c:9]1[cH:11][cH:4][cH:3][cH:2][c:1]1[C:7](=[O:10])[O-:12].[H:20][O:14][H:21]&gt;&gt;[O:8]=[C:6]([O-:14])[c:9]1[cH:11][cH:4][cH:3][cH:2][c:1]1[C:7](=[O:10])[O-:12].[*:5][NH+:13]([H:20])[H:21]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
-      <AAM>[*:5][NH:13][C:6](=[O:8])[c:9]1[cH:11][cH:4][cH:3][cH:2][c:1]1[C:7](=[O:10])[O-:12].[H:20][O:14][H:21]&gt;&gt;[O:10]=[C:7]([O-:12])[c:1]1[cH:2][cH:3][cH:4][cH:11][c:9]1[C:6](=[O:14])[O-:8].[*:5][NH+:13]([H:20])[H:21]</AAM>
-      <SCORE>7</SCORE>
+      <AAM>[*:5][NH:13][C:6](=[O:8])[c:9]1[cH:11][cH:4][cH:3][cH:2][c:1]1[C:7](=[O:10])[O-:12].[H:20][O:14][H:21]&gt;&gt;[O:8]=[C:6]([O-:14])[c:9]1[cH:11][cH:4][cH:3][cH:2][c:1]1[C:7](=[O:10])[O-:12].[*:5][NH+:13]([H:20])[H:21]</AAM>
+      <SCORE>6</SCORE>
       <CHAOS>0 &lt;=&gt; 8</CHAOS>
       <SIGMA>0</SIGMA>
-      <ENERGY>11E02</ENERGY>
-      <DELTA>28E02</DELTA>
+      <ENERGY>6.6E02</ENERGY>
+      <DELTA>24E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Global Maximization Model">
-      <AAM>[*:5][NH:13][C:6](=[O:8])[c:9]1[cH:11][cH:4][cH:3][cH:2][c:1]1[C:7](=[O:10])[O-:12].[H:20][O:14][H:21]&gt;&gt;[O:10]=[C:7]([O-:12])[c:1]1[cH:2][cH:3][cH:4][cH:11][c:9]1[C:6](=[O:14])[O-:8].[*:5][NH+:13]([H:20])[H:21]</AAM>
-      <SCORE>7</SCORE>
+      <AAM>[*:5][NH:13][C:6](=[O:8])[c:9]1[cH:11][cH:4][cH:3][cH:2][c:1]1[C:7](=[O:10])[O-:12].[H:20][O:14][H:21]&gt;&gt;[O:8]=[C:6]([O-:14])[c:9]1[cH:11][cH:4][cH:3][cH:2][c:1]1[C:7](=[O:10])[O-:12].[*:5][NH+:13]([H:20])[H:21]</AAM>
+      <SCORE>6</SCORE>
       <CHAOS>0 &lt;=&gt; 8</CHAOS>
       <SIGMA>0</SIGMA>
-      <ENERGY>11E02</ENERGY>
-      <DELTA>28E02</DELTA>
+      <ENERGY>6.6E02</ENERGY>
+      <DELTA>24E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
       <AAM>[*:5][NH:13][C:6](=[O:8])[c:9]1[cH:11][cH:4][cH:3][cH:2][c:1]1[C:7](=[O:10])[O-:12].[H:20][O:14][H:21]&gt;&gt;[O:8]=[C:6]([O-:14])[c:9]1[cH:11][cH:4][cH:3][cH:2][c:1]1[C:7](=[O:10])[O-:12].[*:5][NH+:13]([H:20])[H:21]</AAM>

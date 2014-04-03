@@ -13,24 +13,24 @@
       <DELTA>39E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Global Maximization Model">
-      <AAM>[H:24][N+:11]([H:25])([H:26])[CH:1]([C:12](=[O:4])[O-:13])[CH2:9][CH2:3][CH:7]([H:23])[NH:10][C:2](=[NH2+:5])[NH:6][OH:8]&gt;&gt;[O:13]=[C:12]([O-:4])[CH:1]1[N:11]=[CH:7][CH2:3][CH2:9]1.[H:24][NH:6][C:2]([NH:10][H:26])=[NH2+:5].[H:25][OH:8].[H+:23]</AAM>
-      <SCORE>12</SCORE>
+      <AAM>[H:24][N+:11]([H:25])([H:26])[CH:1]([C:12](=[O:4])[O-:13])[CH2:9][CH2:3][CH:7]([H:23])[NH:10][C:2](=[NH2+:5])[NH:6][OH:8]&gt;&gt;[O:4]=[C:12]([O-:13])[CH:1]1[N:11]=[CH:7][CH2:3][CH2:9]1.[H:24][NH:6][C:2]([NH:10][H:26])=[NH2+:5].[H:25][OH:8].[H+:23]</AAM>
+      <SCORE>10</SCORE>
       <CHAOS>0 &lt;=&gt; 33</CHAOS>
       <SIGMA>0</SIGMA>
       <ENERGY>8.1E02</ENERGY>
       <DELTA>39E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
-      <AAM>[H:24][N+:11]([H:25])([H:26])[CH:1]([C:12](=[O:4])[O-:13])[CH2:9][CH2:3][CH:7]([H:23])[NH:10][C:2](=[NH2+:5])[NH:6][OH:8]&gt;&gt;[O:13]=[C:12]([O-:4])[CH:1]1[N:11]=[CH:7][CH2:3][CH2:9]1.[H:24][NH:6][C:2]([NH:10][H:26])=[NH2+:5].[H:25][OH:8].[H+:23]</AAM>
-      <SCORE>12</SCORE>
+      <AAM>[H:24][N+:11]([H:25])([H:26])[CH:1]([C:12](=[O:4])[O-:13])[CH2:9][CH2:3][CH:7]([H:23])[NH:10][C:2](=[NH2+:5])[NH:6][OH:8]&gt;&gt;[O:4]=[C:12]([O-:13])[CH:1]1[N:11]=[CH:7][CH2:3][CH2:9]1.[H:24][NH:6][C:2]([NH:10][H:26])=[NH2+:5].[H:25][OH:8].[H+:23]</AAM>
+      <SCORE>10</SCORE>
       <CHAOS>0 &lt;=&gt; 33</CHAOS>
       <SIGMA>0</SIGMA>
       <ENERGY>8.1E02</ENERGY>
       <DELTA>39E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Ring Conservation Model">
-      <AAM>[H:24][N+:11]([H:25])([H:26])[CH:1]([C:12](=[O:4])[O-:13])[CH2:9][CH2:3][CH:7]([H:23])[NH:10][C:2](=[NH2+:5])[NH:6][OH:8]&gt;&gt;[O:13]=[C:12]([O-:4])[CH:1]1[N:11]=[CH:7][CH2:3][CH2:9]1.[H:24][NH:6][C:2]([NH:10][H:26])=[NH2+:5].[H:25][OH:8].[H+:23]</AAM>
-      <SCORE>12</SCORE>
+      <AAM>[H:24][N+:11]([H:25])([H:26])[CH:1]([C:12](=[O:4])[O-:13])[CH2:9][CH2:3][CH:7]([H:23])[NH:10][C:2](=[NH2+:5])[NH:6][OH:8]&gt;&gt;[O:4]=[C:12]([O-:13])[CH:1]1[N:11]=[CH:7][CH2:3][CH2:9]1.[H:24][NH:6][C:2]([NH:10][H:26])=[NH2+:5].[H:25][OH:8].[H+:23]</AAM>
+      <SCORE>10</SCORE>
       <CHAOS>0 &lt;=&gt; 33</CHAOS>
       <SIGMA>0</SIGMA>
       <ENERGY>8.1E02</ENERGY>

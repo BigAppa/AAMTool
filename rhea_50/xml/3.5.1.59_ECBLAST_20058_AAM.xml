@@ -6,8 +6,8 @@
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
       <AAM>[O:3]=[C:1]([O-:7])[CH2:8][N:4]([C:5](=[O:9])[NH2:6])[CH3:2].[H:18][O:10][H:19].[H+:20].[H+:21]&gt;&gt;[H:18][N+:4]([H:19])([CH3:2])[CH2:8][C:5](=[O:9])[O-:10].[H:20][NH2+:6][H:21].[O:3]=[C:1]=[O:7]</AAM>
-      <SCORE>14</SCORE>
-      <CHAOS>2 &lt;=&gt; 21</CHAOS>
+      <SCORE>12</SCORE>
+      <CHAOS>0 &lt;=&gt; 21</CHAOS>
       <SIGMA>2</SIGMA>
       <ENERGY>17E02</ENERGY>
       <DELTA>41E02</DELTA>

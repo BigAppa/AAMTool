@@ -2,10 +2,10 @@
 <EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[OH:14][c:11]1[cH:3][cH:12][c:17]([CH:16]=[CH:2][c:8]2[cH:18][cH:4][c:10]([OH:19])[c:6]([O:5][CH3:15])[cH:13]2)[cH:9][c:1]1[O:7][CH3:20].[O:21]=[O:22]&gt;&gt;[O:21]=[CH:2][c:8]1[cH:18][cH:4][c:10]([OH:19])[c:6]([O:5][CH3:15])[cH:13]1.[O:22]=[CH:16][c:17]1[cH:12][cH:3][c:11]([OH:14])[c:1]([O:7][CH3:20])[cH:9]1</AAM>
+      <AAM>[OH:3][c:10]1[cH:7][cH:13][c:14]([CH:5]=[CH:4][c:20]2[cH:16][cH:11][c:8]([OH:9])[c:17]([O:19][CH3:6])[cH:18]2)[cH:15][c:12]1[O:2][CH3:1].[O:21]=[O:22]&gt;&gt;[O:21]=[CH:4][c:20]1[cH:16][cH:11][c:8]([OH:9])[c:17]([O:19][CH3:6])[cH:18]1.[O:22]=[CH:5][c:14]1[cH:13][cH:7][c:10]([OH:3])[c:12]([O:2][CH3:1])[cH:15]1</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
-      <AAM>[OH:14][c:11]1[cH:3][cH:12][c:17]([CH:16]=[CH:2][c:8]2[cH:18][cH:4][c:10]([OH:19])[c:6]([O:5][CH3:15])[cH:13]2)[cH:9][c:1]1[O:7][CH3:20].[O:21]=[O:22]&gt;&gt;[O:21]=[CH:2][c:8]1[cH:18][cH:4][c:10]([OH:19])[c:6]([O:5][CH3:15])[cH:13]1.[O:22]=[CH:16][c:17]1[cH:12][cH:3][c:11]([OH:14])[c:1]([O:7][CH3:20])[cH:9]1</AAM>
+      <AAM>[OH:3][c:10]1[cH:7][cH:13][c:14]([CH:5]=[CH:4][c:20]2[cH:16][cH:11][c:8]([OH:9])[c:17]([O:19][CH3:6])[cH:18]2)[cH:15][c:12]1[O:2][CH3:1].[O:21]=[O:22]&gt;&gt;[O:21]=[CH:4][c:20]1[cH:16][cH:11][c:8]([OH:9])[c:17]([O:19][CH3:6])[cH:18]1.[O:22]=[CH:5][c:14]1[cH:13][cH:7][c:10]([OH:3])[c:12]([O:2][CH3:1])[cH:15]1</AAM>
       <SCORE>4</SCORE>
       <CHAOS>0 &lt;=&gt; 21</CHAOS>
       <SIGMA>1</SIGMA>
@@ -13,7 +13,7 @@
       <DELTA>27E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Global Maximization Model">
-      <AAM>[OH:14][c:11]1[cH:3][cH:12][c:17]([CH:16]=[CH:2][c:8]2[cH:18][cH:4][c:10]([OH:19])[c:6]([O:5][CH3:15])[cH:13]2)[cH:9][c:1]1[O:7][CH3:20].[O:21]=[O:22]&gt;&gt;[O:21]=[CH:2][c:8]1[cH:18][cH:4][c:10]([OH:19])[c:6]([O:5][CH3:15])[cH:13]1.[O:22]=[CH:16][c:17]1[cH:12][cH:3][c:11]([OH:14])[c:1]([O:7][CH3:20])[cH:9]1</AAM>
+      <AAM>[OH:3][c:10]1[cH:7][cH:13][c:14]([CH:5]=[CH:4][c:20]2[cH:16][cH:11][c:8]([OH:9])[c:17]([O:19][CH3:6])[cH:18]2)[cH:15][c:12]1[O:2][CH3:1].[O:21]=[O:22]&gt;&gt;[O:21]=[CH:4][c:20]1[cH:16][cH:11][c:8]([OH:9])[c:17]([O:19][CH3:6])[cH:18]1.[O:22]=[CH:5][c:14]1[cH:13][cH:7][c:10]([OH:3])[c:12]([O:2][CH3:1])[cH:15]1</AAM>
       <SCORE>4</SCORE>
       <CHAOS>0 &lt;=&gt; 21</CHAOS>
       <SIGMA>1</SIGMA>
@@ -21,7 +21,7 @@
       <DELTA>27E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
-      <AAM>[OH:14][c:11]1[cH:3][cH:12][c:17]([CH:16]=[CH:2][c:8]2[cH:18][cH:4][c:10]([OH:19])[c:6]([O:5][CH3:15])[cH:13]2)[cH:9][c:1]1[O:7][CH3:20].[O:21]=[O:22]&gt;&gt;[O:21]=[CH:2][c:8]1[cH:18][cH:4][c:10]([OH:19])[c:6]([O:5][CH3:15])[cH:13]1.[O:22]=[CH:16][c:17]1[cH:12][cH:3][c:11]([OH:14])[c:1]([O:7][CH3:20])[cH:9]1</AAM>
+      <AAM>[OH:3][c:10]1[cH:7][cH:13][c:14]([CH:5]=[CH:4][c:20]2[cH:16][cH:11][c:8]([OH:9])[c:17]([O:19][CH3:6])[cH:18]2)[cH:15][c:12]1[O:2][CH3:1].[O:21]=[O:22]&gt;&gt;[O:21]=[CH:4][c:20]1[cH:16][cH:11][c:8]([OH:9])[c:17]([O:19][CH3:6])[cH:18]1.[O:22]=[CH:5][c:14]1[cH:13][cH:7][c:10]([OH:3])[c:12]([O:2][CH3:1])[cH:15]1</AAM>
       <SCORE>4</SCORE>
       <CHAOS>0 &lt;=&gt; 21</CHAOS>
       <SIGMA>1</SIGMA>
@@ -29,7 +29,7 @@
       <DELTA>27E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Ring Conservation Model">
-      <AAM>[OH:14][c:11]1[cH:3][cH:12][c:17]([CH:16]=[CH:2][c:8]2[cH:18][cH:4][c:10]([OH:19])[c:6]([O:5][CH3:15])[cH:13]2)[cH:9][c:1]1[O:7][CH3:20].[O:21]=[O:22]&gt;&gt;[O:21]=[CH:2][c:8]1[cH:18][cH:4][c:10]([OH:19])[c:6]([O:5][CH3:15])[cH:13]1.[O:22]=[CH:16][c:17]1[cH:12][cH:3][c:11]([OH:14])[c:1]([O:7][CH3:20])[cH:9]1</AAM>
+      <AAM>[OH:3][c:10]1[cH:7][cH:13][c:14]([CH:5]=[CH:4][c:20]2[cH:16][cH:11][c:8]([OH:9])[c:17]([O:19][CH3:6])[cH:18]2)[cH:15][c:12]1[O:2][CH3:1].[O:21]=[O:22]&gt;&gt;[O:21]=[CH:4][c:20]1[cH:16][cH:11][c:8]([OH:9])[c:17]([O:19][CH3:6])[cH:18]1.[O:22]=[CH:5][c:14]1[cH:13][cH:7][c:10]([OH:3])[c:12]([O:2][CH3:1])[cH:15]1</AAM>
       <SCORE>4</SCORE>
       <CHAOS>0 &lt;=&gt; 21</CHAOS>
       <SIGMA>1</SIGMA>
