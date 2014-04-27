@@ -5,12 +5,12 @@
       <AAM>[O:7]=[C:5]([NH2:6])[NH:1][CH:4]([NH:9][C:8](=[O:10])[NH2:3])[C:2](=[O:12])[O-:11].[H:21][O:13][H:22].[H+:23].[H+:24]&gt;&gt;[H:21][NH+:1]([H:22])[CH:4]([NH:9][C:8](=[O:10])[NH2:3])[C:2](=[O:12])[O-:11].[H:23][NH2+:6][H:24].[O:7]=[C:5]=[O:13]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
-      <AAM>[O:7]=[C:5]([NH2:6])[NH:1][CH:4]([NH:9][C:8](=[O:10])[NH2:3])[C:2](=[O:12])[O-:11].[H:21][O:13][H:22].[H+:23].[H+:24]&gt;&gt;[H:21][NH2+:6][CH:4]([NH:9][C:8](=[O:10])[NH2:3])[C:5](=[O:7])[O-:13].[H:22][NH+:1]([H:23])[H:24].[O:11]=[C:2]=[O:12]</AAM>
-      <SCORE>14</SCORE>
-      <CHAOS>0 &lt;=&gt; 32</CHAOS>
+      <AAM>[O:7]=[C:5]([NH2:6])[NH:1][CH:4]([NH:9][C:8](=[O:10])[NH2:3])[C:2](=[O:12])[O-:11].[H:21][O:13][H:22].[H+:23].[H+:24]&gt;&gt;[H:21][NH+:9]([H:22])[CH:4]([NH:1][C:5](=[O:7])[NH2:6])[C:8](=[O:10])[O-:13].[H:23][NH2+:3][H:24].[O:11]=[C:2]=[O:12]</AAM>
+      <SCORE>12</SCORE>
+      <CHAOS>0 &lt;=&gt; 21</CHAOS>
       <SIGMA>2</SIGMA>
-      <ENERGY>23E02</ENERGY>
-      <DELTA>47E02</DELTA>
+      <ENERGY>17E02</ENERGY>
+      <DELTA>41E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Global Maximization Model">
       <AAM>[O:7]=[C:5]([NH2:6])[NH:1][CH:4]([NH:9][C:8](=[O:10])[NH2:3])[C:2](=[O:12])[O-:11].[H:21][O:13][H:22].[H+:23].[H+:24]&gt;&gt;[H:21][NH+:1]([H:22])[CH:4]([NH:9][C:8](=[O:10])[NH2:3])[C:2](=[O:12])[O-:11].[H:23][NH2+:6][H:24].[O:7]=[C:5]=[O:13]</AAM>

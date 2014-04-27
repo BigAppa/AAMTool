@@ -2,10 +2,10 @@
 <EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[SH2:1].&gt;&gt;[SH-:1].[H+:3]</AAM>
+      <AAM>[H:4][SH:1].[HH:5]&gt;&gt;[SH-:1].[H+:3]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
-      <AAM>[SH2:1].&gt;&gt;[SH-:1].[H+:3]</AAM>
+      <AAM>[H:4][SH:1].[HH:5]&gt;&gt;[SH-:1].[H+:3]</AAM>
       <SCORE>0</SCORE>
       <CHAOS>0 &lt;=&gt; 0</CHAOS>
       <SIGMA>0</SIGMA>
@@ -13,7 +13,7 @@
       <DELTA>0E00</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Global Maximization Model">
-      <AAM>[SH2:1].&gt;&gt;[SH-:1].[H+:3]</AAM>
+      <AAM>[H:4][SH:1].[HH:5]&gt;&gt;[SH-:1].[H+:3]</AAM>
       <SCORE>0</SCORE>
       <CHAOS>0 &lt;=&gt; 0</CHAOS>
       <SIGMA>0</SIGMA>
@@ -21,7 +21,7 @@
       <DELTA>0E00</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
-      <AAM>[SH2:1].&gt;&gt;[SH-:1].[H+:3]</AAM>
+      <AAM>[H:4][SH:1].[HH:5]&gt;&gt;[SH-:1].[H+:3]</AAM>
       <SCORE>0</SCORE>
       <CHAOS>0 &lt;=&gt; 0</CHAOS>
       <SIGMA>0</SIGMA>
@@ -29,7 +29,7 @@
       <DELTA>0E00</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Ring Conservation Model">
-      <AAM>[SH2:1].&gt;&gt;[SH-:1].[H+:3]</AAM>
+      <AAM>[H:4][SH:1].[HH:5]&gt;&gt;[SH-:1].[H+:3]</AAM>
       <SCORE>0</SCORE>
       <CHAOS>0 &lt;=&gt; 0</CHAOS>
       <SIGMA>0</SIGMA>

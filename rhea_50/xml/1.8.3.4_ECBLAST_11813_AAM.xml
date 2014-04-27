@@ -2,10 +2,10 @@
 <EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[H:6][CH2:1][SH:2].[H:10][O:3][H:11].[O:4]=[O:5]&gt;&gt;[H:6][O:5][O:4][H:10].[O:3]=[CH2:1].[SH-:2].[H+:11]</AAM>
+      <AAM>[H:6][CH2:1][SH:2].[H:10][O:3][H:11].[O:4]=[O:5]&gt;&gt;[H:6][O:4][O:5][H:10].[O:3]=[CH2:1].[SH-:2].[H+:11]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
-      <AAM>[H:6][CH2:1][SH:2].[H:10][O:3][H:11].[O:4]=[O:5]&gt;&gt;[H:6][O:5][O:4][H:10].[O:3]=[CH2:1].[SH-:2].[H+:11]</AAM>
+      <AAM>[H:6][CH2:1][SH:2].[H:10][O:3][H:11].[O:4]=[O:5]&gt;&gt;[H:6][O:4][O:5][H:10].[O:3]=[CH2:1].[SH-:2].[H+:11]</AAM>
       <SCORE>8</SCORE>
       <CHAOS>0 &lt;=&gt; 8</CHAOS>
       <SIGMA>0</SIGMA>
@@ -13,7 +13,7 @@
       <DELTA>33E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Global Maximization Model">
-      <AAM>[H:6][CH2:1][SH:2].[H:10][O:3][H:11].[O:4]=[O:5]&gt;&gt;[H:6][O:5][O:4][H:10].[O:3]=[CH2:1].[SH-:2].[H+:11]</AAM>
+      <AAM>[H:6][CH2:1][SH:2].[H:10][O:3][H:11].[O:4]=[O:5]&gt;&gt;[H:6][O:4][O:5][H:10].[O:3]=[CH2:1].[SH-:2].[H+:11]</AAM>
       <SCORE>8</SCORE>
       <CHAOS>0 &lt;=&gt; 8</CHAOS>
       <SIGMA>0</SIGMA>
@@ -21,7 +21,7 @@
       <DELTA>33E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
-      <AAM>[H:6][CH2:1][SH:2].[H:10][O:3][H:11].[O:4]=[O:5]&gt;&gt;[H:6][O:5][O:4][H:10].[O:3]=[CH2:1].[SH-:2].[H+:11]</AAM>
+      <AAM>[H:6][CH2:1][SH:2].[H:10][O:3][H:11].[O:4]=[O:5]&gt;&gt;[H:6][O:4][O:5][H:10].[O:3]=[CH2:1].[SH-:2].[H+:11]</AAM>
       <SCORE>8</SCORE>
       <CHAOS>0 &lt;=&gt; 8</CHAOS>
       <SIGMA>0</SIGMA>
@@ -29,7 +29,7 @@
       <DELTA>33E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Ring Conservation Model">
-      <AAM>[H:6][CH2:1][SH:2].[H:10][O:3][H:11].[O:4]=[O:5]&gt;&gt;[H:6][O:5][O:4][H:10].[O:3]=[CH2:1].[SH-:2].[H+:11]</AAM>
+      <AAM>[H:6][CH2:1][SH:2].[H:10][O:3][H:11].[O:4]=[O:5]&gt;&gt;[H:6][O:4][O:5][H:10].[O:3]=[CH2:1].[SH-:2].[H+:11]</AAM>
       <SCORE>8</SCORE>
       <CHAOS>0 &lt;=&gt; 8</CHAOS>
       <SIGMA>0</SIGMA>

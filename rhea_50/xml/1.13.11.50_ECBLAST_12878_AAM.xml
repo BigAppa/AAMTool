@@ -2,10 +2,10 @@
 <EC_BLAST>
   <ANNOTATION>
     <MAPPING STATUS="SELECTED">
-      <AAM>[H:13][CH:2]([C:1](=[O:3])[CH3:5])[C:4](=[O:6])[CH3:7].[O:8]=[O:9]&gt;&gt;[O:8]=[CH:2][C:4](=[O:6])[CH3:7].[O:3]=[C:1]([O-:9])[CH3:5].[H+:13]</AAM>
+      <AAM>[H:13][CH:2]([C:1](=[O:3])[CH3:5])[C:4](=[O:6])[CH3:7].[O:8]=[O:9]&gt;&gt;[O:8]=[CH:2][C:1](=[O:3])[CH3:5].[O:6]=[C:4]([O-:9])[CH3:7].[H+:13]</AAM>
     </MAPPING>
     <MAPPING ALGORTIHM="Local Minimization Model">
-      <AAM>[H:13][CH:2]([C:1](=[O:3])[CH3:5])[C:4](=[O:6])[CH3:7].[O:8]=[O:9]&gt;&gt;[O:8]=[CH:2][C:4](=[O:6])[CH3:7].[O:3]=[C:1]([O-:9])[CH3:5].[H+:13]</AAM>
+      <AAM>[H:13][CH:2]([C:1](=[O:3])[CH3:5])[C:4](=[O:6])[CH3:7].[O:8]=[O:9]&gt;&gt;[O:8]=[CH:2][C:1](=[O:3])[CH3:5].[O:6]=[C:4]([O-:9])[CH3:7].[H+:13]</AAM>
       <SCORE>5</SCORE>
       <CHAOS>0 &lt;=&gt; 10</CHAOS>
       <SIGMA>1</SIGMA>
@@ -13,7 +13,7 @@
       <DELTA>24E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Global Maximization Model">
-      <AAM>[H:13][CH:2]([C:1](=[O:3])[CH3:5])[C:4](=[O:6])[CH3:7].[O:8]=[O:9]&gt;&gt;[O:8]=[CH:2][C:4](=[O:6])[CH3:7].[O:3]=[C:1]([O-:9])[CH3:5].[H+:13]</AAM>
+      <AAM>[H:13][CH:2]([C:1](=[O:3])[CH3:5])[C:4](=[O:6])[CH3:7].[O:8]=[O:9]&gt;&gt;[O:8]=[CH:2][C:1](=[O:3])[CH3:5].[O:6]=[C:4]([O-:9])[CH3:7].[H+:13]</AAM>
       <SCORE>5</SCORE>
       <CHAOS>0 &lt;=&gt; 10</CHAOS>
       <SIGMA>1</SIGMA>

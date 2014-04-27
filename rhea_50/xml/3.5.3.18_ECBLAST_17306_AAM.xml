@@ -21,20 +21,20 @@
       <DELTA>28E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Max-Mixture Model">
-      <AAM>[O:9]=[C:11]([O-:5])[CH:3]([NH3+:6])[CH2:7][CH2:12][CH2:2][NH:13][C:1](=[NH2+:14])[N:8]([CH3:4])[CH3:10].[H:35][O:15][H:36]&gt;&gt;[H:35][N:8]([H:36])[C:1](=[O:15])[NH:13][CH2:2][CH2:12][CH2:7][CH:3]([C:11](=[O:9])[O-:5])[NH3+:6].[CH3:4][NH2+:14][CH3:10]</AAM>
-      <SCORE>10</SCORE>
-      <CHAOS>0 &lt;=&gt; 24</CHAOS>
+      <AAM>[O:9]=[C:11]([O-:5])[CH:3]([NH3+:6])[CH2:7][CH2:12][CH2:2][NH:13][C:1](=[NH2+:14])[N:8]([CH3:4])[CH3:10].[H:35][O:15][H:36]&gt;&gt;[O:15]=[C:1]([NH2:14])[NH:13][CH2:2][CH2:12][CH2:7][CH:3]([C:11](=[O:9])[O-:5])[NH3+:6].[H:35][N+:8]([H:36])([CH3:4])[CH3:10]</AAM>
+      <SCORE>7</SCORE>
+      <CHAOS>0 &lt;=&gt; 14</CHAOS>
       <SIGMA>0</SIGMA>
-      <ENERGY>26E02</ENERGY>
-      <DELTA>43E02</DELTA>
+      <ENERGY>11E02</ENERGY>
+      <DELTA>28E02</DELTA>
     </MAPPING>
     <MAPPING ALGORTIHM="Ring Conservation Model">
-      <AAM>[O:9]=[C:11]([O-:5])[CH:3]([NH3+:6])[CH2:7][CH2:12][CH2:2][NH:13][C:1](=[NH2+:14])[N:8]([CH3:4])[CH3:10].[H:35][O:15][H:36]&gt;&gt;[H:35][N:8]([H:36])[C:1](=[O:15])[NH:13][CH2:2][CH2:12][CH2:7][CH:3]([C:11](=[O:9])[O-:5])[NH3+:6].[CH3:4][NH2+:14][CH3:10]</AAM>
-      <SCORE>10</SCORE>
-      <CHAOS>0 &lt;=&gt; 24</CHAOS>
+      <AAM>[O:9]=[C:11]([O-:5])[CH:3]([NH3+:6])[CH2:7][CH2:12][CH2:2][NH:13][C:1](=[NH2+:14])[N:8]([CH3:4])[CH3:10].[H:35][O:15][H:36]&gt;&gt;[O:15]=[C:1]([NH2:14])[NH:13][CH2:2][CH2:12][CH2:7][CH:3]([C:11](=[O:9])[O-:5])[NH3+:6].[H:35][N+:8]([H:36])([CH3:4])[CH3:10]</AAM>
+      <SCORE>7</SCORE>
+      <CHAOS>0 &lt;=&gt; 14</CHAOS>
       <SIGMA>0</SIGMA>
-      <ENERGY>26E02</ENERGY>
-      <DELTA>43E02</DELTA>
+      <ENERGY>11E02</ENERGY>
+      <DELTA>28E02</DELTA>
     </MAPPING>
   </ANNOTATION>
 </EC_BLAST>
