@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<EC_BLAST>
-  <ANNOTATION>
-    <MAPPING STATUS="SELECTED">
-      <AAM>[H:30][C:15]=1[C:12](=[O:11])[CH2:19][CH:20]([CH2:28][CH:25]([S:22][C:13]2[CH:3][CH:16][C:29]([CH:27][CH:9]2)[C:26]([F:6])([F:14])[F:23])[CH3:18])[CH:17]([C:10](=[O:7])[O:8][CH3:5])[C:1]1[O:4][C:2](=[O:21])[CH3:24]&gt;&gt;[H:30][O:4][C:1]1=[C:15]([C:2](=[O:21])[CH3:24])[C:12](=[O:11])[CH2:19][CH:20]([CH2:28][CH:25]([S:22][C:13]2[CH:3][CH:16][C:29]([CH:27][CH:9]2)[C:26]([F:6])([F:14])[F:23])[CH3:18])[CH:17]1[C:10](=[O:7])[O:8][CH3:5]</AAM>
-    </MAPPING>
-  </ANNOTATION>
-</EC_BLAST>
