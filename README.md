@@ -36,6 +36,6 @@ The AAMTool is licensed under Creative Commons (CC) license.
 
 ### JAR
 
-Download the jar from https://sourceforge.net/projects/aamtool/
+Download the jar http://sourceforge.net/projects/reactiondecoder/
 
 
