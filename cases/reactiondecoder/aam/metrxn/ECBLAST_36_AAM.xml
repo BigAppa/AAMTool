@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EC_BLAST>
+  <ANNOTATION>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[H:22][O:8][C:6]([H:18])([CH2:3][OH:1])[C:10]([H:24])([OH:12])[C:2]([H:20])([OH:4])[C:5]([H:21])([OH:7])[C:9]([H:23])=[O:11]&gt;&gt;[H:18][O:11][C:9]1[O:8][C:6]([C:10]([OH:12])[C:2]([OH:4])[C:5]1[OH:7])[CH2:3][OH:1]</AAM>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>

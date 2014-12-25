@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EC_BLAST>
+  <ANNOTATION>
+    <MAPPING STATUS="SELECTED">
+      <AAM>[H:25][C:8](=[N+:1]=[O:3])[C:7]:1:[CH:6]:[CH:4]:[CH:2]:[CH:9]:[CH:5]1.[H:26][C:10]1([O:12][CH2:13]1)[CH:14]=[CH2:11]&gt;&gt;[O:3]=[C:8]1[O:12][CH2:13][C:10]([CH:14]=[CH2:11])[N:1]1[C:7]:2:[CH:5]:[CH:9]:[CH:2]:[CH:4]:[CH:6]2</AAM>
+    </MAPPING>
+  </ANNOTATION>
+</EC_BLAST>
