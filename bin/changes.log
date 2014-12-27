@@ -131,6 +131,12 @@ Changes (25/12/2014)
 a) SMSD with max iteration limit
 
 -----------------------
+Changes (26/12/2014)
+-----------------------
+a) Ability to process unbalanced reactions, with warnings.
+   Note: Unbalanced reaction may result in erroneous bond change assumptions.
+
+-----------------------
 TO DO
 -----------------------
 a) CDK to handle missing atom types like Fe, Co etc.
