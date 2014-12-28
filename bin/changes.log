@@ -137,6 +137,12 @@ a) Ability to process unbalanced reactions, with warnings.
    Note: Unbalanced reaction may result in erroneous bond change assumptions.
 
 -----------------------
+Changes (27/12/2014)
+-----------------------
+a) Unbalanced reaction bug fixed.
+
+
+-----------------------
 TO DO
 -----------------------
 a) CDK to handle missing atom types like Fe, Co etc.
