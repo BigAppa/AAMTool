@@ -11,28 +11,28 @@ Automatically Search and Compare Enzyme Reactions, Nature Methods.
 
 ##### using a reaction SMILES as an input:
 
-java -jar AAMTool.jar -Q SMI -q "[O]=[C]([OH])[CH2][CH]([O][C](=[O])[CH2][CH]([OH])[CH3])[CH3].[H][OH]>>[H][O][C](=[O])[CH2][CH]([OH])[CH3].[O]=[C]([OH])[CH2][CH]([OH])[CH3]" -g -j aam -f BOTH -m
+java -jar ReactionDecoder.jar -Q SMI -q "[O]=[C]([OH])[CH2][CH]([O][C](=[O])[CH2][CH]([OH])[CH3])[CH3].[H][OH]>>[H][O][C](=[O])[CH2][CH]([OH])[CH3].[O]=[C]([OH])[CH2][CH]([OH])[CH3]" -g -j AAM -f BOTH -m
 
 ##### using a reaction RXN file as an input:
 
-java -jar AAMTool.jar -Q RXN -q example.rxn -g -j aam -f BOTH -m
+java -jar ReactionDecoder.jar -Q RXN -q example.rxn -g -j AAM -f BOTH -m
 
 ######Note: This code is compatible to JVM 7.0+
 
 
 ###Key Features
 
-Atom Atom Mapping (AAM) on a balanced biochemical reaction.
+--Atom Atom Mapping (AAM) on a balanced biochemical reaction.
 
-SMILES/RXN files supported for I/O.
+--SMILES/RXN files supported for I/O.
 
-Generate image of the mapped reaction.
+--Generate image of the mapped reaction.
 
-Generate reaction patterns and bond change fingerprints.
+--Generate reaction patterns and bond change fingerprints.
 
 ###License
 
-The AAMTool is licensed under Creative Commons (CC) license.
+The ReactionDecoder is licensed under Creative Commons (CC) license.
 
 ### JAR
 
