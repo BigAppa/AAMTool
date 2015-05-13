@@ -22,7 +22,7 @@ java -jar ReactionDecoder.jar -Q RXN -q example.rxn -g -j AAM -f BOTH -m
 
 ###Key Features
 
---Atom Atom Mapping (AAM) on a balanced biochemical reaction.
+--Atom Atom Mapping (AAM) on enzymatic reactions.
 
 --SMILES/RXN files supported for I/O.
 
