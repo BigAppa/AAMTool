@@ -147,6 +147,10 @@ Changes (08/05/2015)
 a) A few bug fixes
 b) Draw aromatic bonds.
 
+-----------------------
+Changes (13/05/2015)
+-----------------------
+a) SMSD IAtom comparator
 
 -----------------------
 TO DO
