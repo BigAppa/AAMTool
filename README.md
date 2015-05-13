@@ -36,6 +36,6 @@ The ReactionDecoder is licensed under Creative Commons (CC) license.
 
 ### JAR
 
-Download the jar http://sourceforge.net/projects/reactiondecoder/
+https://github.com/asad/AAMTool/tree/master/bin/ReactionDecoder.jar 
 
 
